@@ -1,0 +1,30 @@
+# Path: sizeof
+# Arch: x86_64
+# Object files:
+[  0] linker synthesized
+[  1] sizeof.o
+[  2] /usr/lib/libSystem.dylib
+# Sections:
+# Address	Size    	Segment	Section
+0x100000F2E	0x00000048	__TEXT	__text
+0x100000F76	0x00000006	__TEXT	__stubs
+0x100000F7C	0x0000001A	__TEXT	__stub_helper
+0x100000F98	0x00000010	__TEXT	__const
+0x100000FA8	0x00000005	__TEXT	__cstring
+0x100000FB0	0x00000050	__TEXT	__eh_frame
+0x100001000	0x00000010	__DATA	__nl_symbol_ptr
+0x100001010	0x00000008	__DATA	__la_symbol_ptr
+# Symbols:
+# Address	Size    	File  Name
+0x100000F2E	0x00000048	[  1] _main
+0x100000F76	0x00000006	[  2] _printf
+0x100000F7C	0x00000010	[  0] helper helper
+0x100000F8C	0x0000000A	[  2] _printf
+0x100000F98	0x00000008	[  1] _void_sz
+0x100000FA0	0x00000008	[  1] _void_pointer_sz
+0x100000FA8	0x00000005	[  1] literal string: %ld\n
+0x100000FB0	0x00000018	[  1] CIE
+0x100000FC8	0x00000038	[  1] FDE for: _main
+0x100001000	0x00000008	[  0] non-lazy-pointer-to-local: dyld_stub_binder
+0x100001008	0x00000008	[  0] non-lazy-pointer
+0x100001010	0x00000008	[  2] _printf

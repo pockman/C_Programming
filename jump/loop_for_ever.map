@@ -1,0 +1,14 @@
+# Path: loop_for_ever
+# Arch: x86_64
+# Object files:
+[  0] linker synthesized
+[  1] loop_for_ever.o
+# Sections:
+# Address	Size    	Segment	Section
+0x100000FC6	0x00000002	__TEXT	__text_startup
+0x100000FC8	0x00000038	__TEXT	__eh_frame
+# Symbols:
+# Address	Size    	File  Name
+0x100000FC6	0x00000002	[  1] _main
+0x100000FC8	0x00000018	[  1] CIE
+0x100000FE0	0x00000020	[  1] FDE for: _main

@@ -1,0 +1,33 @@
+# Path: 234
+# Arch: x86_64
+# Object files:
+[  0] linker synthesized
+[  1] 234.o
+[  2] /usr/lib/libSystem.dylib
+# Sections:
+# Address	Size    	Segment	Section
+0x100000E42	0x000000A0	__TEXT	__text
+0x100000EE2	0x00000006	__TEXT	__stubs
+0x100000EE8	0x0000001A	__TEXT	__stub_helper
+0x100000F02	0x00000004	__TEXT	__cstring
+0x100000F08	0x000000F8	__TEXT	__eh_frame
+0x100001000	0x00000010	__DATA	__nl_symbol_ptr
+0x100001010	0x00000008	__DATA	__la_symbol_ptr
+# Symbols:
+# Address	Size    	File  Name
+0x100000E42	0x00000021	[  1] _two
+0x100000E63	0x00000021	[  1] _three
+0x100000E84	0x00000021	[  1] _four
+0x100000EA5	0x0000003D	[  1] _main
+0x100000EE2	0x00000006	[  2] _printf
+0x100000EE8	0x00000010	[  0] helper helper
+0x100000EF8	0x0000000A	[  2] _printf
+0x100000F02	0x00000004	[  1] literal string: %d\n
+0x100000F08	0x00000018	[  1] CIE
+0x100000F20	0x00000038	[  1] FDE for: _two
+0x100000F58	0x00000038	[  1] FDE for: _three
+0x100000F90	0x00000038	[  1] FDE for: _four
+0x100000FC8	0x00000038	[  1] FDE for: _main
+0x100001000	0x00000008	[  0] non-lazy-pointer-to-local: dyld_stub_binder
+0x100001008	0x00000008	[  0] non-lazy-pointer
+0x100001010	0x00000008	[  2] _printf

@@ -1,0 +1,59 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+COLS	playground.c	/^#define COLS /;"	d	file:
+DELAY	playground.c	/^#define DELAY /;"	d	file:
+DOWN	snake.h	/^typedef enum tag_move_action {UP, DOWN, LEFT, RIGHT} move_action_t;$/;"	e	enum:tag_move_action
+LEFT	snake.h	/^typedef enum tag_move_action {UP, DOWN, LEFT, RIGHT} move_action_t;$/;"	e	enum:tag_move_action
+RIGHT	snake.h	/^typedef enum tag_move_action {UP, DOWN, LEFT, RIGHT} move_action_t;$/;"	e	enum:tag_move_action
+ROWS	playground.c	/^#define ROWS /;"	d	file:
+UP	snake.h	/^typedef enum tag_move_action {UP, DOWN, LEFT, RIGHT} move_action_t;$/;"	e	enum:tag_move_action
+X_OFF	playground.c	/^#define X_OFF /;"	d	file:
+Y_OFF	playground.c	/^#define Y_OFF /;"	d	file:
+_HEAD_SNAKE_H_	snake.h	/^#define _HEAD_SNAKE_H_$/;"	d
+_move	snake.c	/^ptr_node_t _move(ptr_node_t head, bool with_food, move_action_t action) {$/;"	f
+attr_addstr	playground.c	/^static void attr_addstr(WINDOW *w, const char *s, chtype a) {$/;"	f	file:
+check_term_size	playground.c	/^static void check_term_size(int rowtot, int coltot)$/;"	f	file:
+colored_print	playground.c	/^static void colored_print(WINDOW *win, int x, int y, char *c, int color)$/;"	f	file:
+create_node	snake.c	/^ptr_node_t create_node() {$/;"	f
+current_direction	playground.c	/^static move_action_t current_direction = RIGHT;$/;"	v	file:
+destroy_node	snake.c	/^void destroy_node(ptr_node_t p) {$/;"	f
+field	playground.c	/^static WINDOW *field, *score;$/;"	v	file:
+food	playground.c	/^location_t food = {0, 0};$/;"	v
+get_front_node	snake.c	/^ptr_node_t get_front_node(ptr_node_t head) {$/;"	f
+init_snake	snake.c	/^ptr_node_t init_snake() {$/;"	f
+insert_front	snake.c	/^ptr_node_t insert_front(ptr_node_t head, ptr_node_t p) {$/;"	f
+is_empty	snake.c	/^bool is_empty(ptr_node_t head) { return head == head->next; }$/;"	f
+kill_snake	snake.c	/^void kill_snake(ptr_node_t head) {$/;"	f
+loc	snake.h	/^  location_t loc;$/;"	m	struct:tag_node
+location_t	snake.h	/^} location_t;$/;"	t	typeref:struct:tag_loc
+main	playground.c	/^int main(int argc, char *argv[]) {$/;"	f
+move_action_t	snake.h	/^typedef enum tag_move_action {UP, DOWN, LEFT, RIGHT} move_action_t;$/;"	t	typeref:enum:tag_move_action
+move_down	snake.c	/^ptr_node_t move_down(ptr_node_t head, bool with_food) {$/;"	f
+move_left	snake.c	/^ptr_node_t move_left(ptr_node_t head, bool with_food) {$/;"	f
+move_right	snake.c	/^ptr_node_t move_right(ptr_node_t head, bool with_food) {$/;"	f
+move_up	snake.c	/^ptr_node_t move_up(ptr_node_t head, bool with_food) {$/;"	f
+nc_draw_food	playground.c	/^void   nc_draw_food(WINDOW *w, chtype att) {$/;"	f
+nc_draw_snake	playground.c	/^void nc_draw_snake(WINDOW *w, ptr_node_t head, chtype att) {$/;"	f
+nc_run	playground.c	/^void nc_run(WINDOW *w, ptr_node_t head, chtype att) {$/;"	f
+nc_show_snake_dbg	playground.c	/^ptr_node_t nc_show_snake_dbg(WINDOW *w, ptr_node_t head) {$/;"	f
+next	snake.h	/^  struct tag_node *next;$/;"	m	struct:tag_node	typeref:struct:tag_node::tag_node
+node_t	snake.h	/^} node_t, *ptr_node_t;$/;"	t	typeref:struct:tag_node
+points	playground.c	/^int points = 1000;$/;"	v
+pos_inc	snake.c	/^const location_t pos_inc[] = {{0, -1}, {0, 1}, {-1, 0}, {1, 0} }; \/\/ four directions$/;"	v
+ptr_node_t	snake.h	/^} node_t, *ptr_node_t;$/;"	t	typeref:struct:tag_node
+remove_last	snake.c	/^ptr_node_t remove_last(ptr_node_t head) {$/;"	f
+run	snake.c	/^void run(ptr_node_t head) {$/;"	f
+score	playground.c	/^static WINDOW *field, *score;$/;"	v	file:
+screen_end	playground.c	/^static void screen_end(int rowtot, int coltot, int quit_value)$/;"	f	file:
+screen_init	playground.c	/^static void screen_init(int rowtot, int coltot)$/;"	f	file:
+show_snake	snake.c	/^ptr_node_t show_snake(ptr_node_t head) {$/;"	f
+snake_move	playground.c	/^void snake_move(ptr_node_t head, move_action_t current_direction) {$/;"	f
+tag_loc	snake.h	/^typedef struct tag_loc {$/;"	s
+tag_move_action	snake.h	/^typedef enum tag_move_action {UP, DOWN, LEFT, RIGHT} move_action_t;$/;"	g
+tag_node	snake.h	/^typedef struct tag_node {$/;"	s
+x	snake.h	/^  uint32_t x;$/;"	m	struct:tag_loc
+y	snake.h	/^  uint32_t y;$/;"	m	struct:tag_loc

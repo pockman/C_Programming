@@ -1,0 +1,2082 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A2X	tclock.c	/^#define A2X(/;"	d	file:
+A2Y	tclock.c	/^#define A2Y(/;"	d	file:
+ABS	demo_panels.c	/^#define ABS(/;"	d	file:
+ABSENT_BOOLEAN	test.priv.h	/^#define ABSENT_BOOLEAN	/;"	d
+ABSENT_NUMERIC	test.priv.h	/^#define ABSENT_NUMERIC	/;"	d
+ABSENT_STRING	test.priv.h	/^#define ABSENT_STRING	/;"	d
+ACE	blue.c	/^#define ACE	/;"	d	file:
+ACS_GEQUAL	ncurses.c	/^#define ACS_GEQUAL /;"	d	file:
+ACS_LEQUAL	ncurses.c	/^#define ACS_LEQUAL /;"	d	file:
+ACS_NEQUAL	ncurses.c	/^#define ACS_NEQUAL /;"	d	file:
+ACS_PI	ncurses.c	/^#define ACS_PI /;"	d	file:
+ACS_S3	ncurses.c	/^#define ACS_S3 /;"	d	file:
+ACS_S7	ncurses.c	/^#define ACS_S7 /;"	d	file:
+ACS_STERLING	ncurses.c	/^#define ACS_STERLING /;"	d	file:
+ASPECT	tclock.c	/^#define ASPECT /;"	d	file:
+ATTRSTRING_1ST	ncurses.c	/^#define ATTRSTRING_1ST /;"	d	file:
+ATTRSTRING_END	ncurses.c	/^#define ATTRSTRING_END /;"	d	file:
+ATTR_TBL	ncurses.c	/^} ATTR_TBL;$/;"	t	typeref:struct:__anon27	file:
+AddCh	test_add_wchstr.c	/^AddCh(chtype ch)$/;"	f	file:
+AddCh	test_addchstr.c	/^#define AddCh /;"	d	file:
+AddCh	test_addstr.c	/^#define AddCh /;"	d	file:
+AddCh	test_addwstr.c	/^AddCh(chtype ch)$/;"	f	file:
+AddNStr	test_add_wchstr.c	/^#define AddNStr /;"	d	file:
+AddNStr	test_addchstr.c	/^#define AddNStr /;"	d	file:
+AddNStr	test_addstr.c	/^#define AddNStr /;"	d	file:
+AddNStr	test_addwstr.c	/^#define AddNStr /;"	d	file:
+AddStr	test_add_wchstr.c	/^#define AddStr /;"	d	file:
+AddStr	test_addchstr.c	/^#define AddStr /;"	d	file:
+AddStr	test_addstr.c	/^#define AddStr /;"	d	file:
+AddStr	test_addwstr.c	/^#define AddStr /;"	d	file:
+AttrArg	test.priv.h	/^#define AttrArg(/;"	d
+AusMap	newdemo.c	/^static CONST_MENUS char *AusMap[16] =$/;"	v	file:
+AutoFlag	hanoi.c	/^static bool AutoFlag = FALSE;$/;"	v	file:
+AutoMove	hanoi.c	/^AutoMove(int From, int To, int Num)$/;"	f	file:
+BASELINE	hanoi.c	/^#define BASELINE	/;"	d	file:
+BASEROW	blue.c	/^#define BASEROW	/;"	d	file:
+BASE_Y	inch_wide.c	/^#define BASE_Y /;"	d	file:
+BASE_Y	inchs.c	/^#define BASE_Y /;"	d	file:
+BASE_Y	test_get_wstr.c	/^#define BASE_Y /;"	d	file:
+BASE_Y	test_getstr.c	/^#define BASE_Y /;"	d	file:
+BASE_Y	test_instr.c	/^#define BASE_Y /;"	d	file:
+BASE_Y	test_inwstr.c	/^#define BASE_Y /;"	d	file:
+BASE_Y	test_opaque.c	/^#define BASE_Y /;"	d	file:
+BDEPTH	bs.c	/^#define BDEPTH	/;"	d	file:
+BDEPTH	knight.c	/^#define BDEPTH	/;"	d	file:
+BEGINSTEP	bs.c	/^#define BEGINSTEP	/;"	d	file:
+BLACK_ON_WHITE	blue.c	/^#define BLACK_ON_WHITE /;"	d	file:
+BLANK	ncurses.c	/^#define BLANK	/;"	d	file:
+BLUE_ON_WHITE	blue.c	/^#define BLUE_ON_WHITE /;"	d	file:
+BOARDX	knight.c	/^#define BOARDX	/;"	d	file:
+BOARDY	knight.c	/^#define BOARDY	/;"	d	file:
+BOTH	ncurses.c	/^#define BOTH(/;"	d	file:
+BOTH2	ncurses.c	/^#define BOTH2(/;"	d	file:
+BOTLINES	ncurses.c	/^#define BOTLINES	/;"	d	file:
+BWIDTH	bs.c	/^#define BWIDTH	/;"	d	file:
+BWIDTH	knight.c	/^#define BWIDTH	/;"	d	file:
+Backup	railroad.c	/^Backup(void)$/;"	f	file:
+BoolOpaque	test_opaque.c	/^typedef bool(*BoolOpaque) (WINDOW *, int);$/;"	t	file:
+BouncingBalls	newdemo.c	/^BouncingBalls(WINDOW *win)$/;"	f	file:
+ButtonChanged	testcurs.c	/^#define ButtonChanged(/;"	d	file:
+ButtonDouble	testcurs.c	/^#define ButtonDouble(/;"	d	file:
+ButtonPressed	testcurs.c	/^#define ButtonPressed(/;"	d	file:
+ButtonRelease	testcurs.c	/^#define ButtonRelease(/;"	d	file:
+ButtonTriple	testcurs.c	/^#define ButtonTriple(/;"	d	file:
+CANCELLED_BOOLEAN	test.priv.h	/^#define CANCELLED_BOOLEAN	/;"	d
+CANCELLED_NUMERIC	test.priv.h	/^#define CANCELLED_NUMERIC	/;"	d
+CANCELLED_STRING	test.priv.h	/^#define CANCELLED_STRING	/;"	d
+CAN_RESIZE	view.c	/^#define CAN_RESIZE /;"	d	file:
+CARD	cardfile.c	/^} CARD;$/;"	t	typeref:struct:_card	file:
+CATCHALL	test.priv.h	/^#define CATCHALL(/;"	d
+CCHARW_MAX	test.priv.h	/^#define CCHARW_MAX /;"	d
+CHAR_CHECK_CB	ncurses.c	/^#define CHAR_CHECK_CB(/;"	d	file:
+CHAR_CHECK_CB	ncurses.c	/^CHAR_CHECK_CB(mi_char_check)$/;"	f	file:
+CHAR_CHECK_CB	ncurses.c	/^CHAR_CHECK_CB(pw_char_check)$/;"	f	file:
+CLUBS	blue.c	/^#define CLUBS	/;"	d	file:
+COLOR_DEFAULT	chgat.c	/^#define COLOR_DEFAULT /;"	d	file:
+COLOR_DEFAULT	clip_printw.c	/^#define COLOR_DEFAULT /;"	d	file:
+COLOR_DEFAULT	insdelln.c	/^#define COLOR_DEFAULT /;"	d	file:
+COLWIDTH	bs.c	/^#define COLWIDTH	/;"	d	file:
+COL_ATTRSTRING	ncurses.c	/^#define COL_ATTRSTRING /;"	d	file:
+COL_MAX	movewindow.c	/^#define COL_MAX	/;"	d	file:
+COL_MIN	movewindow.c	/^#define COL_MIN	/;"	d	file:
+COMMAND	testcurs.c	/^typedef struct commands COMMAND;$/;"	t	typeref:struct:commands	file:
+COMPUTER	bs.c	/^#define COMPUTER	/;"	d	file:
+CONST_FMT	movewindow.c	/^#define CONST_FMT	/;"	d	file:
+CONST_FMT	movewindow.c	/^#define CONST_FMT /;"	d	file:
+CONST_MENUS	test.priv.h	/^#define CONST_MENUS	/;"	d
+CONST_MENUS	test.priv.h	/^#define CONST_MENUS /;"	d
+CTRL	test.priv.h	/^#define CTRL(/;"	d
+CTRL	test.priv.h	/^#undef CTRL$/;"	d
+CTRL	view.c	/^#define CTRL(/;"	d	file:
+CTRL	view.c	/^#undef CTRL	/;"	d	file:
+CTRL	view.c	/^#undef CTRL$/;"	d	file:
+CTRLC	bs.c	/^#define CTRLC	/;"	d	file:
+CURSES_ACS_ARRAY	ncurses_cfg.h	/^#define CURSES_ACS_ARRAY /;"	d
+CURSES_WACS_ARRAY	ncurses_cfg.h	/^#define CURSES_WACS_ARRAY /;"	d
+CURSES_WACS_SYMBOLS	ncurses_cfg.h	/^#define CURSES_WACS_SYMBOLS /;"	d
+CURSES_WACS_SYMBOLS	test.priv.h	/^#define CURSES_WACS_SYMBOLS$/;"	d
+CX	bs.c	/^#define CX(/;"	d	file:
+CX	knight.c	/^#define CX(/;"	d	file:
+CXBASE	bs.c	/^#define CXBASE	/;"	d	file:
+CXINV	bs.c	/^#define CXINV(/;"	d	file:
+CXINV	knight.c	/^#define CXINV(/;"	d	file:
+CY	bs.c	/^#define CY(/;"	d	file:
+CY	knight.c	/^#define CY(/;"	d	file:
+CYBASE	bs.c	/^#define CYBASE	/;"	d	file:
+CYINV	bs.c	/^#define CYINV(/;"	d	file:
+CYINV	knight.c	/^#define CYINV(/;"	d	file:
+Cannot	ncurses.c	/^Cannot(const char *what)$/;"	f	file:
+ChLen	test_addchstr.c	/^ChLen(const char *source)$/;"	f	file:
+ChStr	test_add_wchstr.c	/^ChStr(const char *source)$/;"	f	file:
+ChStr	test_addchstr.c	/^ChStr(const char *source)$/;"	f	file:
+ChStr2	test_addchstr.c	/^ChStr2(const char *source)$/;"	f	file:
+ChWLen	test_add_wchstr.c	/^ChWLen(const wchar_t *source)$/;"	f	file:
+ChWStr	test_add_wchstr.c	/^ChWStr(const wchar_t *source)$/;"	f	file:
+ColOf	ins_wide.c	/^ColOf(wchar_t *buffer, int length, int margin)$/;"	f	file:
+ColOf	inserts.c	/^ColOf(char *buffer, int length, int margin)$/;"	f	file:
+ColOf	test_add_wchstr.c	/^ColOf(wchar_t *buffer, int length, int margin)$/;"	f	file:
+ColOf	test_addchstr.c	/^ColOf(char *buffer, int length, int margin)$/;"	f	file:
+ColOf	test_addstr.c	/^ColOf(char *buffer, int length, int margin)$/;"	f	file:
+ColOf	test_addwstr.c	/^ColOf(wchar_t *buffer, int length, int margin)$/;"	f	file:
+Continue	ncurses.c	/^Continue(WINDOW *win)$/;"	f	file:
+Continue	testcurs.c	/^Continue(WINDOW *win)$/;"	f	file:
+ConvertCh	ins_wide.c	/^ConvertCh(chtype source, cchar_t *target)$/;"	f	file:
+ConvertCh	test_add_wchstr.c	/^ConvertCh(chtype source, cchar_t *target)$/;"	f	file:
+ConvertCh	test_addwstr.c	/^ConvertCh(chtype source, cchar_t *target)$/;"	f	file:
+Count	hanoi.c	/^    int Count;$/;"	m	struct:Peg	file:
+DATA	rain.c	/^typedef struct DATA {$/;"	s	file:
+DATA	rain.c	/^} DATA;$/;"	t	typeref:struct:DATA	file:
+DDATA	ditto.c	/^} DDATA;$/;"	t	typeref:struct:__anon13	file:
+DECL_CURSES_DATA_OSPEED	ncurses_cfg.h	/^#define DECL_CURSES_DATA_OSPEED /;"	d
+DEFAULTTILES	hanoi.c	/^#define DEFAULTTILES	/;"	d	file:
+DIAMONDS	blue.c	/^#define DIAMONDS	/;"	d	file:
+DITTO	ditto.c	/^} DITTO;$/;"	t	typeref:struct:__anon12	file:
+DUMP	test_arrays.c	/^#define DUMP(/;"	d	file:
+DUMPFILE	ncurses.c	/^#define DUMPFILE	/;"	d	file:
+DisplayTiles	hanoi.c	/^DisplayTiles(void)$/;"	f	file:
+DrawPart	rain.c	/^typedef void (*DrawPart) (struct DATA *);$/;"	t	file:
+E	bs.c	/^#define E	/;"	d	file:
+EDIT_FIELD	edit_field.h	/^#define EDIT_FIELD(/;"	d
+EDIT_FORM_H_incl	edit_field.h	/^#define EDIT_FORM_H_incl /;"	d
+ESCAPE	test.priv.h	/^#define ESCAPE	/;"	d
+EXIT_FAILURE	test.priv.h	/^#define EXIT_FAILURE /;"	d
+EXIT_SUCCESS	test.priv.h	/^#define EXIT_SUCCESS /;"	d
+EachCapName	demo_termcap.c	/^#define EachCapName(/;"	d	file:
+ExitProgram	test.priv.h	/^#define ExitProgram(/;"	d
+ExitProgram	test.priv.h	/^#undef ExitProgram$/;"	d
+FCOLS	demo_termcap.c	/^#define FCOLS /;"	d	file:
+FCOLS	demo_terminfo.c	/^#define FCOLS /;"	d	file:
+FF	bs.c	/^#define FF	/;"	d	file:
+FIELDCHECK_CB	ncurses.c	/^#define FIELDCHECK_CB(/;"	d	file:
+FIELDCHECK_CB	ncurses.c	/^FIELDCHECK_CB(mi_field_check)$/;"	f	file:
+FIELDCHECK_CB	ncurses.c	/^FIELDCHECK_CB(pw_field_check)$/;"	f	file:
+FIFO	ditto.c	/^} FIFO;$/;"	t	typeref:struct:__anon10	file:
+FIRST_PASS	bs.c	/^#define FIRST_PASS	/;"	d	file:
+FNAME	demo_termcap.c	/^#define FNAME(/;"	d	file:
+FNAME	demo_terminfo.c	/^#define FNAME(/;"	d	file:
+FRAME	movewindow.c	/^} FRAME;$/;"	t	typeref:struct:__anon24	file:
+FRAME	ncurses.c	/^#define FRAME /;"	d	file:
+FROMWHO	xmas.c	/^#define FROMWHO /;"	d	file:
+FULL_HI	ncurses.c	/^#define FULL_HI /;"	d	file:
+FULL_LO	ncurses.c	/^#define FULL_LO /;"	d	file:
+FieldAttrs	edit_field.h	/^} FieldAttrs;$/;"	t	typeref:struct:__anon38
+FillPanel	demo_panels.c	/^typedef void (*FillPanel) (PANEL *);$/;"	t	file:
+Flavors	test_get_wstr.c	/^} Flavors;$/;"	t	typeref:enum:__anon35	file:
+Flavors	test_getstr.c	/^} Flavors;$/;"	t	typeref:enum:__anon36	file:
+GCC_NORETURN	ncurses_cfg.h	/^#define GCC_NORETURN /;"	d
+GCC_NORETURN	test.priv.h	/^#define GCC_NORETURN	/;"	d
+GCC_PRINTF	ncurses_cfg.h	/^#define GCC_PRINTF /;"	d
+GCC_PRINTFLIKE	ncurses_cfg.h	/^#define GCC_PRINTFLIKE(/;"	d
+GCC_PRINTFLIKE	test.priv.h	/^#define GCC_PRINTFLIKE(/;"	d
+GCC_SCANF	ncurses_cfg.h	/^#define GCC_SCANF /;"	d
+GCC_SCANFLIKE	ncurses_cfg.h	/^#define GCC_SCANFLIKE(/;"	d
+GCC_UNUSED	ncurses_cfg.h	/^#define GCC_UNUSED /;"	d
+GCC_UNUSED	test.priv.h	/^#define GCC_UNUSED	/;"	d
+GRIDSIZE	ncurses.c	/^#define GRIDSIZE	/;"	d	file:
+GRID_LENGTH	blue.c	/^#define GRID_LENGTH	/;"	d	file:
+GRID_WIDTH	blue.c	/^#define GRID_WIDTH	/;"	d	file:
+GetMove	hanoi.c	/^GetMove(int *From, int *To)$/;"	f	file:
+Get_wchar	ncurses.c	/^#define Get_wchar(/;"	d	file:
+GetchFlags	ncurses.c	/^typedef bool GetchFlags[NUM_GETCH_FLAGS];$/;"	t	file:
+Getchar	demo_menus.c	/^#define Getchar(/;"	d	file:
+Getchar	ncurses.c	/^#define Getchar(/;"	d	file:
+HALF_LO	ncurses.c	/^#define HALF_LO /;"	d	file:
+HAVE_ASSUME_DEFAULT_COLORS	ncurses_cfg.h	/^#define HAVE_ASSUME_DEFAULT_COLORS /;"	d
+HAVE_ASSUME_DEFAULT_COLORS	test.priv.h	/^#define HAVE_ASSUME_DEFAULT_COLORS /;"	d
+HAVE_CHGAT	ncurses_cfg.h	/^#define HAVE_CHGAT /;"	d
+HAVE_CHGAT	test.priv.h	/^#define HAVE_CHGAT /;"	d
+HAVE_COLOR_SET	ncurses_cfg.h	/^#define HAVE_COLOR_SET /;"	d
+HAVE_COLOR_SET	test.priv.h	/^#define HAVE_COLOR_SET /;"	d
+HAVE_CURSES_DATA_BOOLFNAMES	ncurses_cfg.h	/^#define HAVE_CURSES_DATA_BOOLFNAMES /;"	d
+HAVE_CURSES_DATA_BOOLNAMES	ncurses_cfg.h	/^#define HAVE_CURSES_DATA_BOOLNAMES /;"	d
+HAVE_CURSES_DATA_BOOLNAMES	test.priv.h	/^#define HAVE_CURSES_DATA_BOOLNAMES /;"	d
+HAVE_CURSES_VERSION	ncurses_cfg.h	/^#define HAVE_CURSES_VERSION /;"	d
+HAVE_CURSES_VERSION	test.priv.h	/^#define HAVE_CURSES_VERSION /;"	d
+HAVE_FILTER	ncurses_cfg.h	/^#define HAVE_FILTER /;"	d
+HAVE_FILTER	test.priv.h	/^#define HAVE_FILTER /;"	d
+HAVE_FORM_H	ncurses_cfg.h	/^#define HAVE_FORM_H /;"	d
+HAVE_FORM_H	test.priv.h	/^#define HAVE_FORM_H /;"	d
+HAVE_GETBEGX	ncurses_cfg.h	/^#define HAVE_GETBEGX /;"	d
+HAVE_GETBEGX	test.priv.h	/^#define HAVE_GETBEGX /;"	d
+HAVE_GETCURX	ncurses_cfg.h	/^#define HAVE_GETCURX /;"	d
+HAVE_GETCURX	test.priv.h	/^#define HAVE_GETCURX /;"	d
+HAVE_GETMAXX	ncurses_cfg.h	/^#define HAVE_GETMAXX /;"	d
+HAVE_GETMAXX	test.priv.h	/^#define HAVE_GETMAXX /;"	d
+HAVE_GETNSTR	ncurses_cfg.h	/^#define HAVE_GETNSTR /;"	d
+HAVE_GETOPT	ncurses_cfg.h	/^#define HAVE_GETOPT /;"	d
+HAVE_GETOPT_H	ncurses_cfg.h	/^#define HAVE_GETOPT_H /;"	d
+HAVE_GETOPT_H	test.priv.h	/^#define HAVE_GETOPT_H /;"	d
+HAVE_GETOPT_HEADER	ncurses_cfg.h	/^#define HAVE_GETOPT_HEADER /;"	d
+HAVE_GETPARX	ncurses_cfg.h	/^#define HAVE_GETPARX /;"	d
+HAVE_GETPARX	test.priv.h	/^#define HAVE_GETPARX /;"	d
+HAVE_GETTIMEOFDAY	ncurses_cfg.h	/^#define HAVE_GETTIMEOFDAY /;"	d
+HAVE_GETWIN	ncurses_cfg.h	/^#define HAVE_GETWIN /;"	d
+HAVE_GETWIN	test.priv.h	/^#define HAVE_GETWIN /;"	d
+HAVE_LIBFORM	ncurses_cfg.h	/^#define HAVE_LIBFORM /;"	d
+HAVE_LIBFORM	test.priv.h	/^#define HAVE_LIBFORM /;"	d
+HAVE_LIBFORMW	test.priv.h	/^#define HAVE_LIBFORMW /;"	d
+HAVE_LIBMENU	ncurses_cfg.h	/^#define HAVE_LIBMENU /;"	d
+HAVE_LIBMENU	test.priv.h	/^#define HAVE_LIBMENU /;"	d
+HAVE_LIBMENUW	test.priv.h	/^#define HAVE_LIBMENUW /;"	d
+HAVE_LIBPANEL	ncurses_cfg.h	/^#define HAVE_LIBPANEL /;"	d
+HAVE_LIBPANEL	test.priv.h	/^#define HAVE_LIBPANEL /;"	d
+HAVE_LIBPANELW	test.priv.h	/^#define HAVE_LIBPANELW /;"	d
+HAVE_LOCALE_H	ncurses_cfg.h	/^#define HAVE_LOCALE_H /;"	d
+HAVE_LOCALE_H	test.priv.h	/^#define HAVE_LOCALE_H /;"	d
+HAVE_MATH_H	ncurses_cfg.h	/^#define HAVE_MATH_H /;"	d
+HAVE_MATH_H	test.priv.h	/^#define HAVE_MATH_H /;"	d
+HAVE_MBLEN	ncurses_cfg.h	/^#define HAVE_MBLEN /;"	d
+HAVE_MBRLEN	ncurses_cfg.h	/^#define HAVE_MBRLEN /;"	d
+HAVE_MBRTOWC	ncurses_cfg.h	/^#define HAVE_MBRTOWC /;"	d
+HAVE_MBSRTOWCS	ncurses_cfg.h	/^#define HAVE_MBSRTOWCS /;"	d
+HAVE_MBSTOWCS	ncurses_cfg.h	/^#define HAVE_MBSTOWCS /;"	d
+HAVE_MBTOWC	ncurses_cfg.h	/^#define HAVE_MBTOWC /;"	d
+HAVE_MENU_H	ncurses_cfg.h	/^#define HAVE_MENU_H /;"	d
+HAVE_MENU_H	test.priv.h	/^#define HAVE_MENU_H /;"	d
+HAVE_MVVLINE	ncurses_cfg.h	/^#define HAVE_MVVLINE /;"	d
+HAVE_MVVLINE	test.priv.h	/^#define HAVE_MVVLINE /;"	d
+HAVE_MVWVLINE	ncurses_cfg.h	/^#define HAVE_MVWVLINE /;"	d
+HAVE_MVWVLINE	test.priv.h	/^#define HAVE_MVWVLINE /;"	d
+HAVE_NAPMS	ncurses_cfg.h	/^#define HAVE_NAPMS /;"	d
+HAVE_NAPMS	test.priv.h	/^#define HAVE_NAPMS /;"	d
+HAVE_NCURSES_H	ncurses_cfg.h	/^#define HAVE_NCURSES_H /;"	d
+HAVE_NC_ALLOC_H	test.priv.h	/^#define HAVE_NC_ALLOC_H /;"	d
+HAVE_PANEL_H	ncurses_cfg.h	/^#define HAVE_PANEL_H /;"	d
+HAVE_PANEL_H	test.priv.h	/^#define HAVE_PANEL_H /;"	d
+HAVE_PUTWIN	ncurses_cfg.h	/^#define HAVE_PUTWIN /;"	d
+HAVE_PUTWIN	test.priv.h	/^#define HAVE_PUTWIN /;"	d
+HAVE_RESIZETERM	ncurses_cfg.h	/^#define HAVE_RESIZETERM /;"	d
+HAVE_RESIZE_TERM	ncurses_cfg.h	/^#define HAVE_RESIZE_TERM /;"	d
+HAVE_RESIZE_TERM	test.priv.h	/^#define HAVE_RESIZE_TERM /;"	d
+HAVE_RIPOFFLINE	ncurses_cfg.h	/^#define HAVE_RIPOFFLINE /;"	d
+HAVE_RIPOFFLINE	test.priv.h	/^#define HAVE_RIPOFFLINE /;"	d
+HAVE_SCR_DUMP	ncurses_cfg.h	/^#define HAVE_SCR_DUMP /;"	d
+HAVE_SCR_DUMP	test.priv.h	/^#define HAVE_SCR_DUMP /;"	d
+HAVE_SETUPTERM	ncurses_cfg.h	/^#define HAVE_SETUPTERM /;"	d
+HAVE_SETUPTERM	test.priv.h	/^#define HAVE_SETUPTERM /;"	d
+HAVE_SETUPTERM	test.priv.h	/^#undef  HAVE_SETUPTERM	/;"	d
+HAVE_SLK_COLOR	ncurses_cfg.h	/^#define HAVE_SLK_COLOR /;"	d
+HAVE_SLK_COLOR	test.priv.h	/^#define HAVE_SLK_COLOR /;"	d
+HAVE_SLK_INIT	ncurses_cfg.h	/^#define HAVE_SLK_INIT /;"	d
+HAVE_SLK_INIT	test.priv.h	/^#define HAVE_SLK_INIT /;"	d
+HAVE_STDARG_H	ncurses_cfg.h	/^#define HAVE_STDARG_H /;"	d
+HAVE_SYS_IOCTL_H	ncurses_cfg.h	/^#define HAVE_SYS_IOCTL_H /;"	d
+HAVE_SYS_IOCTL_H	test.priv.h	/^#define HAVE_SYS_IOCTL_H /;"	d
+HAVE_SYS_SELECT_H	ncurses_cfg.h	/^#define HAVE_SYS_SELECT_H /;"	d
+HAVE_SYS_SELECT_H	test.priv.h	/^#define HAVE_SYS_SELECT_H /;"	d
+HAVE_SYS_TIME_H	ncurses_cfg.h	/^#define HAVE_SYS_TIME_H /;"	d
+HAVE_SYS_TIME_SELECT	ncurses_cfg.h	/^#define HAVE_SYS_TIME_SELECT /;"	d
+HAVE_TERMATTRS	ncurses_cfg.h	/^#define HAVE_TERMATTRS /;"	d
+HAVE_TERMATTRS	test.priv.h	/^#define HAVE_TERMATTRS /;"	d
+HAVE_TERMIOS_H	ncurses_cfg.h	/^#define HAVE_TERMIOS_H /;"	d
+HAVE_TERMIOS_H	test.priv.h	/^#define HAVE_TERMIOS_H /;"	d
+HAVE_TERMNAME	test.priv.h	/^#define HAVE_TERMNAME /;"	d
+HAVE_TERM_ENTRY_H	ncurses_cfg.h	/^#define HAVE_TERM_ENTRY_H /;"	d
+HAVE_TERM_ENTRY_H	test.priv.h	/^#define HAVE_TERM_ENTRY_H /;"	d
+HAVE_TERM_H	ncurses_cfg.h	/^#define HAVE_TERM_H /;"	d
+HAVE_TGETENT	ncurses_cfg.h	/^#define HAVE_TGETENT /;"	d
+HAVE_TGETENT	test.priv.h	/^#define HAVE_TGETENT /;"	d
+HAVE_TGETENT	test.priv.h	/^#undef  HAVE_TGETENT	/;"	d
+HAVE_TIGETNUM	ncurses_cfg.h	/^#define HAVE_TIGETNUM /;"	d
+HAVE_TIGETNUM	test.priv.h	/^#define HAVE_TIGETNUM /;"	d
+HAVE_TIGETSTR	ncurses_cfg.h	/^#define HAVE_TIGETSTR /;"	d
+HAVE_TIGETSTR	test.priv.h	/^#define HAVE_TIGETSTR /;"	d
+HAVE_TIGETSTR	test.priv.h	/^#undef  HAVE_TIGETSTR	/;"	d
+HAVE_TPUTS	ncurses_cfg.h	/^#define HAVE_TPUTS /;"	d
+HAVE_TYPEAHEAD	ncurses_cfg.h	/^#define HAVE_TYPEAHEAD /;"	d
+HAVE_TYPEAHEAD	test.priv.h	/^#define HAVE_TYPEAHEAD /;"	d
+HAVE_TYPE_ATTR_T	ncurses_cfg.h	/^#define HAVE_TYPE_ATTR_T /;"	d
+HAVE_UNCTRL_H	ncurses_cfg.h	/^#define HAVE_UNCTRL_H /;"	d
+HAVE_UNISTD_H	ncurses_cfg.h	/^#define HAVE_UNISTD_H /;"	d
+HAVE_USE_DEFAULT_COLORS	ncurses_cfg.h	/^#define HAVE_USE_DEFAULT_COLORS /;"	d
+HAVE_USE_DEFAULT_COLORS	test.priv.h	/^#define HAVE_USE_DEFAULT_COLORS /;"	d
+HAVE_USE_ENV	ncurses_cfg.h	/^#define HAVE_USE_ENV /;"	d
+HAVE_USE_ENV	test.priv.h	/^#define HAVE_USE_ENV /;"	d
+HAVE_USE_EXTENDED_NAMES	ncurses_cfg.h	/^#define HAVE_USE_EXTENDED_NAMES /;"	d
+HAVE_USE_EXTENDED_NAMES	test.priv.h	/^#define HAVE_USE_EXTENDED_NAMES /;"	d
+HAVE_USE_SCREEN	ncurses_cfg.h	/^#define HAVE_USE_SCREEN /;"	d
+HAVE_USE_SCREEN	test.priv.h	/^#define HAVE_USE_SCREEN /;"	d
+HAVE_USE_WINDOW	ncurses_cfg.h	/^#define HAVE_USE_WINDOW /;"	d
+HAVE_USE_WINDOW	test.priv.h	/^#define HAVE_USE_WINDOW /;"	d
+HAVE_VIDPUTS	ncurses_cfg.h	/^#define HAVE_VIDPUTS /;"	d
+HAVE_VIDPUTS	test.priv.h	/^#define HAVE_VIDPUTS /;"	d
+HAVE_VID_PUTS	test.priv.h	/^#define HAVE_VID_PUTS /;"	d
+HAVE_VSSCANF	ncurses_cfg.h	/^#define HAVE_VSSCANF /;"	d
+HAVE_VW_PRINTW	ncurses_cfg.h	/^#define HAVE_VW_PRINTW /;"	d
+HAVE_VW_PRINTW	test.priv.h	/^#define HAVE_VW_PRINTW /;"	d
+HAVE_WCHGAT	ncurses_cfg.h	/^#define HAVE_WCHGAT /;"	d
+HAVE_WCSRTOMBS	ncurses_cfg.h	/^#define HAVE_WCSRTOMBS /;"	d
+HAVE_WCSTOMBS	ncurses_cfg.h	/^#define HAVE_WCSTOMBS /;"	d
+HAVE_WINSSTR	ncurses_cfg.h	/^#define HAVE_WINSSTR /;"	d
+HAVE_WINSSTR	test.priv.h	/^#define HAVE_WINSSTR /;"	d
+HAVE_WRESIZE	ncurses_cfg.h	/^#define HAVE_WRESIZE /;"	d
+HAVE_WRESIZE	test.priv.h	/^#define HAVE_WRESIZE /;"	d
+HAVE_WSYNCDOWN	ncurses_cfg.h	/^#define HAVE_WSYNCDOWN /;"	d
+HEARTS	blue.c	/^#define HEARTS	/;"	d	file:
+HI_CHAR	hashtest.c	/^#define HI_CHAR /;"	d	file:
+HUNT_DIRECT	bs.c	/^#define HUNT_DIRECT	/;"	d	file:
+HXBASE	bs.c	/^#define HXBASE	/;"	d	file:
+HYBASE	bs.c	/^#define HYBASE	/;"	d	file:
+HaveKeypad	ncurses.c	/^HaveKeypad(FRAME * curp)$/;"	f	file:
+HaveScroll	ncurses.c	/^HaveScroll(FRAME * curp)$/;"	f	file:
+IGNORE_RC	test.priv.h	/^#define IGNORE_RC(/;"	d
+INSTRX	knight.c	/^#define INSTRX	/;"	d	file:
+INSTRY	knight.c	/^#define INSTRY	/;"	d	file:
+IS_SHIP	bs.c	/^#define IS_SHIP(/;"	d	file:
+InitPanel	demo_panels.c	/^typedef void (*InitPanel) (void);$/;"	t	file:
+InitTiles	hanoi.c	/^InitTiles(void)$/;"	f	file:
+InsCh	ins_wide.c	/^InsCh(chtype ch)$/;"	f	file:
+InsCh	inserts.c	/^#define InsCh /;"	d	file:
+InsNStr	ins_wide.c	/^#define InsNStr /;"	d	file:
+InsNStr	inserts.c	/^#define InsNStr /;"	d	file:
+InsStr	ins_wide.c	/^#define InsStr /;"	d	file:
+InsStr	inserts.c	/^#define InsStr /;"	d	file:
+InvalidMove	hanoi.c	/^InvalidMove(int From, int To)$/;"	f	file:
+InxToBG	ncurses.c	/^#define InxToBG(/;"	d	file:
+InxToFG	ncurses.c	/^#define InxToFG(/;"	d	file:
+KEY_MAX	test.priv.h	/^#define KEY_MAX /;"	d
+KEY_MIN	test.priv.h	/^#define KEY_MIN /;"	d
+KING	blue.c	/^#define KING	/;"	d	file:
+KeyInfo	foldkeys.c	/^} KeyInfo;$/;"	t	typeref:struct:__anon16	file:
+LAST_POS	demo_panels.c	/^#define LAST_POS /;"	d	file:
+LEFTPEG	hanoi.c	/^#define LEFTPEG	/;"	d	file:
+LEN	ins_wide.c	/^#define LEN(/;"	d	file:
+LEN	inserts.c	/^#define LEN(/;"	d	file:
+LEN	test_add_wchstr.c	/^#define LEN(/;"	d	file:
+LEN	test_addchstr.c	/^#define LEN(/;"	d	file:
+LEN	test_addstr.c	/^#define LEN(/;"	d	file:
+LEN	test_addwstr.c	/^#define LEN(/;"	d	file:
+LENTOIND	hanoi.c	/^#define LENTOIND(/;"	d	file:
+LEN_ATTRSTRING	ncurses.c	/^#define LEN_ATTRSTRING /;"	d	file:
+LINE_MAX	movewindow.c	/^#define LINE_MAX	/;"	d	file:
+LINE_MAX	movewindow.c	/^#undef LINE_MAX$/;"	d	file:
+LINE_MIN	movewindow.c	/^#define LINE_MIN	/;"	d	file:
+LO_CHAR	hashtest.c	/^#define LO_CHAR /;"	d	file:
+LegalItem	demo_terminfo.c	/^#define LegalItem(/;"	d	file:
+Length	hanoi.c	/^    size_t Length[MAXTILES];$/;"	m	struct:Peg	file:
+MARGIN_4_ATTRS	ncurses.c	/^#define MARGIN_4_ATTRS /;"	d	file:
+MARK	lrtest.c	/^} MARK;$/;"	t	typeref:struct:__anon22	file:
+MARK_HIT	bs.c	/^#define MARK_HIT	/;"	d	file:
+MARK_MISS	bs.c	/^#define MARK_MISS	/;"	d	file:
+MAXTILES	hanoi.c	/^#define MAXTILES	/;"	d	file:
+MAX_ATTRSTRING	ncurses.c	/^#define MAX_ATTRSTRING /;"	d	file:
+MAX_COLS	inch_wide.c	/^#define MAX_COLS /;"	d	file:
+MAX_COLS	inchs.c	/^#define MAX_COLS /;"	d	file:
+MAX_COLS	test_get_wstr.c	/^#define MAX_COLS /;"	d	file:
+MAX_COLS	test_getstr.c	/^#define MAX_COLS /;"	d	file:
+MAX_COLS	test_instr.c	/^#define MAX_COLS /;"	d	file:
+MAX_COLS	test_inwstr.c	/^#define MAX_COLS /;"	d	file:
+MAX_COLS	test_opaque.c	/^#define MAX_COLS /;"	d	file:
+MAX_DROP	rain.c	/^#define MAX_DROP	/;"	d	file:
+MAX_FIFO	ditto.c	/^#define MAX_FIFO /;"	d	file:
+MAX_FORCE	demo_terminfo.c	/^#define MAX_FORCE /;"	d	file:
+MAX_KEYS	foldkeys.c	/^#define MAX_KEYS /;"	d	file:
+MAX_LENGTH	worm.c	/^#define MAX_LENGTH	/;"	d	file:
+MAX_OPTIONS	testcurs.c	/^#define MAX_OPTIONS /;"	d	file:
+MAX_PANELS	demo_panels.c	/^#define MAX_PANELS /;"	d	file:
+MAX_PANELS	ncurses.c	/^#define MAX_PANELS /;"	d	file:
+MAX_THREADS	rain.c	/^#define MAX_THREADS	/;"	d	file:
+MAX_WORMS	worm.c	/^#define MAX_WORMS	/;"	d	file:
+MENU_DATA	demo_menus.c	/^} MENU_DATA;$/;"	t	typeref:struct:__anon7	file:
+MENU_X	ncurses.c	/^#define MENU_X	/;"	d	file:
+MENU_Y	demo_menus.c	/^#define MENU_Y	/;"	d	file:
+MENU_Y	ncurses.c	/^#define MENU_Y	/;"	d	file:
+MERGE_ATTR	ncurses.c	/^#define MERGE_ATTR(/;"	d	file:
+MERGE_ATTR	ncurses.c	/^#undef MERGE_ATTR$/;"	d	file:
+MIDPEG	hanoi.c	/^#define MIDPEG	/;"	d	file:
+MIN	demo_panels.c	/^#define MIN(/;"	d	file:
+MIN	demo_panels.c	/^#undef MIN$/;"	d	file:
+MINTILES	hanoi.c	/^#define MINTILES	/;"	d	file:
+MINUS_COLOR	knight.c	/^#define MINUS_COLOR	/;"	d	file:
+MXBASE	bs.c	/^#define MXBASE	/;"	d	file:
+MYBASE	bs.c	/^#define MYBASE	/;"	d	file:
+MY_CTRL_N	cardfile.c	/^    ,MY_CTRL_N$/;"	e	enum:__anon2	file:
+MY_CTRL_P	cardfile.c	/^    ,MY_CTRL_P$/;"	e	enum:__anon2	file:
+MY_CTRL_Q	cardfile.c	/^    ,MY_CTRL_Q$/;"	e	enum:__anon2	file:
+MY_CTRL_W	cardfile.c	/^    ,MY_CTRL_W$/;"	e	enum:__anon2	file:
+MY_CTRL_x	cardfile.c	/^    MY_CTRL_x = MAX_FORM_COMMAND$/;"	e	enum:__anon2	file:
+MY_DATA	demo_forms.c	/^} MY_DATA;$/;"	t	typeref:struct:__anon5	file:
+MY_DATA	demo_menus.c	/^#define MY_DATA(/;"	d	file:
+MY_EDT_MODE	edit_field.h	/^#define MY_EDT_MODE	/;"	d
+MY_HELP	edit_field.h	/^#define MY_HELP	/;"	d
+MY_INS_MODE	edit_field.h	/^#define MY_INS_MODE	/;"	d
+MY_KEYS	demo_altkeys.c	/^#define MY_KEYS /;"	d	file:
+MY_KEYS	foldkeys.c	/^#define MY_KEYS /;"	d	file:
+MY_LOGFILE	demo_altkeys.c	/^#define MY_LOGFILE /;"	d	file:
+MY_LOGFILE	demo_defkey.c	/^#define MY_LOGFILE /;"	d	file:
+MY_LOGFILE	foldkeys.c	/^#define MY_LOGFILE /;"	d	file:
+MY_QUIT	edit_field.h	/^#define MY_QUIT	/;"	d
+MY_TABSIZE	ins_wide.c	/^#define MY_TABSIZE /;"	d	file:
+MY_TABSIZE	inserts.c	/^#define MY_TABSIZE /;"	d	file:
+MY_TABSIZE	test_add_wchstr.c	/^#define MY_TABSIZE /;"	d	file:
+MY_TABSIZE	test_addchstr.c	/^#define MY_TABSIZE /;"	d	file:
+MY_TABSIZE	test_addstr.c	/^#define MY_TABSIZE /;"	d	file:
+MY_TABSIZE	test_addwstr.c	/^#define MY_TABSIZE /;"	d	file:
+MakeMove	hanoi.c	/^MakeMove(int From, int To)$/;"	f	file:
+MenuNo	demo_menus.c	/^} MenuNo;$/;"	t	typeref:enum:__anon6	file:
+MovePrompt	test_get_wstr.c	/^MovePrompt(WINDOW *txtwin, int limit, int y, int x)$/;"	f	file:
+MovePrompt	test_getstr.c	/^MovePrompt(WINDOW *txtwin, int limit, int y, int x)$/;"	f	file:
+MvAddCh	test.priv.h	/^#define MvAddCh /;"	d
+MvAddCh	test_add_wchstr.c	/^#undef MvAddCh$/;"	d	file:
+MvAddCh	test_add_wchstr.c	/^MvAddCh(int y, int x, chtype ch)$/;"	f	file:
+MvAddCh	test_addwstr.c	/^#undef MvAddCh$/;"	d	file:
+MvAddCh	test_addwstr.c	/^MvAddCh(int y, int x, chtype ch)$/;"	f	file:
+MvAddNStr	test_add_wchstr.c	/^#define MvAddNStr /;"	d	file:
+MvAddNStr	test_addchstr.c	/^#define MvAddNStr /;"	d	file:
+MvAddNStr	test_addstr.c	/^#define MvAddNStr /;"	d	file:
+MvAddNStr	test_addwstr.c	/^#define MvAddNStr /;"	d	file:
+MvAddStr	test.priv.h	/^#define MvAddStr /;"	d
+MvAddStr	test_add_wchstr.c	/^#define MvAddStr /;"	d	file:
+MvAddStr	test_add_wchstr.c	/^#undef MvAddStr$/;"	d	file:
+MvAddStr	test_addchstr.c	/^#define MvAddStr /;"	d	file:
+MvAddStr	test_addchstr.c	/^#undef MvAddStr$/;"	d	file:
+MvAddStr	test_addwstr.c	/^#define MvAddStr /;"	d	file:
+MvAddStr	test_addwstr.c	/^#undef MvAddStr$/;"	d	file:
+MvHLine	test.priv.h	/^#define MvHLine /;"	d
+MvInsCh	ins_wide.c	/^MvInsCh(int y, int x, chtype ch)$/;"	f	file:
+MvInsCh	inserts.c	/^#define MvInsCh /;"	d	file:
+MvInsNStr	ins_wide.c	/^#define MvInsNStr /;"	d	file:
+MvInsNStr	inserts.c	/^#define MvInsNStr /;"	d	file:
+MvInsStr	ins_wide.c	/^#define MvInsStr /;"	d	file:
+MvInsStr	inserts.c	/^#define MvInsStr /;"	d	file:
+MvPrintw	test.priv.h	/^#define MvPrintw /;"	d
+MvVLine	test.priv.h	/^#define MvVLine /;"	d
+MvWAddCh	test.priv.h	/^#define MvWAddCh /;"	d
+MvWAddCh	test_add_wchstr.c	/^#undef MvWAddCh$/;"	d	file:
+MvWAddCh	test_add_wchstr.c	/^MvWAddCh(WINDOW *win, int y, int x, chtype ch)$/;"	f	file:
+MvWAddCh	test_addwstr.c	/^#undef MvWAddCh$/;"	d	file:
+MvWAddCh	test_addwstr.c	/^MvWAddCh(WINDOW *win, int y, int x, chtype ch)$/;"	f	file:
+MvWAddChStr	test.priv.h	/^#define MvWAddChStr /;"	d
+MvWAddNStr	test_add_wchstr.c	/^#define MvWAddNStr /;"	d	file:
+MvWAddNStr	test_addchstr.c	/^#define MvWAddNStr /;"	d	file:
+MvWAddNStr	test_addstr.c	/^#define MvWAddNStr /;"	d	file:
+MvWAddNStr	test_addwstr.c	/^#define MvWAddNStr /;"	d	file:
+MvWAddStr	test.priv.h	/^#define MvWAddStr /;"	d
+MvWAddStr	test_add_wchstr.c	/^#define MvWAddStr /;"	d	file:
+MvWAddStr	test_add_wchstr.c	/^#undef MvWAddStr$/;"	d	file:
+MvWAddStr	test_addchstr.c	/^#define MvWAddStr /;"	d	file:
+MvWAddStr	test_addchstr.c	/^#undef MvWAddStr$/;"	d	file:
+MvWAddStr	test_addwstr.c	/^#define MvWAddStr /;"	d	file:
+MvWAddStr	test_addwstr.c	/^#undef MvWAddStr$/;"	d	file:
+MvWHLine	test.priv.h	/^#define MvWHLine /;"	d
+MvWInsCh	ins_wide.c	/^MvWInsCh(WINDOW *win, int y, int x, chtype ch)$/;"	f	file:
+MvWInsCh	inserts.c	/^#define MvWInsCh /;"	d	file:
+MvWInsNStr	ins_wide.c	/^#define MvWInsNStr /;"	d	file:
+MvWInsNStr	inserts.c	/^#define MvWInsNStr /;"	d	file:
+MvWInsStr	ins_wide.c	/^#define MvWInsStr /;"	d	file:
+MvWInsStr	inserts.c	/^#define MvWInsStr /;"	d	file:
+MvWPrintw	test.priv.h	/^#define MvWPrintw /;"	d
+MvWVLine	test.priv.h	/^#define MvWVLine /;"	d
+MyShowCursor	railroad.c	/^MyShowCursor(int flag)$/;"	f	file:
+N	bs.c	/^#define N	/;"	d	file:
+NCURSES	ncurses_cfg.h	/^#define NCURSES /;"	d
+NCURSES_CH_T	test.priv.h	/^#define NCURSES_CH_T /;"	d
+NCURSES_CH_T	test.priv.h	/^#undef NCURSES_CH_T$/;"	d
+NCURSES_COLOR_T	test.priv.h	/^#define NCURSES_COLOR_T /;"	d
+NCURSES_CONST	test.priv.h	/^#define NCURSES_CONST	/;"	d
+NCURSES_CONST_PARAM	ncurses.c	/^#define NCURSES_CONST_PARAM /;"	d	file:
+NCURSES_EXT_FUNCS	test.priv.h	/^#define NCURSES_EXT_FUNCS /;"	d
+NCURSES_OPAQUE	test.priv.h	/^#define NCURSES_OPAQUE /;"	d
+NCURSES_PAIRS_T	test.priv.h	/^#define NCURSES_PAIRS_T /;"	d
+NCURSES_XNAMES	demo_termcap.c	/^#define NCURSES_XNAMES /;"	d	file:
+NCURSES_XNAMES	demo_termcap.c	/^#undef NCURSES_XNAMES$/;"	d	file:
+NCURSES_XNAMES	demo_terminfo.c	/^#define NCURSES_XNAMES /;"	d	file:
+NCURSES_XNAMES	demo_terminfo.c	/^#undef NCURSES_XNAMES$/;"	d	file:
+NCURSES_XNAMES	test.priv.h	/^#define NCURSES_XNAMES /;"	d
+NC_CONFIG_H	ncurses_cfg.h	/^#define NC_CONFIG_H$/;"	d
+NE	bs.c	/^#define NE	/;"	d	file:
+NEED_COLOR_CODE	background.c	/^#define NEED_COLOR_CODE /;"	d	file:
+NEED_COLOR_NAME	background.c	/^#define NEED_COLOR_NAME /;"	d	file:
+NEED_PTEM_H	test.priv.h	/^#define NEED_PTEM_H /;"	d
+NEED_WCHAR_H	ncurses_cfg.h	/^#define NEED_WCHAR_H /;"	d
+NEED_WCHAR_H	test.priv.h	/^#define NEED_WCHAR_H /;"	d
+NEXT_FIFO	ditto.c	/^#define NEXT_FIFO(/;"	d	file:
+NMESSAGES	newdemo.c	/^#define NMESSAGES /;"	d	file:
+NMoves	hanoi.c	/^static int NMoves = 0;$/;"	v	file:
+NOCARD	blue.c	/^#define NOCARD	/;"	d	file:
+NOTIFYY	knight.c	/^#define NOTIFYY	/;"	d	file:
+NO_LEAKS	test.priv.h	/^#define NO_LEAKS /;"	d
+NPEGS	hanoi.c	/^#define NPEGS	/;"	d	file:
+NSUITS	blue.c	/^#define NSUITS	/;"	d	file:
+NTiles	hanoi.c	/^static int NTiles = 0;$/;"	v	file:
+NUM_GETCH_FLAGS	ncurses.c	/^#define NUM_GETCH_FLAGS /;"	d	file:
+NW	bs.c	/^#define NW	/;"	d	file:
+OFFSET_CARD	cardfile.c	/^#define OFFSET_CARD /;"	d	file:
+ONBOARD	bs.c	/^#define ONBOARD(/;"	d	file:
+OR_COLORS	blue.c	/^#define OR_COLORS(/;"	d	file:
+OTHER	bs.c	/^#define	OTHER	/;"	d	file:
+OTHER	hanoi.c	/^#define OTHER(/;"	d	file:
+OVERLAP_FLAVORS	ncurses.c	/^#define OVERLAP_FLAVORS /;"	d	file:
+O_SELECTABLE	demo_forms.c	/^#define O_SELECTABLE /;"	d	file:
+Options	ins_wide.c	/^} Options;$/;"	t	typeref:enum:__anon17	file:
+Options	inserts.c	/^} Options;$/;"	t	typeref:enum:__anon19	file:
+Options	test_add_wchstr.c	/^} Options;$/;"	t	typeref:enum:__anon31	file:
+Options	test_addchstr.c	/^} Options;$/;"	t	typeref:enum:__anon32	file:
+Options	test_addstr.c	/^} Options;$/;"	t	typeref:enum:__anon33	file:
+Options	test_addwstr.c	/^} Options;$/;"	t	typeref:enum:__anon34	file:
+P	blue.c	/^#define P(/;"	d	file:
+P	blue.c	/^#undef P$/;"	d	file:
+P	ncurses.c	/^#define P(/;"	d	file:
+PACK_SIZE	blue.c	/^#define PACK_SIZE	/;"	d	file:
+PAD_HIGH	ncurses.c	/^#define PAD_HIGH /;"	d	file:
+PAD_WIDE	ncurses.c	/^#define PAD_WIDE /;"	d	file:
+PAIR	movewindow.c	/^} PAIR;$/;"	t	typeref:struct:__anon23	file:
+PAIR_DIGITS	gdc.c	/^#define PAIR_DIGITS /;"	d	file:
+PAIR_FRAMES	gdc.c	/^#define PAIR_FRAMES /;"	d	file:
+PAIR_OTHERS	gdc.c	/^#define PAIR_OTHERS /;"	d	file:
+PC_COLORS	blue.c	/^#define PC_COLORS(/;"	d	file:
+PC_COLS	ncurses.c	/^#define PC_COLS /;"	d	file:
+PEEK	ditto.c	/^} PEEK;$/;"	t	typeref:struct:__anon11	file:
+PI	tclock.c	/^#define PI /;"	d	file:
+PLAYER	bs.c	/^#define PLAYER	/;"	d	file:
+PLUS_COLOR	knight.c	/^#define PLUS_COLOR	/;"	d	file:
+POSSIBLE	bs.c	/^#define POSSIBLE(/;"	d	file:
+PR	bs.c	/^#define	PR	/;"	d	file:
+PROMPTLINE	bs.c	/^#define PROMPTLINE	/;"	d	file:
+PROMPTROW	blue.c	/^#define PROMPTROW	/;"	d	file:
+PX	bs.c	/^#define PX(/;"	d	file:
+PXBASE	bs.c	/^#define PXBASE	/;"	d	file:
+PY	bs.c	/^#define PY(/;"	d	file:
+PYBASE	bs.c	/^#define PYBASE	/;"	d	file:
+Pause	ncurses.c	/^Pause(void)$/;"	f	file:
+Peg	hanoi.c	/^struct Peg {$/;"	s	file:
+PegPos	hanoi.c	/^static int PegPos[] =$/;"	v	file:
+Pegs	hanoi.c	/^static struct Peg Pegs[NPEGS];$/;"	v	typeref:struct:Peg	file:
+PutChar	railroad.c	/^PutChar(int ch)$/;"	f	file:
+QUIT	test.priv.h	/^#define QUIT	/;"	d
+Quit	inch_wide.c	/^Quit(int ch)$/;"	f	file:
+Quit	inchs.c	/^Quit(int ch)$/;"	f	file:
+Quit	test_get_wstr.c	/^Quit(int ch)$/;"	f	file:
+Quit	test_getstr.c	/^Quit(int ch)$/;"	f	file:
+Quit	test_instr.c	/^Quit(int ch)$/;"	f	file:
+Quit	test_inwstr.c	/^Quit(int ch)$/;"	f	file:
+Quit	test_opaque.c	/^Quit(int ch)$/;"	f	file:
+RANDOM_FIRE	bs.c	/^#define RANDOM_FIRE	/;"	d	file:
+RANDOM_HIT	bs.c	/^#define RANDOM_HIT	/;"	d	file:
+RED_ON_WHITE	blue.c	/^#define RED_ON_WHITE /;"	d	file:
+REVERSE_JUMP	bs.c	/^#define REVERSE_JUMP	/;"	d	file:
+RGB_DATA	ncurses.c	/^} RGB_DATA;$/;"	t	typeref:struct:__anon25	file:
+RIGHTPEG	hanoi.c	/^#define RIGHTPEG	/;"	d	file:
+ROUND	tclock.c	/^#define ROUND(/;"	d	file:
+Remainder	test_get_wstr.c	/^Remainder(WINDOW *txtwin)$/;"	f	file:
+Remainder	test_getstr.c	/^Remainder(WINDOW *txtwin)$/;"	f	file:
+Repaint	ncurses.c	/^Repaint(void)$/;"	f	file:
+S	bs.c	/^#define S	/;"	d	file:
+SE	bs.c	/^#define SE	/;"	d	file:
+SECOND_PASS	bs.c	/^#define SECOND_PASS	/;"	d	file:
+SET_COLOR	worm.c	/^#define SET_COLOR(/;"	d	file:
+SHIPIT	bs.c	/^#define SHIPIT(/;"	d	file:
+SHIPTYPES	bs.c	/^#define SHIPTYPES	/;"	d	file:
+SHOW	chgat.c	/^#define SHOW(/;"	d	file:
+SHOW	clip_printw.c	/^#define SHOW(/;"	d	file:
+SHOW	color_set.c	/^#define SHOW(/;"	d	file:
+SHOW	insdelln.c	/^#define SHOW(/;"	d	file:
+SHOW	ncurses.c	/^#define SHOW(/;"	d	file:
+SHOW	ncurses.c	/^#undef SHOW$/;"	d	file:
+SHOWHIT	bs.c	/^#define SHOWHIT	/;"	d	file:
+SHOWSPLASH	bs.c	/^#define SHOWSPLASH	/;"	d	file:
+SHOW_UTF8	ncurses.c	/^#define SHOW_UTF8(/;"	d	file:
+SIGHUP	test.priv.h	/^#define SIGHUP /;"	d
+SIGIOT	bs.c	/^#define SIGIOT /;"	d	file:
+SIGKILL	test.priv.h	/^#define SIGKILL /;"	d
+SIG_ATOMIC_T	ncurses_cfg.h	/^#define SIG_ATOMIC_T /;"	d
+SIZEOF	test.priv.h	/^#define SIZEOF(/;"	d
+SLKLEN	ncurses.c	/^#define SLKLEN /;"	d	file:
+SLK_HELP	ncurses.c	/^#define SLK_HELP /;"	d	file:
+SLK_WORK	ncurses.c	/^#define SLK_WORK /;"	d	file:
+SPADES	blue.c	/^#define SPADES	/;"	d	file:
+STATE	demo_termcap.c	/^} STATE;$/;"	t	typeref:enum:__anon8	file:
+STATE	demo_terminfo.c	/^} STATE;$/;"	t	typeref:enum:__anon9	file:
+STATS	rain.c	/^} STATS;$/;"	t	typeref:struct:__anon30	file:
+STATUS	chgat.c	/^} STATUS;$/;"	t	typeref:struct:__anon3	file:
+STATUS	clip_printw.c	/^} STATUS;$/;"	t	typeref:struct:__anon4	file:
+STATUS	insdelln.c	/^} STATUS;$/;"	t	typeref:struct:__anon18	file:
+STATUSLINE	hanoi.c	/^#define STATUSLINE	/;"	d	file:
+STDC_HEADERS	ncurses_cfg.h	/^#define STDC_HEADERS /;"	d
+SUIT_LENGTH	blue.c	/^#define SUIT_LENGTH	/;"	d	file:
+SW	bs.c	/^#define SW	/;"	d	file:
+SXBASE	bs.c	/^#define SXBASE	/;"	d	file:
+SYBASE	bs.c	/^#define SYBASE	/;"	d	file:
+SYSTEM_NAME	ncurses_cfg.h	/^#define SYSTEM_NAME /;"	d
+S_HIT	bs.c	/^#define S_HIT	/;"	d	file:
+S_MISS	bs.c	/^#define S_MISS	/;"	d	file:
+S_SUNK	bs.c	/^#define S_SUNK	/;"	d	file:
+Scaled	ncurses.c	/^#define Scaled(/;"	d	file:
+ShellOut	ncurses.c	/^ShellOut(bool message)$/;"	f	file:
+ShowFlavor	test_get_wstr.c	/^ShowFlavor(WINDOW *strwin, WINDOW *txtwin, int flavor, int limit)$/;"	f	file:
+ShowFlavor	test_getstr.c	/^ShowFlavor(WINDOW *strwin, WINDOW *txtwin, int flavor, int limit)$/;"	f	file:
+ShowPrompt	test_get_wstr.c	/^ShowPrompt(WINDOW *txtwin, int limit)$/;"	f	file:
+ShowPrompt	test_getstr.c	/^ShowPrompt(WINDOW *txtwin, int limit)$/;"	f	file:
+ShowSign	railroad.c	/^ShowSign(char *string)$/;"	f	file:
+Solved	hanoi.c	/^Solved(int NumTiles)$/;"	f	file:
+StandOut	railroad.c	/^StandOut(int flag)$/;"	f	file:
+SubWinTest	newdemo.c	/^SubWinTest(WINDOW *win)$/;"	f	file:
+TEMP_POS	demo_panels.c	/^#define TEMP_POS /;"	d	file:
+TEST_CCHAR	test.priv.h	/^#define TEST_CCHAR(/;"	d
+THIS_FIFO	ditto.c	/^#define THIS_FIFO(/;"	d	file:
+TIGETNUM	test.priv.h	/^#define TIGETNUM(/;"	d
+TIGETSTR	test.priv.h	/^#define TIGETSTR(/;"	d
+TIMEVAL2S	ncurses.c	/^#define TIMEVAL2S(/;"	d	file:
+TIME_WITH_SYS_TIME	ncurses_cfg.h	/^#define TIME_WITH_SYS_TIME /;"	d
+TOPLINE	hanoi.c	/^#define TOPLINE	/;"	d	file:
+TPUTS_ARG	ncurses_cfg.h	/^#define TPUTS_ARG /;"	d
+TPUTS_ARG	test.priv.h	/^#define TPUTS_ARG /;"	d
+TPUTS_ARG	test.priv.h	/^#undef TPUTS_ARG$/;"	d
+TPUTS_PROTO	dots.c	/^TPUTS_PROTO(outc, c)$/;"	f	file:
+TPUTS_PROTO	dots_mvcur.c	/^TPUTS_PROTO(outc, c)$/;"	f	file:
+TPUTS_PROTO	dots_termcap.c	/^TPUTS_PROTO(outc, c)$/;"	f	file:
+TPUTS_PROTO	ncurses_cfg.h	/^#define TPUTS_PROTO(/;"	d
+TPUTS_PROTO	railroad.c	/^TPUTS_PROTO(outc, c)$/;"	f	file:
+TPUTS_PROTO	test.priv.h	/^#define TPUTS_PROTO(/;"	d
+TPUTS_PROTO	test_vid_puts.c	/^TPUTS_PROTO(outc, c)$/;"	f	file:
+TPUTS_PROTO	test_vidputs.c	/^TPUTS_PROTO(outc, c)$/;"	f	file:
+TPUTS_RETURN	ncurses_cfg.h	/^#define TPUTS_RETURN(/;"	d
+TPUTS_RETURN	test.priv.h	/^#define TPUTS_RETURN(/;"	d
+TRACE	demo_menus.c	/^#undef TRACE$/;"	d	file:
+TRAIL_COLOR	knight.c	/^#define TRAIL_COLOR	/;"	d	file:
+T_TBL	demo_menus.c	/^#define T_TBL(/;"	d	file:
+T_TBL	ncurses.c	/^#define T_TBL(/;"	d	file:
+TempBuffer	test_add_wchstr.c	/^#define TempBuffer(/;"	d	file:
+TempBuffer	test_addchstr.c	/^#define TempBuffer(/;"	d	file:
+TileColour	hanoi.c	/^static short TileColour[] =$/;"	v	file:
+ToFullWidth	ncurses.c	/^#define ToFullWidth(/;"	d	file:
+ToNormalWidth	ncurses.c	/^#define ToNormalWidth(/;"	d	file:
+ToggleAcs	ncurses.c	/^#define ToggleAcs(/;"	d	file:
+Trace	test.priv.h	/^#define Trace(/;"	d
+Trace2	test.priv.h	/^#define Trace2(/;"	d
+UChar	test.priv.h	/^#define UChar(/;"	d
+USE_CODE_LISTS	demo_termcap.c	/^#define USE_CODE_LISTS /;"	d	file:
+USE_CODE_LISTS	demo_terminfo.c	/^#define USE_CODE_LISTS /;"	d	file:
+USE_CP437	blue.c	/^#define USE_CP437 /;"	d	file:
+USE_LIBFORM	test.priv.h	/^#define USE_LIBFORM /;"	d
+USE_LIBMENU	test.priv.h	/^#define USE_LIBMENU /;"	d
+USE_LIBPANEL	test.priv.h	/^#define USE_LIBPANEL /;"	d
+USE_SOFTKEYS	test.priv.h	/^#define USE_SOFTKEYS /;"	d
+USE_TINFO	demo_termcap.c	/^#define USE_TINFO$/;"	d	file:
+USE_TINFO	demo_terminfo.c	/^#define USE_TINFO$/;"	d	file:
+USE_TINFO	dots.c	/^#define USE_TINFO$/;"	d	file:
+USE_TINFO	dots_mvcur.c	/^#define USE_TINFO$/;"	d	file:
+USE_TINFO	dots_termcap.c	/^#define USE_TINFO$/;"	d	file:
+USE_TINFO	railroad.c	/^#define USE_TINFO$/;"	d	file:
+USE_TINFO	test_arrays.c	/^#define USE_TINFO$/;"	d	file:
+USE_TINFO	test_vid_puts.c	/^#define USE_TINFO$/;"	d	file:
+USE_TINFO	test_vidputs.c	/^#define USE_TINFO$/;"	d	file:
+USE_TRACE	test.priv.h	/^#define USE_TRACE /;"	d
+USE_WIDEC_SUPPORT	ncurses_cfg.h	/^#define USE_WIDEC_SUPPORT /;"	d
+USE_WIDEC_SUPPORT	test.priv.h	/^#define USE_WIDEC_SUPPORT /;"	d
+USING_SCREEN	test.priv.h	/^#define USING_SCREEN(/;"	d
+USING_WINDOW	test.priv.h	/^#define USING_WINDOW(/;"	d
+USING_WINDOW2	test.priv.h	/^#define USING_WINDOW2(/;"	d
+Underline	railroad.c	/^Underline(int flag)$/;"	f	file:
+Usage	hanoi.c	/^Usage(void)$/;"	f	file:
+VALID_BOOLEAN	test.priv.h	/^#define VALID_BOOLEAN(/;"	d
+VALID_NUMERIC	test.priv.h	/^#define VALID_NUMERIC(/;"	d
+VALID_STRING	test.priv.h	/^#define VALID_STRING(/;"	d
+VISIBLE_CARDS	cardfile.c	/^#define VISIBLE_CARDS /;"	d	file:
+VT_ACSC	test.priv.h	/^#define VT_ACSC /;"	d
+W	bs.c	/^#define W	/;"	d	file:
+WACS_BLOCK	test.priv.h	/^#define	WACS_BLOCK /;"	d
+WACS_BLOCK	test.priv.h	/^#undef	WACS_BLOCK$/;"	d
+WACS_BOARD	test.priv.h	/^#define	WACS_BOARD /;"	d
+WACS_BOARD	test.priv.h	/^#undef	WACS_BOARD$/;"	d
+WACS_BTEE	test.priv.h	/^#define	WACS_BTEE /;"	d
+WACS_BTEE	test.priv.h	/^#undef	WACS_BTEE$/;"	d
+WACS_BULLET	test.priv.h	/^#define	WACS_BULLET /;"	d
+WACS_BULLET	test.priv.h	/^#undef	WACS_BULLET$/;"	d
+WACS_CKBOARD	test.priv.h	/^#define	WACS_CKBOARD /;"	d
+WACS_CKBOARD	test.priv.h	/^#undef	WACS_CKBOARD$/;"	d
+WACS_DARROW	test.priv.h	/^#define	WACS_DARROW /;"	d
+WACS_DARROW	test.priv.h	/^#undef	WACS_DARROW$/;"	d
+WACS_DEGREE	test.priv.h	/^#define	WACS_DEGREE /;"	d
+WACS_DEGREE	test.priv.h	/^#undef	WACS_DEGREE$/;"	d
+WACS_DIAMOND	test.priv.h	/^#define	WACS_DIAMOND /;"	d
+WACS_DIAMOND	test.priv.h	/^#undef	WACS_DIAMOND$/;"	d
+WACS_GEQUAL	ncurses.c	/^#define WACS_GEQUAL /;"	d	file:
+WACS_GEQUAL	test.priv.h	/^#define	WACS_GEQUAL	/;"	d
+WACS_GEQUAL	test.priv.h	/^#undef	WACS_GEQUAL$/;"	d
+WACS_HLINE	test.priv.h	/^#define	WACS_HLINE /;"	d
+WACS_HLINE	test.priv.h	/^#undef	WACS_HLINE$/;"	d
+WACS_LANTERN	test.priv.h	/^#define	WACS_LANTERN /;"	d
+WACS_LANTERN	test.priv.h	/^#undef	WACS_LANTERN$/;"	d
+WACS_LARROW	test.priv.h	/^#define	WACS_LARROW /;"	d
+WACS_LARROW	test.priv.h	/^#undef	WACS_LARROW$/;"	d
+WACS_LEQUAL	ncurses.c	/^#define WACS_LEQUAL /;"	d	file:
+WACS_LEQUAL	test.priv.h	/^#define	WACS_LEQUAL	/;"	d
+WACS_LEQUAL	test.priv.h	/^#undef	WACS_LEQUAL$/;"	d
+WACS_LLCORNER	test.priv.h	/^#define	WACS_LLCORNER /;"	d
+WACS_LLCORNER	test.priv.h	/^#undef	WACS_LLCORNER$/;"	d
+WACS_LRCORNER	test.priv.h	/^#define	WACS_LRCORNER /;"	d
+WACS_LRCORNER	test.priv.h	/^#undef	WACS_LRCORNER$/;"	d
+WACS_LTEE	test.priv.h	/^#define	WACS_LTEE /;"	d
+WACS_LTEE	test.priv.h	/^#undef	WACS_LTEE$/;"	d
+WACS_NEQUAL	ncurses.c	/^#define WACS_NEQUAL /;"	d	file:
+WACS_NEQUAL	test.priv.h	/^#define	WACS_NEQUAL	/;"	d
+WACS_NEQUAL	test.priv.h	/^#undef	WACS_NEQUAL$/;"	d
+WACS_PI	ncurses.c	/^#define WACS_PI /;"	d	file:
+WACS_PI	test.priv.h	/^#define	WACS_PI	/;"	d
+WACS_PI	test.priv.h	/^#undef	WACS_PI$/;"	d
+WACS_PLMINUS	test.priv.h	/^#define	WACS_PLMINUS /;"	d
+WACS_PLMINUS	test.priv.h	/^#undef	WACS_PLMINUS$/;"	d
+WACS_PLUS	test.priv.h	/^#define	WACS_PLUS /;"	d
+WACS_PLUS	test.priv.h	/^#undef	WACS_PLUS$/;"	d
+WACS_RARROW	test.priv.h	/^#define	WACS_RARROW /;"	d
+WACS_RARROW	test.priv.h	/^#undef	WACS_RARROW$/;"	d
+WACS_RTEE	test.priv.h	/^#define	WACS_RTEE /;"	d
+WACS_RTEE	test.priv.h	/^#undef	WACS_RTEE$/;"	d
+WACS_S1	test.priv.h	/^#define	WACS_S1 /;"	d
+WACS_S1	test.priv.h	/^#undef	WACS_S1$/;"	d
+WACS_S3	ncurses.c	/^#define WACS_S3 /;"	d	file:
+WACS_S3	test.priv.h	/^#define	WACS_S3	/;"	d
+WACS_S3	test.priv.h	/^#undef	WACS_S3$/;"	d
+WACS_S7	ncurses.c	/^#define WACS_S7 /;"	d	file:
+WACS_S7	test.priv.h	/^#define	WACS_S7	/;"	d
+WACS_S7	test.priv.h	/^#undef	WACS_S7$/;"	d
+WACS_S9	test.priv.h	/^#define	WACS_S9 /;"	d
+WACS_S9	test.priv.h	/^#undef	WACS_S9$/;"	d
+WACS_STERLING	ncurses.c	/^#define WACS_STERLING /;"	d	file:
+WACS_STERLING	test.priv.h	/^#define	WACS_STERLING	/;"	d
+WACS_STERLING	test.priv.h	/^#undef	WACS_STERLING$/;"	d
+WACS_TTEE	test.priv.h	/^#define	WACS_TTEE /;"	d
+WACS_TTEE	test.priv.h	/^#undef	WACS_TTEE$/;"	d
+WACS_UARROW	test.priv.h	/^#define	WACS_UARROW /;"	d
+WACS_UARROW	test.priv.h	/^#undef	WACS_UARROW$/;"	d
+WACS_ULCORNER	test.priv.h	/^#define	WACS_ULCORNER /;"	d
+WACS_ULCORNER	test.priv.h	/^#undef	WACS_ULCORNER$/;"	d
+WACS_URCORNER	test.priv.h	/^#define	WACS_URCORNER /;"	d
+WACS_URCORNER	test.priv.h	/^#undef	WACS_URCORNER$/;"	d
+WACS_VLINE	test.priv.h	/^#define	WACS_VLINE /;"	d
+WACS_VLINE	test.priv.h	/^#undef	WACS_VLINE$/;"	d
+WANT_USE_SCREEN	test.priv.h	/^#define WANT_USE_SCREEN(/;"	d
+WANT_USE_WINDOW	test.priv.h	/^#define WANT_USE_WINDOW(/;"	d
+WAddCh	test_add_wchstr.c	/^WAddCh(WINDOW *win, chtype ch)$/;"	f	file:
+WAddCh	test_addchstr.c	/^#define WAddCh /;"	d	file:
+WAddCh	test_addstr.c	/^#define WAddCh /;"	d	file:
+WAddCh	test_addwstr.c	/^WAddCh(WINDOW *win, chtype ch)$/;"	f	file:
+WAddNStr	test_add_wchstr.c	/^#define WAddNStr /;"	d	file:
+WAddNStr	test_addchstr.c	/^#define WAddNStr /;"	d	file:
+WAddNStr	test_addstr.c	/^#define WAddNStr /;"	d	file:
+WAddNStr	test_addwstr.c	/^#define WAddNStr /;"	d	file:
+WAddStr	test_add_wchstr.c	/^#define WAddStr /;"	d	file:
+WAddStr	test_addchstr.c	/^#define WAddStr /;"	d	file:
+WAddStr	test_addstr.c	/^#define WAddStr /;"	d	file:
+WAddStr	test_addwstr.c	/^#define WAddStr /;"	d	file:
+WIDE_LINEDATA	ins_wide.c	/^#define WIDE_LINEDATA$/;"	d	file:
+WIDE_LINEDATA	test_add_wchstr.c	/^#define WIDE_LINEDATA$/;"	d	file:
+WIDE_LINEDATA	test_addwstr.c	/^#define WIDE_LINEDATA$/;"	d	file:
+WINSTACK	ncurses.c	/^} WINSTACK;$/;"	t	typeref:struct:__anon26	file:
+WINVER	test.priv.h	/^#  define WINVER /;"	d
+WInsCh	ins_wide.c	/^WInsCh(WINDOW *win, chtype ch)$/;"	f	file:
+WInsCh	inserts.c	/^#define WInsCh /;"	d	file:
+WInsNStr	ins_wide.c	/^#define WInsNStr /;"	d	file:
+WInsNStr	inserts.c	/^#define WInsNStr /;"	d	file:
+WInsStr	ins_wide.c	/^#define WInsStr /;"	d	file:
+WInsStr	inserts.c	/^#define WInsStr /;"	d	file:
+WORM	worm.c	/^} WORM;$/;"	t	typeref:struct:worm	file:
+WaitForUser	newdemo.c	/^WaitForUser(WINDOW *win)$/;"	f	file:
+XBASE	gdc.c	/^#define XBASE	/;"	d	file:
+XCursesProgramName	testcurs.c	/^char *XCursesProgramName = "testcurs";$/;"	v
+XLENGTH	gdc.c	/^#define XLENGTH	/;"	d	file:
+YBASE	gdc.c	/^#define YBASE	/;"	d	file:
+YDEPTH	gdc.c	/^#define YDEPTH	/;"	d	file:
+_ACS_COMPAT_CODE	test.priv.h	/^#define _ACS_COMPAT_CODE	/;"	d
+__COLORNAME_H	color_name.h	/^#define __COLORNAME_H /;"	d
+__TEST_PRIV_H	test.priv.h	/^#define __TEST_PRIV_H /;"	d
+__WIDECHARS_H	widechars.h	/^#define __WIDECHARS_H /;"	d
+_card	cardfile.c	/^typedef struct _card {$/;"	s	file:
+a_opt	demo_terminfo.c	/^static bool a_opt = FALSE;$/;"	v	file:
+a_opt	test_setupterm.c	/^static bool a_opt = FALSE;$/;"	v	file:
+acs_and_scroll	ncurses.c	/^acs_and_scroll(void)$/;"	f	file:
+acs_display	ncurses.c	/^acs_display(void)$/;"	f	file:
+add_content	cardfile.c	/^add_content(CARD * card, const char *content)$/;"	f	file:
+add_title	cardfile.c	/^add_title(const char *title)$/;"	f	file:
+add_window	movewindow.c	/^add_window(WINDOW *parent, WINDOW *child)$/;"	f	file:
+adjust	view.c	/^adjust(int sig)$/;"	f	file:
+adjust_attr_string	ncurses.c	/^adjust_attr_string(int adjust)$/;"	f	file:
+after_load	savescreen.c	/^after_load(void)$/;"	f	file:
+all_cards	cardfile.c	/^static CARD *all_cards;$/;"	v	file:
+all_colors	ncurses.c	/^static RGB_DATA *all_colors;$/;"	v	file:
+all_windows	movewindow.c	/^static FRAME *all_windows;$/;"	v	file:
+animals	ncurses.c	/^static CONST_MENUS char *animals[] =$/;"	v	file:
+announce_sig	ncurses.c	/^announce_sig(int sig)$/;"	f	file:
+announceopts	bs.c	/^announceopts(void)$/;"	f	file:
+another_field	demo_forms.c	/^another_field(FORM * form, FIELD * field)$/;"	f	file:
+attr	chgat.c	/^    unsigned attr;$/;"	m	struct:__anon3	file:
+attr	clip_printw.c	/^    attr_t attr;$/;"	m	struct:__anon4	file:
+attr	insdelln.c	/^    unsigned attr;$/;"	m	struct:__anon18	file:
+attr	ncurses.c	/^    attr_t attr;$/;"	m	struct:__anon27	file:
+attr_addstr	testaddch.c	/^attr_addstr(const char *s, chtype a)$/;"	f	file:
+attr_getc	ncurses.c	/^attr_getc(int *skip,$/;"	f	file:
+attr_legend	ncurses.c	/^attr_legend(WINDOW *helpwin)$/;"	f	file:
+attr_t	test.priv.h	/^#define attr_t /;"	d
+attr_test	ncurses.c	/^attr_test(void)$/;"	f	file:
+attr_test_string	ncurses.c	/^static char attr_test_string[MAX_ATTRSTRING + 1];$/;"	v	file:
+attrs	worm.c	/^    chtype attrs;$/;"	m	struct:worm	file:
+attrs_to_test	ncurses.c	/^static const ATTR_TBL attrs_to_test[] = {$/;"	v	file:
+awinna	bs.c	/^awinna(void)$/;"	f	file:
+b_opt	demo_termcap.c	/^static bool b_opt = FALSE;$/;"	v	file:
+b_opt	demo_terminfo.c	/^static bool b_opt = FALSE;$/;"	v	file:
+background	edit_field.h	/^    chtype background;$/;"	m	struct:__anon38
+backup	railroad.c	/^static char *backup;$/;"	v	file:
+balls	xmas.c	/^balls(void)$/;"	f	file:
+battle	bs.c	/^static char battle[] = "Battleship";$/;"	v	file:
+begin_getch_test	ncurses.c	/^begin_getch_test(void)$/;"	f	file:
+begin_popup	edit_field.c	/^begin_popup(void)$/;"	f	file:
+bigdeer0	xmas.c	/^static WINDOW *bigdeer0;$/;"	v	file:
+bigdeer1	xmas.c	/^static WINDOW *bigdeer1;$/;"	v	file:
+bigdeer2	xmas.c	/^static WINDOW *bigdeer2;$/;"	v	file:
+bigdeer3	xmas.c	/^static WINDOW *bigdeer3;$/;"	v	file:
+bigdeer4	xmas.c	/^static WINDOW *bigdeer4;$/;"	v	file:
+blinkit	xmas.c	/^blinkit(void)$/;"	f	file:
+blitz	bs.c	/^static int salvo, blitz, closepack;$/;"	v	file:
+blue	ncurses.c	/^    NCURSES_COLOR_T blue;$/;"	m	struct:__anon25	file:
+board	bs.c	/^static char board[2][BWIDTH][BDEPTH];$/;"	v	file:
+board	knight.c	/^static short board[BDEPTH][BWIDTH];	\/* the squares *\/$/;"	v	file:
+boardwin	knight.c	/^static WINDOW *boardwin;	\/* the board window *\/$/;"	v	file:
+bool_funcs	test_opaque.c	/^} bool_funcs[] = {$/;"	v	typeref:struct:__anon37	file:
+bounce	newdemo.c	/^bounce(int n, int *dir, int len)$/;"	f	file:
+box_inside	movewindow.c	/^box_inside(WINDOW *win)$/;"	f	file:
+boxit	xmas.c	/^boxit(void)$/;"	f	file:
+brute_force	demo_termcap.c	/^brute_force(const char *name)$/;"	f	file:
+brute_force	demo_terminfo.c	/^brute_force(const char *name)$/;"	f	file:
+buffer_length	edit_field.c	/^buffer_length(FIELD * f)$/;"	f	file:
+build_file_menu	demo_menus.c	/^build_file_menu(MenuNo number)$/;"	f	file:
+build_menus	demo_menus.c	/^build_menus(char *filename)$/;"	f	file:
+build_select_menu	demo_menus.c	/^build_select_menu(MenuNo number, char *filename)$/;"	f	file:
+build_trace_menu	demo_menus.c	/^build_trace_menu(MenuNo number)$/;"	f	file:
+c	chgat.c	/^    unsigned c;$/;"	m	struct:__anon3	file:
+c	clip_printw.c	/^    unsigned c;$/;"	m	struct:__anon4	file:
+c	insdelln.c	/^    unsigned c;$/;"	m	struct:__anon18	file:
+c_msg	chgat.c	/^    const char *c_msg;$/;"	m	struct:__anon3	file:
+c_msg	clip_printw.c	/^    const char *c_msg;$/;"	m	struct:__anon4	file:
+c_msg	insdelln.c	/^    const char *c_msg;$/;"	m	struct:__anon18	file:
+call_files	demo_menus.c	/^call_files(int code)$/;"	f	file:
+call_menus	demo_menus.c	/^call_menus(int code)$/;"	f	file:
+call_select	demo_menus.c	/^call_select(int code)$/;"	f	file:
+call_slk_color	ncurses.c	/^call_slk_color(int fg, int bg)$/;"	f	file:
+call_trace	demo_menus.c	/^call_trace(int code)$/;"	f	file:
+canned_panel	ncurses.c	/^canned_panel(PANEL * px[MAX_PANELS + 1], NCURSES_CONST char *cmd)$/;"	f	file:
+cardfile	cardfile.c	/^cardfile(char *fname)$/;"	f	file:
+carrier	bs.c	/^static char carrier[] = "Aircraft Carrier";$/;"	v	file:
+case_QUIT	ncurses.c	/^#define case_QUIT	/;"	d	file:
+cell	knight.c	/^} cell;$/;"	t	typeref:struct:__anon20	file:
+cellmove	knight.c	/^#define cellmove(/;"	d	file:
+cgoto	bs.c	/^#define cgoto(/;"	d	file:
+ch	chgat.c	/^    int ch;$/;"	m	struct:__anon3	file:
+ch	clip_printw.c	/^    int ch;$/;"	m	struct:__anon4	file:
+ch	insdelln.c	/^    int ch;$/;"	m	struct:__anon18	file:
+ch_dup	view.c	/^ch_dup(char *src)$/;"	f	file:
+ch_len	view.c	/^ch_len(NCURSES_CH_T * src)$/;"	f	file:
+change_attr	test_vid_puts.c	/^change_attr(chtype attr)$/;"	f	file:
+change_attr	test_vidputs.c	/^change_attr(chtype attr)$/;"	f	file:
+change_color	ncurses.c	/^change_color(NCURSES_PAIRS_T current, int field, int value, int usebase)$/;"	f	file:
+check_mbytes	widechars.h	/^#define check_mbytes(/;"	d
+check_term	gdc.c	/^check_term(void)$/;"	f	file:
+checkplace	bs.c	/^checkplace(int b, ship_t * ss, int vis)$/;"	f	file:
+child	movewindow.c	/^    WINDOW *child;		\/* the actual value *\/$/;"	m	struct:__anon24	file:
+chkmoves	knight.c	/^chkmoves(int rw, int col)$/;"	f	file:
+chksqr	knight.c	/^chksqr(int r1, int c1)$/;"	f	file:
+chomp	demo_forms.c	/^chomp(char *value)$/;"	f	file:
+cleanup	dots.c	/^cleanup(void)$/;"	f	file:
+cleanup	dots_curses.c	/^cleanup(void)$/;"	f	file:
+cleanup	dots_mvcur.c	/^cleanup(void)$/;"	f	file:
+cleanup	dots_termcap.c	/^cleanup(void)$/;"	f	file:
+cleanup	echochar.c	/^cleanup(void)$/;"	f	file:
+cleanup	firework.c	/^cleanup(void)$/;"	f	file:
+cleanup	hashtest.c	/^cleanup(void)$/;"	f	file:
+cleanup	railroad.c	/^cleanup(void)$/;"	f	file:
+cleanup	savescreen.c	/^cleanup(char *files[])$/;"	f	file:
+cleanup	test_vid_puts.c	/^cleanup(void)$/;"	f	file:
+cleanup	test_vidputs.c	/^cleanup(void)$/;"	f	file:
+cleanup	worm.c	/^cleanup(void)$/;"	f	file:
+clip_wprintw	clip_printw.c	/^clip_wprintw(WINDOW *win, NCURSES_CONST char *fmt,...)$/;"	f	file:
+close_input	demo_panels.c	/^close_input(void)$/;"	f	file:
+close_output	demo_panels.c	/^close_output(void)$/;"	f	file:
+close_screen	ditto.c	/^close_screen($/;"	f	file:
+closepack	bs.c	/^static int salvo, blitz, closepack;$/;"	v	file:
+code	edit_field.c	/^    int code;$/;"	m	struct:__anon15	file:
+code	foldkeys.c	/^    int code;$/;"	m	struct:__anon16	file:
+collect_discards	blue.c	/^collect_discards(void)$/;"	f	file:
+collidecheck	bs.c	/^collidecheck(int b, int y, int x)$/;"	f	file:
+color_code	color_name.h	/^color_code(const char *color)$/;"	f
+color_cycle	ncurses.c	/^color_cycle(int current, int step)$/;"	f	file:
+color_edit	ncurses.c	/^color_edit(void)$/;"	f	file:
+color_legend	ncurses.c	/^color_legend(WINDOW *helpwin, bool wide)$/;"	f	file:
+color_name	color_name.h	/^color_name(int color)$/;"	f
+color_params	chgat.c	/^color_params(unsigned state, short *pair)$/;"	f	file:
+color_params	clip_printw.c	/^color_params(unsigned state, int *pair)$/;"	f	file:
+color_params	insdelln.c	/^color_params(unsigned state, int *pair)$/;"	f	file:
+color_test	ncurses.c	/^color_test(void)$/;"	f	file:
+colored_chtype	test.priv.h	/^#define colored_chtype(/;"	d
+cols_of	movewindow.c	/^#define cols_of(/;"	d	file:
+command	testcurs.c	/^static const COMMAND command[] =$/;"	v	file:
+commands	edit_field.c	/^} commands[] = {$/;"	v	typeref:struct:__anon15	file:
+commands	testcurs.c	/^struct commands {$/;"	s	file:
+completed	knight.c	/^completed(void)$/;"	f	file:
+cond_next_drop	rain.c	/^pthread_cond_t cond_next_drop;$/;"	v
+const	ncurses_cfg.h	/^#undef const$/;"	d
+content	cardfile.c	/^    char *content;$/;"	m	struct:_card	file:
+continuous	hashtest.c	/^static bool continuous = FALSE;$/;"	v	file:
+copy_code_list	demo_termcap.c	/^copy_code_list(NCURSES_CONST char *const *list)$/;"	f	file:
+copy_code_list	demo_terminfo.c	/^copy_code_list(NCURSES_CONST char *const *list)$/;"	f	file:
+count	chgat.c	/^    int count;$/;"	m	struct:__anon3	file:
+count	clip_printw.c	/^    int count;$/;"	m	struct:__anon4	file:
+count	insdelln.c	/^    int count;$/;"	m	struct:__anon18	file:
+count_cards	cardfile.c	/^count_cards(void)$/;"	f	file:
+count_mbytes	ncurses.c	/^#define count_mbytes(/;"	d	file:
+count_mbytes	widechars.h	/^#define count_mbytes(/;"	d
+count_next_moves	knight.c	/^count_next_moves(int y, int x)$/;"	f	file:
+count_wchars	ncurses.c	/^#define count_wchars(/;"	d	file:
+counter	rain.c	/^    long counter;$/;"	m	struct:__anon30	file:
+cpufire	bs.c	/^cpufire(int x, int y)$/;"	f	file:
+cpuship	bs.c	/^static ship_t cpuship[SHIPTYPES] =$/;"	v	file:
+cputurn	bs.c	/^cputurn(void)$/;"	f	file:
+cpuwon	bs.c	/^static int plywon = 0, cpuwon = 0;	\/* How many games has each won? *\/$/;"	v	file:
+create_my_derwin	movewindow.c	/^create_my_derwin(WINDOW *parent)$/;"	f	file:
+create_my_subwin	movewindow.c	/^create_my_subwin(WINDOW *parent)$/;"	f	file:
+create_my_window	movewindow.c	/^create_my_window(WINDOW *current)$/;"	f	file:
+crosswin	ncurses.c	/^crosswin(WINDOW *win, char ch)$/;"	f	file:
+current_menu	demo_menus.c	/^current_menu(void)$/;"	f	file:
+curx	bs.c	/^static int curx = (BWIDTH \/ 2);$/;"	v	file:
+cury	bs.c	/^static int cury = (BDEPTH \/ 2);$/;"	v	file:
+cycle_attr	ncurses.c	/^cycle_attr(int ch, unsigned *at_code, chtype *attr, ATTR_TBL * list, unsigned limit)$/;"	f	file:
+cycle_color_attr	ncurses.c	/^cycle_color_attr(int ch, NCURSES_COLOR_T *fg, NCURSES_COLOR_T *bg, NCURSES_COLOR_T *tx)$/;"	f	file:
+cycle_colors	ncurses.c	/^cycle_colors(int ch, int *fg, int *bg, NCURSES_PAIRS_T *pair)$/;"	f	file:
+d_opt	demo_termcap.c	/^static char *d_opt;$/;"	v	file:
+d_opt	demo_terminfo.c	/^static char *d_opt;$/;"	v	file:
+d_option	demo_forms.c	/^static int d_option = 0;$/;"	v	file:
+data	ditto.c	/^    int data[MAX_FIFO];$/;"	m	struct:__anon10	file:
+db_item	demo_termcap.c	/^static int db_item;$/;"	v	file:
+db_item	demo_terminfo.c	/^static int db_item;$/;"	v	file:
+db_list	demo_termcap.c	/^static char **db_list;$/;"	v	file:
+db_list	demo_terminfo.c	/^static char **db_list;$/;"	v	file:
+deal_cards	blue.c	/^deal_cards(void)$/;"	f	file:
+deal_number	blue.c	/^static int deal_number = 0;$/;"	v	file:
+deck	blue.c	/^static int deck[PACK_SIZE];$/;"	v	file:
+deck_size	blue.c	/^static int deck_size = PACK_SIZE;	\/* initial deck *\/$/;"	v	file:
+deer_step	xmas.c	/^deer_step(WINDOW *win, int y, int x)$/;"	f	file:
+default_attr_string	ncurses.c	/^default_attr_string(void)$/;"	f	file:
+default_bg	background.c	/^static int default_bg = COLOR_BLACK;$/;"	v	file:
+default_fg	background.c	/^static int default_fg = COLOR_WHITE;$/;"	v	file:
+default_name	cardfile.c	/^static char default_name[] = "cardfile.dat";$/;"	v	file:
+delete_framed	ncurses.c	/^delete_framed(FRAME * fp, bool showit)$/;"	f	file:
+demo_foldkeys	foldkeys.c	/^demo_foldkeys(void)$/;"	f	file:
+demo_forms	demo_forms.c	/^demo_forms(void)$/;"	f	file:
+demo_forms	ncurses.c	/^demo_forms(void)$/;"	f	file:
+demo_pad	ncurses.c	/^demo_pad(bool colored)$/;"	f	file:
+demo_panels	demo_panels.c	/^demo_panels(InitPanel myInit, FillPanel myFill)$/;"	f	file:
+demo_panels	ncurses.c	/^demo_panels(void (*InitPanel) (WINDOW *), void (*FillPanel) (PANEL *))$/;"	f	file:
+demo_termcap	demo_termcap.c	/^demo_termcap(NCURSES_CONST char *name)$/;"	f	file:
+demo_terminfo	demo_terminfo.c	/^demo_terminfo(char *name)$/;"	f	file:
+derwin	movewindow.c	/^#undef derwin$/;"	d	file:
+destroy	bs.c	/^static char destroy[] = "Destroyer";$/;"	v	file:
+destroy_menus	demo_menus.c	/^destroy_menus(void)$/;"	f	file:
+dftname	bs.c	/^static char dftname[] = "stranger";$/;"	v	file:
+die	blue.c	/^die(int onsig)$/;"	f	file:
+dir	bs.c	/^    int dir;			\/* direction of `bow' *\/$/;"	m	struct:__anon1	file:
+dir	lrtest.c	/^    int y, x, mode, dir, inc;$/;"	m	struct:__anon22	file:
+disp	gdc.c	/^static short disp[11] =$/;"	v	file:
+display_cards	blue.c	/^display_cards(int deal)$/;"	f	file:
+display_form	demo_forms.c	/^display_form(FORM * f)$/;"	f	file:
+display_form	ncurses.c	/^display_form(FORM * f)$/;"	f	file:
+display_menu	testcurs.c	/^display_menu(int old_option, int new_option)$/;"	f	file:
+ditto	ditto.c	/^    DITTO *ditto;		\/* data for all screens *\/$/;"	m	struct:__anon13	file:
+dline	tclock.c	/^dline(int pair, int from_x, int from_y, int x2, int y2, int ch)$/;"	f	file:
+do_h_line	ncurses.c	/^do_h_line(int y, int x, chtype c, int to)$/;"	f	file:
+do_options	bs.c	/^do_options(int c, char *op[])$/;"	f	file:
+do_panel	demo_panels.c	/^do_panel(PANEL * px[MAX_PANELS + 1],$/;"	f	file:
+do_single_test	ncurses.c	/^do_single_test(const char c)$/;"	f	file:
+do_subwindow	chgat.c	/^do_subwindow(WINDOW *win, STATUS * sp, void func(WINDOW *))$/;"	f	file:
+do_subwindow	clip_printw.c	/^do_subwindow(WINDOW *win, STATUS * sp, void func(WINDOW *))$/;"	f	file:
+do_subwindow	insdelln.c	/^do_subwindow(WINDOW *win, STATUS * sp, void func(WINDOW *))$/;"	f	file:
+do_v_line	ncurses.c	/^do_v_line(int y, int x, chtype c, int to)$/;"	f	file:
+done	xmas.c	/^done(int sig GCC_UNUSED)$/;"	f	file:
+dosquares	knight.c	/^dosquares(void)$/;"	f	file:
+dotdeer0	xmas.c	/^static WINDOW *dotdeer0;$/;"	v	file:
+draw_all_worms	worm.c	/^draw_all_worms(void)$/;"	f	file:
+draw_drop	rain.c	/^draw_drop(void *arg)$/;"	f	file:
+draw_part	rain.c	/^draw_part(void (*func) (DATA *), int state, DATA * data)$/;"	f	file:
+draw_worm	worm.c	/^draw_worm(WINDOW *win, void *data)$/;"	f	file:
+drawbox	gdc.c	/^drawbox(bool scrolling)$/;"	f	file:
+drawmove	knight.c	/^drawmove(chtype tchar, int oldy, int oldx, int row, int column)$/;"	f	file:
+drop_threads	rain.c	/^static STATS drop_threads[MAX_THREADS];$/;"	v	file:
+dump_array	test_arrays.c	/^dump_array(const char *name, NCURSES_CONST char *const *list)$/;"	f	file:
+dump_xname	demo_termcap.c	/^dump_xname(NCURSES_CONST char *cap)$/;"	f	file:
+dumpit	demo_termcap.c	/^dumpit(NCURSES_CONST char *cap)$/;"	f	file:
+dumpit	demo_terminfo.c	/^dumpit(NCURSES_CONST char *cap)$/;"	f	file:
+duplicate	demo_defkey.c	/^duplicate(WINDOW *win, NCURSES_CONST char *name, int code)$/;"	f	file:
+eBanner	demo_menus.c	/^    eBanner = -1$/;"	e	enum:__anon6	file:
+eFile	demo_menus.c	/^    ,eFile$/;"	e	enum:__anon6	file:
+eGetNStr	test_get_wstr.c	/^    eGetNStr,$/;"	e	enum:__anon35	file:
+eGetNStr	test_getstr.c	/^    eGetNStr,$/;"	e	enum:__anon36	file:
+eGetStr	test_get_wstr.c	/^    eGetStr = 0,$/;"	e	enum:__anon35	file:
+eGetStr	test_getstr.c	/^    eGetStr = 0,$/;"	e	enum:__anon36	file:
+eMAX	demo_menus.c	/^    ,eMAX$/;"	e	enum:__anon6	file:
+eMaxFlavor	test_get_wstr.c	/^    eMaxFlavor$/;"	e	enum:__anon35	file:
+eMaxFlavor	test_getstr.c	/^    eMaxFlavor$/;"	e	enum:__anon36	file:
+eMvGetNStr	test_get_wstr.c	/^    eMvGetNStr,$/;"	e	enum:__anon35	file:
+eMvGetNStr	test_getstr.c	/^    eMvGetNStr,$/;"	e	enum:__anon36	file:
+eMvGetStr	test_get_wstr.c	/^    eMvGetStr,$/;"	e	enum:__anon35	file:
+eMvGetStr	test_getstr.c	/^    eMvGetStr,$/;"	e	enum:__anon36	file:
+eSelect	demo_menus.c	/^    ,eSelect$/;"	e	enum:__anon6	file:
+eTrace	demo_menus.c	/^    ,eTrace$/;"	e	enum:__anon6	file:
+e_opt	demo_termcap.c	/^static char *e_opt;$/;"	v	file:
+e_opt	demo_terminfo.c	/^static char *e_opt;$/;"	v	file:
+edit_field	edit_field.c	/^edit_field(FORM * form, int *result)$/;"	f
+edit_secure	ncurses.c	/^edit_secure(FIELD * me, int c)$/;"	f	file:
+editor_help	savescreen.c	/^editor_help(void)$/;"	f	file:
+empty	demo_menus.c	/^static char empty[1];$/;"	v	file:
+end_popup	edit_field.c	/^end_popup(void)$/;"	f	file:
+erase_form	demo_forms.c	/^erase_form(FORM * f)$/;"	f	file:
+erase_form	ncurses.c	/^erase_form(FORM * f)$/;"	f	file:
+error	bs.c	/^error(NCURSES_CONST char *s)$/;"	f	file:
+evalmove	knight.c	/^evalmove(int row, int column)$/;"	f	file:
+explode	firework.c	/^explode(int row, int col)$/;"	f	file:
+extend_corner	hashtest.c	/^static bool extend_corner = FALSE;$/;"	v	file:
+f_opt	demo_terminfo.c	/^static bool f_opt = FALSE;$/;"	v	file:
+f_opt	test_setupterm.c	/^static bool f_opt = FALSE;$/;"	v	file:
+failed	cardfile.c	/^failed(const char *s)$/;"	f	file:
+failed	demo_forms.c	/^failed(const char *s)$/;"	f	file:
+failed	demo_termcap.c	/^failed(const char *msg)$/;"	f	file:
+failed	demo_terminfo.c	/^failed(const char *msg)$/;"	f	file:
+failed	ditto.c	/^failed(const char *s)$/;"	f	file:
+failed	inchs.c	/^failed(const char *s)$/;"	f	file:
+failed	linedata.h	/^failed(const char *s)$/;"	f
+failed	movewindow.c	/^failed(const char *s)$/;"	f	file:
+failed	ncurses.c	/^failed(const char *s)$/;"	f	file:
+failed	worm.c	/^failed(const char *s)$/;"	f	file:
+fexists	savescreen.c	/^fexists(const char *name)$/;"	f	file:
+field	worm.c	/^static const char *field;$/;"	v	file:
+field_attrs	edit_field.c	/^field_attrs(FIELD * f)$/;"	f
+fifo	ditto.c	/^    FIFO fifo;			\/* fifo for this screen *\/$/;"	m	struct:__anon12	file:
+fill	firstlast.c	/^fill(WINDOW *w, const char *str)$/;"	f	file:
+fill_pad	ncurses.c	/^fill_pad(WINDOW *panpad, bool pan_lines, bool colored)$/;"	f	file:
+fill_panel	demo_panels.c	/^fill_panel(PANEL * pan)$/;"	f	file:
+fill_panel	ncurses.c	/^fill_panel(PANEL * pan)$/;"	f	file:
+fill_unboxed	demo_panels.c	/^fill_unboxed(PANEL * pan)$/;"	f	file:
+fill_wide_panel	demo_panels.c	/^fill_wide_panel(PANEL * pan)$/;"	f	file:
+fill_wide_panel	ncurses.c	/^fill_wide_panel(PANEL * pan)$/;"	f	file:
+fill_window	chgat.c	/^fill_window(WINDOW *win)$/;"	f	file:
+fill_window	clip_printw.c	/^fill_window(WINDOW *win)$/;"	f	file:
+fill_window	insdelln.c	/^fill_window(WINDOW *win)$/;"	f	file:
+fill_window	movewindow.c	/^fill_window(WINDOW *win, chtype ch)$/;"	f	file:
+fill_with_pattern	movewindow.c	/^fill_with_pattern(WINDOW *win)$/;"	f	file:
+fillwin	ncurses.c	/^fillwin(WINDOW *win, char ch)$/;"	f	file:
+find	blue.c	/^find(int card)$/;"	f	file:
+find_card	cardfile.c	/^find_card(char *title)$/;"	f	file:
+find_next_move	knight.c	/^find_next_move(int *y, int *x)$/;"	f	file:
+finisC	railroad.c	/^static char *finisC;$/;"	v	file:
+finisS	railroad.c	/^static char *finisS;$/;"	v	file:
+finisU	railroad.c	/^static char *finisU;$/;"	v	file:
+finish	hashtest.c	/^finish(int sig GCC_UNUSED)$/;"	f	file:
+finish	view.c	/^finish(int sig)$/;"	f	file:
+finish_getch_test	ncurses.c	/^finish_getch_test(void)$/;"	f	file:
+first_card	cardfile.c	/^first_card(CARD * now)$/;"	f	file:
+flavor	worm.c	/^static chtype flavor[] =$/;"	v	file:
+flushinp_test	ncurses.c	/^flushinp_test(WINDOW *win)$/;"	f	file:
+fname	view.c	/^static char *fname;$/;"	v	file:
+foot_lines	hashtest.c	/^static int foot_lines = 0;$/;"	v	file:
+forget_boxes	ncurses.c	/^#define forget_boxes(/;"	d	file:
+forget_boxes	ncurses.c	/^forget_boxes(void)$/;"	f	file:
+form	cardfile.c	/^    FORM *form;$/;"	m	struct:_card	file:
+form_getyx	test.priv.h	/^#define form_getyx(/;"	d
+form_virtualize	cardfile.c	/^form_virtualize(WINDOW *w)$/;"	f	file:
+form_virtualize	ncurses.c	/^form_virtualize(FORM * f, WINDOW *w)$/;"	f	file:
+frame	ncurses.c	/^    WINDOW *frame;$/;"	m	struct:__anon26	file:
+frame_win	ncurses.c	/^frame_win(FRAME * curp)$/;"	f	file:
+free_dblist	demo_termcap.c	/^free_dblist(void)$/;"	f	file:
+free_dblist	demo_terminfo.c	/^free_dblist(void)$/;"	f	file:
+free_form_fields	cardfile.c	/^free_form_fields(FIELD ** f)$/;"	f	file:
+freeptr	blue.c	/^static int freeptr[4];		\/* free card space pointers *\/$/;"	v	file:
+fromwho	xmas.c	/^fromwho(void)$/;"	f	file:
+fullname	demo_terminfo.c	/^#define fullname(/;"	d	file:
+fullwidth_digit	ncurses.c	/^fullwidth_digit(int ch)$/;"	f	file:
+func	demo_menus.c	/^    void (*func) (int);$/;"	m	struct:__anon7	file:
+func	rain.c	/^    DrawPart func;$/;"	m	struct:DATA	file:
+func	test_opaque.c	/^    BoolOpaque func;$/;"	m	struct:__anon37	file:
+function	testcurs.c	/^    void (*function) (WINDOW *);$/;"	m	struct:commands	file:
+game_finished	blue.c	/^game_finished(int deal)$/;"	f	file:
+generation	worm.c	/^static int generation, trace_start, trace_end;$/;"	v	file:
+genlines	hashtest.c	/^genlines(int base)$/;"	f	file:
+get_colour	firework.c	/^get_colour(chtype *bold)$/;"	f	file:
+get_command	demo_panels.c	/^get_command(PANEL * px[MAX_PANELS + 1], char *buffer, int limit)$/;"	f	file:
+get_command	savescreen.c	/^get_command(int which, int last)$/;"	f	file:
+get_data	demo_forms.c	/^get_data(const char *name)$/;"	f	file:
+get_input	rain.c	/^get_input(void)$/;"	f	file:
+get_input	worm.c	/^get_input(void)$/;"	f	file:
+get_ncv	ncurses.c	/^#define get_ncv(/;"	d	file:
+get_next_drop	rain.c	/^get_next_drop(void)$/;"	f	file:
+get_position	demo_panels.c	/^get_position(NCURSES_CONST char *text,$/;"	f	file:
+get_wch_test	ncurses.c	/^get_wch_test(void)$/;"	f	file:
+get_wide_background	ncurses.c	/^get_wide_background(void)$/;"	f	file:
+get_xmc	ncurses.c	/^#define get_xmc(/;"	d	file:
+getbegx	test.priv.h	/^#define getbegx(/;"	d
+getbegy	test.priv.h	/^#define getbegy(/;"	d
+getch_test	ncurses.c	/^getch_test(void)$/;"	f	file:
+getcoord	bs.c	/^getcoord(int atcpu)$/;"	f	file:
+getcurx	test.priv.h	/^#define getcurx(/;"	d
+getcury	test.priv.h	/^#define getcury(/;"	d
+getlogin	test.priv.h	/^#define getlogin(/;"	d
+getmaxx	test.priv.h	/^#define getmaxx(/;"	d
+getmaxy	test.priv.h	/^#define getmaxy(/;"	d
+getnstr	test.priv.h	/^#define getnstr(/;"	d
+getparx	test.priv.h	/^#define getparx(/;"	d
+getpary	test.priv.h	/^#define getpary(/;"	d
+getwindow	movewindow.c	/^getwindow(WINDOW *parent, PAIR * ul, PAIR * lr)$/;"	f	file:
+getwindow	ncurses.c	/^getwindow(void)$/;"	f	file:
+glyphs	blue.c	/^static chtype glyphs[] =$/;"	v	file:
+green	ncurses.c	/^    NCURSES_COLOR_T green;$/;"	m	struct:__anon25	file:
+greet	xmas.c	/^greet(void)$/;"	f	file:
+grid	blue.c	/^static int grid[GRID_LENGTH];	\/* card layout grid *\/$/;"	v	file:
+handle_screen	ditto.c	/^handle_screen(void *arg)$/;"	f	file:
+hascolor	gdc.c	/^static bool hascolor = FALSE;$/;"	v	file:
+head	ditto.c	/^    int head;$/;"	m	struct:__anon10	file:
+head	worm.c	/^    int head;$/;"	m	struct:worm	file:
+head_line	movewindow.c	/^head_line(CONST_FMT char *fmt,...)$/;"	f	file:
+head_lines	hashtest.c	/^static int head_lines = 0;$/;"	v	file:
+height	railroad.c	/^static int height;$/;"	v	file:
+height	testcurs.c	/^static int width, height;$/;"	v	file:
+help	edit_field.c	/^    const char *help;$/;"	m	struct:__anon15	file:
+help1	knight.c	/^help1(void)$/;"	f	file:
+help2	knight.c	/^help2(void)$/;"	f	file:
+help_edit_field	edit_field.c	/^help_edit_field(void)$/;"	f
+helpwin	knight.c	/^static WINDOW *helpwin;		\/* the help window *\/$/;"	v	file:
+history	knight.c	/^static cell history[BDEPTH * BWIDTH + 1];	\/* choice history *\/$/;"	v	file:
+hits	bs.c	/^    int hits;			\/* how many times has this ship been hit? *\/$/;"	m	struct:__anon1	file:
+hits	bs.c	/^static char hits[2][BWIDTH][BDEPTH];$/;"	v	file:
+hitship	bs.c	/^hitship(int x, int y)$/;"	f	file:
+iabs	knight.c	/^iabs(int num)$/;"	f	file:
+inactive_field	edit_field.c	/^inactive_field(FIELD * f)$/;"	f	file:
+inc	lrtest.c	/^    int y, x, mode, dir, inc;$/;"	m	struct:__anon22	file:
+initTest	testcurs.c	/^initTest(WINDOW **win)$/;"	f	file:
+init_all_colors	ncurses.c	/^init_all_colors(void)$/;"	f	file:
+init_attr_list	ncurses.c	/^init_attr_list(ATTR_TBL * target, attr_t attrs)$/;"	f	file:
+init_attr_string	ncurses.c	/^init_attr_string(void)$/;"	f	file:
+init_edit_field	edit_field.c	/^init_edit_field(FIELD * f, char *value)$/;"	f
+init_getch	ncurses.c	/^init_getch(WINDOW *win, GetchFlags flags)$/;"	f	file:
+init_linedata	linedata.h	/^init_linedata(const char *name)$/;"	f
+init_mb	test.priv.h	/^#define init_mb(/;"	d
+init_panel	demo_panels.c	/^init_panel(void)$/;"	f	file:
+init_panel	ncurses.c	/^init_panel(WINDOW *win)$/;"	f	file:
+init_program	knight.c	/^init_program(void)$/;"	f	file:
+init_screen	ditto.c	/^init_screen($/;"	f	file:
+init_status	chgat.c	/^init_status(WINDOW *win, STATUS * sp)$/;"	f	file:
+init_status	clip_printw.c	/^init_status(WINDOW *win, STATUS * sp)$/;"	f	file:
+init_status	insdelln.c	/^init_status(WINDOW *win, STATUS * sp)$/;"	f	file:
+init_vars	blue.c	/^init_vars(void)$/;"	f	file:
+init_wide_panel	demo_panels.c	/^init_wide_panel(void)$/;"	f	file:
+init_wide_panel	ncurses.c	/^init_wide_panel(WINDOW *win)$/;"	f	file:
+initgame	bs.c	/^initgame(void)$/;"	f	file:
+inline	ncurses_cfg.h	/^#define inline /;"	d
+inline	ncurses_cfg.h	/^#undef inline$/;"	d
+input	ditto.c	/^    FILE *input;$/;"	m	struct:__anon12	file:
+inputTest	testcurs.c	/^inputTest(WINDOW *win)$/;"	f	file:
+interrupted	dots.c	/^static bool interrupted = FALSE;$/;"	v	file:
+interrupted	dots_curses.c	/^static bool interrupted = FALSE;$/;"	v	file:
+interrupted	dots_mvcur.c	/^static bool interrupted = FALSE;$/;"	v	file:
+interrupted	dots_termcap.c	/^static bool interrupted = FALSE;$/;"	v	file:
+interrupted	echochar.c	/^static bool interrupted = FALSE;$/;"	v	file:
+interrupted	railroad.c	/^static bool interrupted = FALSE;$/;"	v	file:
+interrupted	view.c	/^static int interrupted;$/;"	v	file:
+intro	bs.c	/^intro(void)$/;"	f	file:
+introTest	testcurs.c	/^introTest(WINDOW *win)$/;"	f	file:
+isCapName	demo_termcap.c	/^#define isCapName(/;"	d	file:
+isCapName	demo_terminfo.c	/^#define isCapName(/;"	d	file:
+isFullWidth	ncurses.c	/^#define isFullWidth(/;"	d	file:
+isQUIT	linedata.h	/^#define isQUIT(/;"	d
+isQuit	ncurses.c	/^isQuit(int c)$/;"	f	file:
+isVisible	cardfile.c	/^#define isVisible(/;"	d	file:
+is_keypad	ncurses.c	/^#define is_keypad(/;"	d	file:
+is_scrollok	ncurses.c	/^#define is_scrollok(/;"	d	file:
+j_value	demo_forms.c	/^static int j_value = 0;$/;"	v	file:
+keep_dumps	savescreen.c	/^static bool keep_dumps = FALSE;$/;"	v	file:
+key_BACKSPACE	linedata.h	/^#define key_BACKSPACE /;"	d
+key_NEWLINE	linedata.h	/^#define key_NEWLINE /;"	d
+key_RECUR	linedata.h	/^#define key_RECUR /;"	d
+large	test.priv.h	/^#undef large$/;"	d
+last_x	worm.c	/^static int last_x, last_y;$/;"	v	file:
+last_y	worm.c	/^static int last_x, last_y;$/;"	v	file:
+left	worm.c	/^}, left[8]={$/;"	v	typeref:struct:options	file:
+legend	ins_wide.c	/^legend(WINDOW *win, int level, Options state, wchar_t *buffer, int length)$/;"	f	file:
+legend	inserts.c	/^legend(WINDOW *win, int level, Options state, char *buffer, int length)$/;"	f	file:
+legend	test_add_wchstr.c	/^legend(WINDOW *win, int level, Options state, wchar_t *buffer, int length)$/;"	f	file:
+legend	test_addchstr.c	/^legend(WINDOW *win, int level, Options state, char *buffer, int length)$/;"	f	file:
+legend	test_addstr.c	/^legend(WINDOW *win, int level, Options state, char *buffer, int length)$/;"	f	file:
+legend	test_addwstr.c	/^legend(WINDOW *win, int level, Options state, wchar_t *buffer, int length)$/;"	f	file:
+len_winstack	ncurses.c	/^static unsigned len_winstack = 0;$/;"	v	file:
+length	bs.c	/^    int length;			\/* length of ship *\/$/;"	m	struct:__anon1	file:
+length	ditto.c	/^    int length;			\/* length of windows[] and peeks[] *\/$/;"	m	struct:__anon12	file:
+length	railroad.c	/^static int length;$/;"	v	file:
+length	worm.c	/^static int length = 16, number = 3;$/;"	v	file:
+letters	blue.c	/^static chtype letters[4] =$/;"	v	file:
+lildeer0	xmas.c	/^static WINDOW *lildeer0;$/;"	v	file:
+lildeer1	xmas.c	/^static WINDOW *lildeer1;$/;"	v	file:
+lildeer2	xmas.c	/^static WINDOW *lildeer2;$/;"	v	file:
+lildeer3	xmas.c	/^static WINDOW *lildeer3;$/;"	v	file:
+linedata	linedata.h	/^static FILE *linedata;$/;"	v
+lines_of	movewindow.c	/^#define lines_of(/;"	d	file:
+link	cardfile.c	/^    struct _card *link;$/;"	m	struct:_card	typeref:struct:_card::_card	file:
+load_screen	savescreen.c	/^load_screen(char *filename)$/;"	f	file:
+loaded_file	demo_menus.c	/^static bool loaded_file = FALSE;$/;"	v	file:
+log_in	demo_panels.c	/^static FILE *log_in;$/;"	v	file:
+log_last_line	demo_altkeys.c	/^log_last_line(WINDOW *win)$/;"	f	file:
+log_last_line	demo_defkey.c	/^log_last_line(WINDOW *win)$/;"	f	file:
+log_last_line	foldkeys.c	/^log_last_line(WINDOW *win)$/;"	f	file:
+log_out	demo_panels.c	/^static FILE *log_out;$/;"	v	file:
+look_out	xmas.c	/^look_out(int msecs)$/;"	f	file:
+lookdeer0	xmas.c	/^static WINDOW *lookdeer0;$/;"	v	file:
+lookdeer1	xmas.c	/^static WINDOW *lookdeer1;$/;"	v	file:
+lookdeer2	xmas.c	/^static WINDOW *lookdeer2;$/;"	v	file:
+lookdeer3	xmas.c	/^static WINDOW *lookdeer3;$/;"	v	file:
+lookdeer4	xmas.c	/^static WINDOW *lookdeer4;$/;"	v	file:
+lower	worm.c	/^}, lower[8]={$/;"	v	typeref:struct:options	file:
+lowleft	worm.c	/^}, lowleft[8]={$/;"	v	typeref:struct:options	file:
+lowright	worm.c	/^}, lowright[8]={$/;"	v	typeref:struct:options	file:
+lptr	view.c	/^static NCURSES_CH_T **lptr;$/;"	v	file:
+m_opt	ins_wide.c	/^static bool m_opt = FALSE;$/;"	v	file:
+m_opt	inserts.c	/^static bool m_opt = FALSE;$/;"	v	file:
+m_opt	test_add_wchstr.c	/^static bool m_opt = FALSE;$/;"	v	file:
+m_opt	test_addchstr.c	/^static bool m_opt = FALSE;$/;"	v	file:
+m_opt	test_addstr.c	/^static bool m_opt = FALSE;$/;"	v	file:
+m_opt	test_addwstr.c	/^static bool m_opt = FALSE;$/;"	v	file:
+m_value	demo_forms.c	/^static int m_value = 0;$/;"	v	file:
+main	background.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	blue.c	/^main(int argc, char *argv[])$/;"	f
+main	bs.c	/^main(int argc, char *argv[])$/;"	f
+main	cardfile.c	/^main(int argc, char *argv[])$/;"	f
+main	cardfile.c	/^main(void)$/;"	f
+main	chgat.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	chgat.c	/^main(void)$/;"	f
+main	clip_printw.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	clip_printw.c	/^main(void)$/;"	f
+main	color_set.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	color_set.c	/^main(void)$/;"	f
+main	demo_altkeys.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	demo_altkeys.c	/^main(void)$/;"	f
+main	demo_defkey.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	demo_defkey.c	/^main(void)$/;"	f
+main	demo_forms.c	/^main(int argc, char *argv[])$/;"	f
+main	demo_forms.c	/^main(void)$/;"	f
+main	demo_keyok.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	demo_keyok.c	/^main(void)$/;"	f
+main	demo_menus.c	/^main(int argc, char *argv[])$/;"	f
+main	demo_menus.c	/^main(void)$/;"	f
+main	demo_panels.c	/^main(int argc, char *argv[])$/;"	f
+main	demo_panels.c	/^main(void)$/;"	f
+main	demo_termcap.c	/^main(int argc GCC_UNUSED,$/;"	f
+main	demo_termcap.c	/^main(int argc, char *argv[])$/;"	f
+main	demo_terminfo.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	demo_terminfo.c	/^main(int argc, char *argv[])$/;"	f
+main	ditto.c	/^main(int argc, char *argv[])$/;"	f
+main	dots.c	/^main(int argc GCC_UNUSED,$/;"	f
+main	dots_curses.c	/^main(int argc GCC_UNUSED,$/;"	f
+main	dots_mvcur.c	/^main(int argc GCC_UNUSED,$/;"	f
+main	dots_termcap.c	/^main(int argc GCC_UNUSED,$/;"	f
+main	echochar.c	/^main(int argc GCC_UNUSED,$/;"	f
+main	filter.c	/^main(int argc, char *argv[])$/;"	f
+main	filter.c	/^main(void)$/;"	f
+main	firework.c	/^main($/;"	f
+main	firstlast.c	/^main(int argc GCC_UNUSED,$/;"	f
+main	foldkeys.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	foldkeys.c	/^main(void)$/;"	f
+main	form_driver_w.c	/^main(void)$/;"	f
+main	gdc.c	/^main(int argc, char *argv[])$/;"	f
+main	hanoi.c	/^main(int argc, char **argv)$/;"	f
+main	hashtest.c	/^main(int argc, char *argv[])$/;"	f
+main	inch_wide.c	/^main(int argc, char *argv[])$/;"	f
+main	inch_wide.c	/^main(void)$/;"	f
+main	inchs.c	/^main(int argc, char *argv[])$/;"	f
+main	ins_wide.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	ins_wide.c	/^main(void)$/;"	f
+main	insdelln.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	inserts.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	inserts.c	/^main(void)$/;"	f
+main	key_names.c	/^main(int argc, char *argv[])$/;"	f
+main	key_names.c	/^main(void)$/;"	f
+main	keynames.c	/^main(int argc, char *argv[])$/;"	f
+main	knight.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	lrtest.c	/^main($/;"	f
+main	movewindow.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	ncurses.c	/^main(int argc, char *argv[])$/;"	f
+main	newdemo.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	railroad.c	/^main(int argc GCC_UNUSED,$/;"	f
+main	railroad.c	/^main(int argc, char *argv[])$/;"	f
+main	rain.c	/^main(int argc GCC_UNUSED,$/;"	f
+main	redraw.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	savescreen.c	/^main(int argc, char *argv[])$/;"	f
+main	tclock.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	test_add_wchstr.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	test_add_wchstr.c	/^main(void)$/;"	f
+main	test_addchstr.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	test_addstr.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	test_addwstr.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	test_addwstr.c	/^main(void)$/;"	f
+main	test_arrays.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	test_get_wstr.c	/^main(int argc, char *argv[])$/;"	f
+main	test_get_wstr.c	/^main(void)$/;"	f
+main	test_getstr.c	/^main(int argc, char *argv[])$/;"	f
+main	test_getstr.c	/^main(void)$/;"	f
+main	test_instr.c	/^main(int argc, char *argv[])$/;"	f
+main	test_inwstr.c	/^main(int argc, char *argv[])$/;"	f
+main	test_inwstr.c	/^main(void)$/;"	f
+main	test_opaque.c	/^main(int argc, char *argv[])$/;"	f
+main	test_opaque.c	/^main(void)$/;"	f
+main	test_setupterm.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	test_setupterm.c	/^main(int argc, char *argv[])$/;"	f
+main	test_vid_puts.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	test_vid_puts.c	/^main(void)$/;"	f
+main	test_vidputs.c	/^main(int argc GCC_UNUSED, char *argv[]GCC_UNUSED)$/;"	f
+main	test_vidputs.c	/^main(int argc GCC_UNUSED,$/;"	f
+main	testaddch.c	/^main($/;"	f
+main	testcurs.c	/^main($/;"	f
+main	testscanw.c	/^main(int argc, char *argv[])$/;"	f
+main	view.c	/^main(int argc, char *argv[])$/;"	f
+main	worm.c	/^main(int argc, char *argv[])$/;"	f
+main	xmas.c	/^main(int argc GCC_UNUSED, char **argv GCC_UNUSED)$/;"	f
+main_menu	ncurses.c	/^main_menu(bool top)$/;"	f	file:
+make_dbitem	demo_termcap.c	/^make_dbitem(char *p, char *q)$/;"	f	file:
+make_dbitem	demo_terminfo.c	/^make_dbitem(char *p, char *q)$/;"	f	file:
+make_dblist	demo_termcap.c	/^make_dblist(void)$/;"	f	file:
+make_dblist	demo_terminfo.c	/^make_dblist(void)$/;"	f	file:
+make_field	demo_forms.c	/^make_field(const char *label, int frow, int fcol, int rows, int cols)$/;"	f	file:
+make_field	ncurses.c	/^make_field(int frow, int fcol, int rows, int cols, bool secure)$/;"	f	file:
+make_fields	cardfile.c	/^make_fields(CARD * p, int form_high, int form_wide)$/;"	f	file:
+make_fullwidth_digit	demo_panels.c	/^make_fullwidth_digit(cchar_t *target, int digit)$/;"	f	file:
+make_fullwidth_digit	ncurses.c	/^make_fullwidth_digit(cchar_t *target, int digit)$/;"	f	file:
+make_fullwidth_text	ncurses.c	/^make_fullwidth_text(wchar_t *target, const char *source)$/;"	f	file:
+make_label	demo_forms.c	/^make_label(const char *label, int frow, int fcol)$/;"	f	file:
+make_label	ncurses.c	/^make_label(int frow, int fcol, NCURSES_CONST char *label)$/;"	f	file:
+make_narrow_text	ncurses.c	/^make_narrow_text(wchar_t *target, const char *source)$/;"	f	file:
+mark_possibles	knight.c	/^mark_possibles(int prow, int pcol, chtype mark)$/;"	f	file:
+markcell	knight.c	/^markcell(chtype tchar, int row, int column)$/;"	f	file:
+mask	demo_menus.c	/^    unsigned mask;$/;"	m	struct:__anon7	file:
+mask	gdc.c	/^static long older[6], next[6], newer[6], mask;$/;"	v	file:
+mask	ncurses.c	/^    unsigned mask;$/;"	m	struct:__anon29	file:
+max_colors	ncurses.c	/^#undef max_colors$/;"	d	file:
+max_colors	ncurses.c	/^static int max_colors;		\/* the actual number of colors we'll use *\/$/;"	v	file:
+max_pairs	ncurses.c	/^#undef max_pairs$/;"	d	file:
+max_pairs	ncurses.c	/^static int max_pairs;		\/* ...and the number of color pairs *\/$/;"	v	file:
+mblen	widechars.h	/^#define mblen(/;"	d
+mbtowc	widechars.h	/^#define mbtowc(/;"	d
+menu_create	demo_menus.c	/^menu_create(ITEM ** items, int count, int ncols, MenuNo number)$/;"	f	file:
+menu_destroy	demo_menus.c	/^menu_destroy(MENU * m)$/;"	f	file:
+menu_display	demo_menus.c	/^menu_display(MENU * m)$/;"	f	file:
+menu_getc	demo_menus.c	/^menu_getc(MENU * m)$/;"	f	file:
+menu_itemwidth	test.priv.h	/^#define menu_itemwidth(/;"	d
+menu_number	demo_menus.c	/^menu_number(void)$/;"	f	file:
+menu_offset	demo_menus.c	/^menu_offset(MenuNo number)$/;"	f	file:
+menu_test	ncurses.c	/^menu_test(void)$/;"	f	file:
+menu_virtualize	demo_menus.c	/^menu_virtualize(int c)$/;"	f	file:
+menu_virtualize	ncurses.c	/^menu_virtualize(int c)$/;"	f	file:
+merge_wide_attr	ncurses.c	/^merge_wide_attr(cchar_t *dst, const cchar_t *src, attr_t attr, NCURSES_PAIRS_T pair)$/;"	f	file:
+message	movewindow.c	/^message(int lineno, CONST_FMT char *fmt, va_list argp)$/;"	f	file:
+messages	newdemo.c	/^static const char *messages[] =$/;"	v	file:
+middeer0	xmas.c	/^static WINDOW *middeer0;$/;"	v	file:
+middeer1	xmas.c	/^static WINDOW *middeer1;$/;"	v	file:
+middeer2	xmas.c	/^static WINDOW *middeer2;$/;"	v	file:
+middeer3	xmas.c	/^static WINDOW *middeer3;$/;"	v	file:
+min_colors	ncurses.c	/^static int min_colors;		\/* the minimum color code *\/$/;"	v	file:
+minus	knight.c	/^static chtype minus = '-';	\/* possible-move character *\/$/;"	v	file:
+mkpanel	demo_panels.c	/^mkpanel(short color, int rows, int cols, int tly, int tlx)$/;"	f	file:
+mkpanel	ncurses.c	/^mkpanel(NCURSES_COLOR_T color, int rows, int cols, int tly, int tlx)$/;"	f	file:
+mmask_t	ncurses.c	/^#define mmask_t /;"	d	file:
+mod	ncurses.c	/^static NCURSES_CONST char *mod[] =$/;"	v	file:
+mode	lrtest.c	/^    int y, x, mode, dir, inc;$/;"	m	struct:__anon22	file:
+mouse_decode	ncurses.c	/^mouse_decode(MEVENT const *ep)$/;"	f	file:
+move_derwin	movewindow.c	/^move_derwin(WINDOW *win)$/;"	f	file:
+move_menu	demo_menus.c	/^move_menu(MENU * menu, MENU * current, int by_y, int by_x)$/;"	f	file:
+move_menus	demo_menus.c	/^move_menus(MENU * current, int by_y, int by_x)$/;"	f	file:
+move_window	movewindow.c	/^move_window(WINDOW *win, bool recur)$/;"	f	file:
+movecard	blue.c	/^movecard(int src, int dst)$/;"	f	file:
+movecount	knight.c	/^static int movecount;		\/* count of moves so far *\/$/;"	v	file:
+moveit	railroad.c	/^static char *moveit;$/;"	v	file:
+mpBanner	demo_menus.c	/^static MENU *mpBanner;$/;"	v	file:
+mpFile	demo_menus.c	/^static MENU *mpFile;$/;"	v	file:
+mpSelect	demo_menus.c	/^static MENU *mpSelect;$/;"	v	file:
+mpTrace	demo_menus.c	/^static MENU *mpTrace;$/;"	v	file:
+msgwin	knight.c	/^static WINDOW *msgwin;		\/* the message window *\/$/;"	v	file:
+mutex_next_drop	rain.c	/^pthread_mutex_t mutex_next_drop;$/;"	v
+mvhline	test.priv.h	/^#define mvhline(/;"	d
+mvvline	test.priv.h	/^#define mvvline(/;"	d
+mvwdelch	ncurses.c	/^#undef mvwdelch	/;"	d	file:
+mvwhline	test.priv.h	/^#define mvwhline(/;"	d
+mvwvline	test.priv.h	/^#define mvwvline(/;"	d
+my_bg	firework.c	/^static short my_bg = COLOR_BLACK;$/;"	v	file:
+my_bg	xmas.c	/^static int my_bg = COLOR_BLACK;$/;"	v	file:
+my_blob	demo_termcap.c	/^static char *my_blob;$/;"	v	file:
+my_blob	demo_terminfo.c	/^static char *my_blob;$/;"	v	file:
+my_boolcodes	demo_termcap.c	/^static char **my_boolcodes;$/;"	v	file:
+my_boolcodes	demo_terminfo.c	/^static char **my_boolcodes;$/;"	v	file:
+my_caps	dots_termcap.c	/^} my_caps[] = {$/;"	v	typeref:struct:__anon14	file:
+my_create_panel	demo_panels.c	/^my_create_panel(PANEL ** pans, int which, FillPanel myFill)$/;"	f	file:
+my_data	demo_forms.c	/^static MY_DATA *my_data;$/;"	v	file:
+my_form_driver	demo_forms.c	/^my_form_driver(FORM * form, int c)$/;"	f	file:
+my_form_driver	ncurses.c	/^my_form_driver(FORM * form, int c)$/;"	f	file:
+my_fp	test_vid_puts.c	/^static FILE *my_fp;$/;"	v	file:
+my_fp	test_vidputs.c	/^static FILE *my_fp;$/;"	v	file:
+my_item_init	demo_menus.c	/^my_item_init(MENU * menu)$/;"	f	file:
+my_item_term	demo_menus.c	/^my_item_term(MENU * menu)$/;"	f	file:
+my_menu_init	demo_menus.c	/^my_menu_init(MENU * menu)$/;"	f	file:
+my_menu_term	demo_menus.c	/^my_menu_term(MENU * menu)$/;"	f	file:
+my_move_panel	demo_panels.c	/^my_move_panel(PANEL ** pans, int which, bool continuous)$/;"	f	file:
+my_napms	dots_termcap.c	/^my_napms(int ms)$/;"	f	file:
+my_numcodes	demo_termcap.c	/^static char **my_numcodes;$/;"	v	file:
+my_numcodes	demo_terminfo.c	/^static char **my_numcodes;$/;"	v	file:
+my_numvalues	demo_termcap.c	/^static char **my_numvalues;$/;"	v	file:
+my_numvalues	demo_terminfo.c	/^static char **my_numvalues;$/;"	v	file:
+my_pair	view.c	/^#define my_pair /;"	d	file:
+my_pairs	xmas.c	/^static bool *my_pairs;$/;"	v	file:
+my_remove_panel	demo_panels.c	/^my_remove_panel(PANEL ** pans, int which)$/;"	f	file:
+my_resize_panel	demo_panels.c	/^my_resize_panel(PANEL ** pans, int which, FillPanel myFill)$/;"	f	file:
+my_strcodes	demo_termcap.c	/^static char **my_strcodes;$/;"	v	file:
+my_strcodes	demo_terminfo.c	/^static char **my_strcodes;$/;"	v	file:
+my_strvalues	demo_termcap.c	/^static char **my_strvalues;$/;"	v	file:
+my_strvalues	demo_terminfo.c	/^static char **my_strvalues;$/;"	v	file:
+my_termattrs	ncurses.c	/^my_termattrs(void)$/;"	f	file:
+mypair	dots_curses.c	/^mypair(int fg, int bg)$/;"	f	file:
+myself	rain.c	/^    pthread_t myself;$/;"	m	struct:__anon30	file:
+n_opt	demo_termcap.c	/^static bool n_opt = FALSE;$/;"	v	file:
+n_opt	demo_terminfo.c	/^static bool n_opt = FALSE;$/;"	v	file:
+n_opt	ins_wide.c	/^static int n_opt = -1;$/;"	v	file:
+n_opt	inserts.c	/^static int n_opt = -1;$/;"	v	file:
+n_opt	test_add_wchstr.c	/^static int n_opt = -1;$/;"	v	file:
+n_opt	test_addchstr.c	/^static int n_opt = -1;$/;"	v	file:
+n_opt	test_addstr.c	/^static int n_opt = -1;$/;"	v	file:
+n_opt	test_addwstr.c	/^static int n_opt = -1;$/;"	v	file:
+n_opt	test_setupterm.c	/^static bool n_opt = FALSE;$/;"	v	file:
+name	bs.c	/^    char *name;			\/* name of the ship type *\/$/;"	m	struct:__anon1	file:
+name	demo_forms.c	/^    char *name;$/;"	m	struct:__anon5	file:
+name	demo_menus.c	/^    NCURSES_CONST char *name;$/;"	m	struct:__anon7	file:
+name	dots_termcap.c	/^    const char *name;$/;"	m	struct:__anon14	file:
+name	foldkeys.c	/^    const char *name;$/;"	m	struct:__anon16	file:
+name	ncurses.c	/^    NCURSES_CONST char *name;$/;"	m	struct:__anon27	file:
+name	ncurses.c	/^    const char *name;$/;"	m	struct:__anon29	file:
+name	test_opaque.c	/^    const char *name;$/;"	m	struct:__anon37	file:
+nap_msec	ncurses.c	/^static int nap_msec = 1;$/;"	v	file:
+napsome	rain.c	/^napsome(void)$/;"	f	file:
+new_card	cardfile.c	/^new_card(void)$/;"	f	file:
+new_command	filter.c	/^new_command(char *buffer, int length, int underline)$/;"	f	file:
+newer	gdc.c	/^static long older[6], next[6], newer[6], mask;$/;"	v	file:
+newwin_legend	ncurses.c	/^newwin_legend(FRAME * curp)$/;"	f	file:
+newwin_move	ncurses.c	/^newwin_move(FRAME * curp, int dy, int dx)$/;"	f	file:
+newwin_report	ncurses.c	/^newwin_report(FRAME * curp)$/;"	f	file:
+next	gdc.c	/^static long older[6], next[6], newer[6], mask;$/;"	v	file:
+next_card	cardfile.c	/^next_card(CARD * now)$/;"	f	file:
+next_dbitem	demo_termcap.c	/^next_dbitem(void)$/;"	f	file:
+next_dbitem	demo_terminfo.c	/^next_dbitem(void)$/;"	f	file:
+next_j	rain.c	/^next_j(int j)$/;"	f	file:
+next_window	movewindow.c	/^next_window(WINDOW *win)$/;"	f	file:
+no_edit_field	edit_field.c	/^no_edit_field(void)$/;"	f
+no_previous_move	knight.c	/^no_previous_move(void)$/;"	f	file:
+nopts	worm.c	/^    int nopts;$/;"	m	struct:options	file:
+normal	worm.c	/^} normal[8]={$/;"	v	typeref:struct:options	file:
+normal_wchar	ncurses.c	/^normal_wchar(int ch)$/;"	f	file:
+num_lines	view.c	/^static int num_lines;$/;"	v	file:
+num_windows	movewindow.c	/^static unsigned num_windows;$/;"	v	file:
+number	worm.c	/^static int length = 16, number = 3;$/;"	v	file:
+numbers	bs.c	/^static char numbers[] = "   0  1  2  3  4  5  6  7  8  9";$/;"	v	file:
+oDefault	ins_wide.c	/^    oDefault = 0,$/;"	e	enum:__anon17	file:
+oDefault	inserts.c	/^    oDefault = 0,$/;"	e	enum:__anon19	file:
+oDefault	test_add_wchstr.c	/^    oDefault = 0,$/;"	e	enum:__anon31	file:
+oDefault	test_addchstr.c	/^    oDefault = 0,$/;"	e	enum:__anon32	file:
+oDefault	test_addstr.c	/^    oDefault = 0,$/;"	e	enum:__anon33	file:
+oDefault	test_addwstr.c	/^    oDefault = 0,$/;"	e	enum:__anon34	file:
+oMove	ins_wide.c	/^    oMove = 1,$/;"	e	enum:__anon17	file:
+oMove	inserts.c	/^    oMove = 1,$/;"	e	enum:__anon19	file:
+oMove	test_add_wchstr.c	/^    oMove = 1,$/;"	e	enum:__anon31	file:
+oMove	test_addchstr.c	/^    oMove = 1,$/;"	e	enum:__anon32	file:
+oMove	test_addstr.c	/^    oMove = 1,$/;"	e	enum:__anon33	file:
+oMove	test_addwstr.c	/^    oMove = 1,$/;"	e	enum:__anon34	file:
+oMoveWindow	ins_wide.c	/^    oMoveWindow = 3$/;"	e	enum:__anon17	file:
+oMoveWindow	inserts.c	/^    oMoveWindow = 3$/;"	e	enum:__anon19	file:
+oMoveWindow	test_add_wchstr.c	/^    oMoveWindow = 3$/;"	e	enum:__anon31	file:
+oMoveWindow	test_addchstr.c	/^    oMoveWindow = 3$/;"	e	enum:__anon32	file:
+oMoveWindow	test_addstr.c	/^    oMoveWindow = 3$/;"	e	enum:__anon33	file:
+oMoveWindow	test_addwstr.c	/^    oMoveWindow = 3$/;"	e	enum:__anon34	file:
+oWindow	ins_wide.c	/^    oWindow = 2,$/;"	e	enum:__anon17	file:
+oWindow	inserts.c	/^    oWindow = 2,$/;"	e	enum:__anon19	file:
+oWindow	test_add_wchstr.c	/^    oWindow = 2,$/;"	e	enum:__anon31	file:
+oWindow	test_addchstr.c	/^    oWindow = 2,$/;"	e	enum:__anon32	file:
+oWindow	test_addstr.c	/^    oWindow = 2,$/;"	e	enum:__anon33	file:
+oWindow	test_addwstr.c	/^    oWindow = 2,$/;"	e	enum:__anon34	file:
+o_value	demo_forms.c	/^static int o_value = 0;$/;"	v	file:
+offset_in_field	edit_field.c	/^offset_in_field(FORM * form)$/;"	f	file:
+offsets	knight.c	/^} offsets[] = {$/;"	v	typeref:struct:__anon21	file:
+okCOLOR	ncurses.c	/^#define okCOLOR(/;"	d	file:
+okMenuNo	demo_menus.c	/^#define okMenuNo(/;"	d	file:
+okRGB	ncurses.c	/^#define okRGB(/;"	d	file:
+ok_digit	demo_panels.c	/^ok_digit(int ch)$/;"	f	file:
+ok_keyname	ncurses.c	/^ok_keyname(int code)$/;"	f	file:
+ok_keyname	test_getstr.c	/^ok_keyname(int code)$/;"	f	file:
+ok_letter	demo_panels.c	/^ok_letter(int ch)$/;"	f	file:
+old_window	edit_field.c	/^static WINDOW *old_window;$/;"	v	file:
+oldch	knight.c	/^static chtype oldch;$/;"	v	file:
+older	gdc.c	/^static long older[6], next[6], newer[6], mask;$/;"	v	file:
+one_cycle	hashtest.c	/^one_cycle(int ch)$/;"	f	file:
+onsig	dots.c	/^onsig(int n GCC_UNUSED)$/;"	f	file:
+onsig	dots_curses.c	/^onsig(int n GCC_UNUSED)$/;"	f	file:
+onsig	dots_mvcur.c	/^onsig(int n GCC_UNUSED)$/;"	f	file:
+onsig	dots_termcap.c	/^onsig(int n GCC_UNUSED)$/;"	f	file:
+onsig	echochar.c	/^onsig(int n GCC_UNUSED)$/;"	f	file:
+onsig	firework.c	/^onsig(int n GCC_UNUSED)$/;"	f	file:
+onsig	railroad.c	/^onsig(int n GCC_UNUSED)$/;"	f	file:
+onsig	rain.c	/^onsig(int n GCC_UNUSED)$/;"	f	file:
+onsig	worm.c	/^onsig(int sig GCC_UNUSED)$/;"	f	file:
+open_screen	ditto.c	/^open_screen(DITTO * target, char **source, int length, int which1)$/;"	f	file:
+open_tty	ditto.c	/^open_tty(char *path)$/;"	f	file:
+options	worm.c	/^static const struct options {$/;"	s	file:
+opts	worm.c	/^    int opts[3];$/;"	m	struct:options	file:
+order_cards	cardfile.c	/^order_cards(CARD * first, int depth)$/;"	f	file:
+orientation	worm.c	/^    int orientation;$/;"	m	struct:worm	file:
+outerbox	ncurses.c	/^outerbox(pair ul, pair lr, bool onoff)$/;"	f	file:
+output	ditto.c	/^    FILE *output;$/;"	m	struct:__anon12	file:
+outputTest	testcurs.c	/^outputTest(WINDOW *win)$/;"	f	file:
+outs	dots.c	/^outs(const char *s)$/;"	f	file:
+outs	dots_mvcur.c	/^outs(const char *s)$/;"	f	file:
+outs	dots_termcap.c	/^outs(char *s)$/;"	f	file:
+outs	test_vid_puts.c	/^outs(const char *s)$/;"	f	file:
+outs	test_vidputs.c	/^outs(const char *s)$/;"	f	file:
+overlap_help	ncurses.c	/^overlap_help(int state, int flavors[OVERLAP_FLAVORS])$/;"	f	file:
+overlap_helpitem	ncurses.c	/^overlap_helpitem(int state, int item, char *message)$/;"	f	file:
+overlap_test	ncurses.c	/^overlap_test(void)$/;"	f	file:
+overlap_test_0	ncurses.c	/^overlap_test_0(WINDOW *a, WINDOW *b)$/;"	f	file:
+overlap_test_1	ncurses.c	/^overlap_test_1(int flavor, int col, WINDOW *a, char fill)$/;"	f	file:
+overlap_test_1_attr	ncurses.c	/^overlap_test_1_attr(WINDOW *win, int flavor, int col)$/;"	f	file:
+overlap_test_2	ncurses.c	/^overlap_test_2(int flavor, int col, WINDOW *a, char fill)$/;"	f	file:
+overlap_test_2_attr	ncurses.c	/^overlap_test_2_attr(WINDOW *win, int flavor, int col)$/;"	f	file:
+overlap_test_3	ncurses.c	/^overlap_test_3(WINDOW *a)$/;"	f	file:
+overlap_test_4	ncurses.c	/^overlap_test_4(int flavor, WINDOW *a, WINDOW *b)$/;"	f	file:
+pComment	demo_termcap.c	/^    ,pComment$/;"	e	enum:__anon8	file:
+pComment	demo_terminfo.c	/^    ,pComment$/;"	e	enum:__anon9	file:
+pDefault	demo_termcap.c	/^    pDefault = 0$/;"	e	enum:__anon8	file:
+pDefault	demo_terminfo.c	/^    pDefault = 0$/;"	e	enum:__anon9	file:
+pDescription	demo_termcap.c	/^    ,pDescription$/;"	e	enum:__anon8	file:
+pDescription	demo_terminfo.c	/^    ,pDescription$/;"	e	enum:__anon9	file:
+pEscaped	demo_termcap.c	/^    ,pEscaped$/;"	e	enum:__anon8	file:
+pEscaped	demo_terminfo.c	/^    ,pEscaped$/;"	e	enum:__anon9	file:
+pName	demo_termcap.c	/^    ,pName$/;"	e	enum:__anon8	file:
+pName	demo_terminfo.c	/^    ,pName$/;"	e	enum:__anon9	file:
+pNewline	demo_termcap.c	/^    ,pNewline$/;"	e	enum:__anon8	file:
+pNewline	demo_terminfo.c	/^    ,pNewline$/;"	e	enum:__anon9	file:
+pNumber	demo_termcap.c	/^    ,pNumber$/;"	e	enum:__anon8	file:
+pNumber	demo_terminfo.c	/^    ,pNumber$/;"	e	enum:__anon9	file:
+pString	demo_termcap.c	/^    ,pString$/;"	e	enum:__anon8	file:
+pString	demo_terminfo.c	/^    ,pString$/;"	e	enum:__anon9	file:
+p_opt	test_vid_puts.c	/^static bool p_opt = FALSE;$/;"	v	file:
+p_opt	test_vidputs.c	/^static bool p_opt = FALSE;$/;"	v	file:
+padTest	testcurs.c	/^padTest(WINDOW *dummy GCC_UNUSED)$/;"	f	file:
+padgetch	ncurses.c	/^padgetch(WINDOW *win)$/;"	f	file:
+pair	chgat.c	/^    short pair;$/;"	m	struct:__anon3	file:
+pair	clip_printw.c	/^    int pair;$/;"	m	struct:__anon4	file:
+pair	insdelln.c	/^    int pair;$/;"	m	struct:__anon18	file:
+pair	ncurses.c	/^} pair;$/;"	t	typeref:struct:__anon28	file:
+pair_1	cardfile.c	/^#define pair_1 /;"	d	file:
+pair_2	cardfile.c	/^#define pair_2 /;"	d	file:
+pair_of	movewindow.c	/^#define pair_of(/;"	d	file:
+panel	cardfile.c	/^    PANEL *panel;$/;"	m	struct:_card	file:
+panner	ncurses.c	/^panner(WINDOW *pad,$/;"	f	file:
+panner_h_cleanup	ncurses.c	/^panner_h_cleanup(int from_y, int from_x, int to_x)$/;"	f	file:
+panner_legend	ncurses.c	/^panner_legend(int line)$/;"	f	file:
+panner_v_cleanup	ncurses.c	/^panner_v_cleanup(int from_y, int from_x, int to_y)$/;"	f	file:
+parent	movewindow.c	/^    WINDOW *parent;		\/* need this since WINDOW->_parent is not portable *\/$/;"	m	struct:__anon24	file:
+parent_of	movewindow.c	/^parent_of(WINDOW *win)$/;"	f	file:
+parents	ditto.c	/^    WINDOW **parents;		\/* display boxes around each screen's data *\/$/;"	m	struct:__anon12	file:
+parse_description	demo_termcap.c	/^parse_description(const char *input_name)$/;"	f	file:
+parse_description	demo_terminfo.c	/^parse_description(const char *input_name)$/;"	f	file:
+parse_time	gdc.c	/^parse_time(const char *value)$/;"	f	file:
+part1	rain.c	/^part1(DATA * drop)$/;"	f	file:
+part2	rain.c	/^part2(DATA * drop)$/;"	f	file:
+part3	rain.c	/^part3(DATA * drop)$/;"	f	file:
+part4	rain.c	/^part4(DATA * drop)$/;"	f	file:
+part5	rain.c	/^part5(DATA * drop)$/;"	f	file:
+part6	rain.c	/^part6(DATA * drop)$/;"	f	file:
+pass_ctls	test_add_wchstr.c	/^static bool pass_ctls = FALSE;$/;"	v	file:
+pass_ctls	test_addchstr.c	/^static bool pass_ctls = FALSE;$/;"	v	file:
+peek_fifo	ditto.c	/^peek_fifo(FIFO * fifo, PEEK * peek)$/;"	f	file:
+peeks	ditto.c	/^    PEEK *peeks;		\/* indices for each screen's fifo *\/$/;"	m	struct:__anon12	file:
+pending	worm.c	/^static unsigned pending;$/;"	v	file:
+pending_pan	ncurses.c	/^static bool pending_pan = FALSE;$/;"	v	file:
+perform_file_menu	demo_menus.c	/^perform_file_menu(int cmd)$/;"	f	file:
+perform_menus	demo_menus.c	/^perform_menus(void)$/;"	f	file:
+perform_select_menu	demo_menus.c	/^perform_select_menu(int cmd)$/;"	f	file:
+perform_trace_menu	demo_menus.c	/^perform_trace_menu(int cmd)$/;"	f	file:
+pflush	demo_panels.c	/^pflush(void)$/;"	f	file:
+pflush	ncurses.c	/^pflush(void)$/;"	f	file:
+pgoto	bs.c	/^#define pgoto(/;"	d	file:
+placed	bs.c	/^    bool placed;		\/* has it been placed on the board? *\/$/;"	m	struct:__anon1	file:
+placeship	bs.c	/^placeship(int b, ship_t * ss, int vis)$/;"	f	file:
+play	knight.c	/^play(void)$/;"	f	file:
+play_game	blue.c	/^play_game(void)$/;"	f	file:
+playagain	bs.c	/^playagain(void)$/;"	f	file:
+plot	tclock.c	/^plot(int x, int y, int col)$/;"	f	file:
+plus	knight.c	/^static chtype plus = '+';	\/* cursor hot-spot character *\/$/;"	v	file:
+plyship	bs.c	/^static ship_t plyship[SHIPTYPES] =$/;"	v	file:
+plyturn	bs.c	/^plyturn(void)$/;"	f	file:
+plywon	bs.c	/^static int plywon = 0, cpuwon = 0;	\/* How many games has each won? *\/$/;"	v	file:
+prev_card	cardfile.c	/^prev_card(CARD * now)$/;"	f	file:
+prev_window	movewindow.c	/^prev_window(WINDOW *win)$/;"	f	file:
+printcard	blue.c	/^printcard(int value)$/;"	f	file:
+prompt	bs.c	/^prompt(int n, NCURSES_CONST char *f, const char *s)$/;"	f	file:
+ptboat	bs.c	/^static char ptboat[] = "PT Boat";$/;"	v	file:
+put_fifo	ditto.c	/^put_fifo(FIFO * fifo, int value)$/;"	f	file:
+put_next_drop	rain.c	/^put_next_drop(void)$/;"	f	file:
+q_opt	demo_termcap.c	/^static bool q_opt = FALSE;$/;"	v	file:
+q_opt	demo_terminfo.c	/^static bool q_opt = FALSE;$/;"	v	file:
+quit_worm	worm.c	/^quit_worm(int bitnum)$/;"	f	file:
+quitting	worm.c	/^static bool quitting = FALSE;$/;"	v	file:
+r_opt	test_setupterm.c	/^static bool r_opt = FALSE;$/;"	v	file:
+railroad	railroad.c	/^railroad(char **args)$/;"	f	file:
+random_x	rain.c	/^random_x(void)$/;"	f	file:
+random_y	rain.c	/^random_y(void)$/;"	f	file:
+randomfire	bs.c	/^randomfire(int *px, int *py)$/;"	f	file:
+randomplace	bs.c	/^randomplace(int b, ship_t * ss)$/;"	f	file:
+ranf	dots.c	/^ranf(void)$/;"	f	file:
+ranf	dots_curses.c	/^ranf(void)$/;"	f	file:
+ranf	dots_mvcur.c	/^ranf(void)$/;"	f	file:
+ranf	dots_termcap.c	/^ranf(void)$/;"	f	file:
+ranf	echochar.c	/^ranf(void)$/;"	f	file:
+ranf	rain.c	/^ranf(void)$/;"	f	file:
+ranf	worm.c	/^ranf(void)$/;"	f	file:
+ranks	blue.c	/^static chtype ranks[SUIT_LENGTH][2] =$/;"	v	file:
+read_data	cardfile.c	/^read_data(char *fname)$/;"	f	file:
+read_data	demo_forms.c	/^read_data(const char *filename)$/;"	f	file:
+read_linedata	linedata.h	/^read_linedata(WINDOW *work)$/;"	f
+read_screen	ditto.c	/^read_screen($/;"	f	file:
+really_define_key	demo_defkey.c	/^really_define_key(WINDOW *win, const char *new_string, int code)$/;"	f	file:
+really_draw	rain.c	/^really_draw(WINDOW *win, void *arg)$/;"	f	file:
+recur_move_window	movewindow.c	/^recur_move_window(WINDOW *parent, int dy, int dx)$/;"	f	file:
+red	ncurses.c	/^    NCURSES_COLOR_T red;$/;"	m	struct:__anon25	file:
+redefine	demo_defkey.c	/^redefine(WINDOW *win, char *string, int code)$/;"	f	file:
+redirected	gdc.c	/^static bool redirected = FALSE;$/;"	v	file:
+refresh_all	movewindow.c	/^refresh_all(WINDOW *win)$/;"	f	file:
+refs	worm.c	/^static int **refs;$/;"	v	file:
+reindeer	xmas.c	/^reindeer(void)$/;"	f	file:
+remember_boxes	ncurses.c	/^#define remember_boxes(/;"	d	file:
+remember_boxes	ncurses.c	/^remember_boxes(unsigned level, WINDOW *txt_win, WINDOW *box_win)$/;"	f	file:
+remove_definition	demo_defkey.c	/^remove_definition(WINDOW *win, int code)$/;"	f	file:
+repaint_one	movewindow.c	/^repaint_one(WINDOW *win)$/;"	f	file:
+replay_help	savescreen.c	/^replay_help(void)$/;"	f	file:
+reset_mbytes	ncurses.c	/^#define reset_mbytes(/;"	d	file:
+reset_mbytes	widechars.h	/^#define reset_mbytes(/;"	d
+reset_wchars	ncurses.c	/^#define reset_wchars(/;"	d	file:
+reshow_status	insdelln.c	/^reshow_status(WINDOW *win, STATUS * sp)$/;"	f	file:
+resizeTest	testcurs.c	/^resizeTest(WINDOW *dummy GCC_UNUSED)$/;"	f	file:
+resize_boxes	ncurses.c	/^resize_boxes(unsigned level, WINDOW *win)$/;"	f	file:
+resize_wide_boxes	ncurses.c	/^resize_wide_boxes(unsigned level, WINDOW *win)$/;"	f	file:
+result	edit_field.c	/^    int result;$/;"	m	struct:__anon15	file:
+reverse_loops	hashtest.c	/^static bool reverse_loops = FALSE;$/;"	v	file:
+right	worm.c	/^}, right[8]={$/;"	v	typeref:struct:options	file:
+rip_footer	demo_menus.c	/^rip_footer(WINDOW *win, int cols)$/;"	f	file:
+rip_footer	ncurses.c	/^rip_footer(WINDOW *win, int cols)$/;"	f	file:
+rip_header	demo_menus.c	/^rip_header(WINDOW *win, int cols)$/;"	f	file:
+rip_header	ncurses.c	/^rip_header(WINDOW *win, int cols)$/;"	f	file:
+rmpanel	ncurses.c	/^rmpanel(PANEL * pan)$/;"	f	file:
+rnd	bs.c	/^rnd(int n)$/;"	f	file:
+row_count	edit_field.h	/^    int row_count;$/;"	m	struct:__anon38
+row_lengths	edit_field.h	/^    int *row_lengths;$/;"	m	struct:__anon38
+run_test	hashtest.c	/^run_test(bool optimized GCC_UNUSED)$/;"	f	file:
+run_trace_menu	ncurses.c	/^run_trace_menu(MENU * m)$/;"	f	file:
+s_opt	demo_termcap.c	/^static bool s_opt = FALSE;$/;"	v	file:
+s_opt	demo_terminfo.c	/^static bool s_opt = FALSE;$/;"	v	file:
+salvo	bs.c	/^static int salvo, blitz, closepack;$/;"	v	file:
+save_trace	demo_menus.c	/^static unsigned save_trace = TRACE_ORDINARY | TRACE_CALLS;$/;"	v	file:
+save_trace	ncurses.c	/^static unsigned save_trace = TRACE_ORDINARY | TRACE_ICALLS | TRACE_CALLS;$/;"	v	file:
+saywhat	demo_panels.c	/^saywhat(NCURSES_CONST char *text)$/;"	f	file:
+saywhat	ncurses.c	/^saywhat(NCURSES_CONST char *text)$/;"	f	file:
+scaled_rgb	ncurses.c	/^#define scaled_rgb(/;"	d	file:
+scount	bs.c	/^scount(int who)$/;"	f	file:
+screen	ditto.c	/^    SCREEN *screen;		\/* this screen - curses internal data *\/$/;"	m	struct:__anon12	file:
+scrollTest	testcurs.c	/^scrollTest(WINDOW *win)$/;"	f	file:
+seas	xmas.c	/^seas(void)$/;"	f	file:
+selectcell	movewindow.c	/^selectcell(WINDOW *parent,$/;"	f	file:
+selectcell	ncurses.c	/^selectcell(int uli, int ulj, int lri, int lrj)$/;"	f	file:
+sequence	ditto.c	/^    unsigned long sequence;$/;"	m	struct:__anon10	file:
+sequence	ditto.c	/^    unsigned long sequence;$/;"	m	struct:__anon11	file:
+sequence	worm.c	/^static unsigned long sequence = 0;$/;"	v	file:
+set	gdc.c	/^set(int t, int n)$/;"	f	file:
+set_buffer_length	edit_field.c	/^set_buffer_length(FIELD * f, int length)$/;"	f	file:
+set_color	echochar.c	/^set_color(char *my_pairs, int fg, int bg)$/;"	f	file:
+set_color	xmas.c	/^set_color(WINDOW *win, chtype color)$/;"	f	file:
+set_color_test	ncurses.c	/^#define set_color_test(/;"	d	file:
+set_colors	dots_curses.c	/^set_colors(int fg, int bg)$/;"	f	file:
+set_colors	newdemo.c	/^set_colors(WINDOW *win, int pair, int foreground, int background)$/;"	f	file:
+set_sgr	ncurses.c	/^#define set_sgr(/;"	d	file:
+set_terminal_modes	ncurses.c	/^set_terminal_modes(void)$/;"	f	file:
+set_wide_background	ncurses.c	/^set_wide_background(NCURSES_PAIRS_T pair)$/;"	f	file:
+setlocale	test.priv.h	/^#define setlocale(/;"	d
+setup_getch	ncurses.c	/^setup_getch(WINDOW *win, GetchFlags flags)$/;"	f	file:
+setup_next	savescreen.c	/^setup_next(void)$/;"	f	file:
+sgetc	bs.c	/^sgetc(const char *s)$/;"	f	file:
+shift	view.c	/^static int shift = 0;$/;"	v	file:
+ship_t	bs.c	/^} ship_t;$/;"	t	typeref:struct:__anon1	file:
+show	lrtest.c	/^show(MARK *m)$/;"	f	file:
+show_1_acs	ncurses.c	/^show_1_acs(int n, int repeat, const char *name, chtype code)$/;"	f	file:
+show_1_wacs	ncurses.c	/^show_1_wacs(int n, int repeat, const char *name, const cchar_t *code)$/;"	f	file:
+show_1st	test_instr.c	/^show_1st(WINDOW *win, int line, char *buffer)$/;"	f	file:
+show_1st	test_inwstr.c	/^show_1st(WINDOW *win, int line, wchar_t *buffer)$/;"	f	file:
+show_256_chars	ncurses.c	/^show_256_chars(int repeat, attr_t attr, NCURSES_PAIRS_T pair)$/;"	f	file:
+show_2_wacs	ncurses.c	/^show_2_wacs(int n, const char *name, const char *code, attr_t attr, NCURSES_PAIRS_T pair)$/;"	f	file:
+show_acs_chars	ncurses.c	/^show_acs_chars(int repeat, attr_t attr, NCURSES_PAIRS_T pair)$/;"	f	file:
+show_all	view.c	/^show_all(const char *tag)$/;"	f	file:
+show_attr	ncurses.c	/^show_attr(WINDOW *win, int row, int skip, bool arrow, chtype attr, const char *name)$/;"	f	file:
+show_attr	test_addchstr.c	/^static attr_t show_attr;$/;"	v	file:
+show_box_chars	ncurses.c	/^show_box_chars(int repeat, attr_t attr, NCURSES_PAIRS_T pair)$/;"	f	file:
+show_color_attr	ncurses.c	/^show_color_attr(int fg, int bg, int tx)$/;"	f	file:
+show_color_name	ncurses.c	/^show_color_name(int y, int x, int color, bool wide)$/;"	f	file:
+show_current_field	demo_forms.c	/^show_current_field(WINDOW *win, FORM * form)$/;"	f	file:
+show_derwin	movewindow.c	/^show_derwin(WINDOW *win)$/;"	f	file:
+show_ditto	ditto.c	/^show_ditto(DITTO * data, int count, DDATA * ddata)$/;"	f	file:
+show_help	chgat.c	/^show_help(WINDOW *win)$/;"	f	file:
+show_help	clip_printw.c	/^show_help(WINDOW *win)$/;"	f	file:
+show_help	insdelln.c	/^show_help(WINDOW *win)$/;"	f	file:
+show_help	knight.c	/^show_help(bool * keyhelp)$/;"	f	file:
+show_help	movewindow.c	/^show_help(WINDOW *current)$/;"	f	file:
+show_help	savescreen.c	/^show_help(const char **help)$/;"	f	file:
+show_insert_mode	demo_forms.c	/^show_insert_mode(bool insert_mode)$/;"	f	file:
+show_keyword	test_opaque.c	/^show_keyword(WINDOW *stswin, int cell, int active, const char *name)$/;"	f	file:
+show_legend	cardfile.c	/^show_legend(void)$/;"	f	file:
+show_mouse	ncurses.c	/^show_mouse(WINDOW *win)$/;"	f	file:
+show_number	demo_termcap.c	/^show_number(const char *name, int value)$/;"	f	file:
+show_opaque	test_opaque.c	/^show_opaque(WINDOW *stswin, WINDOW *txtwin, bool before, int active)$/;"	f	file:
+show_paged_widechars	ncurses.c	/^show_paged_widechars(int base,$/;"	f	file:
+show_panels	demo_panels.c	/^show_panels(PANEL * px[MAX_PANELS + 1])$/;"	f	file:
+show_panner_legend	ncurses.c	/^static bool show_panner_legend = TRUE;$/;"	v	file:
+show_pc_chars	ncurses.c	/^show_pc_chars(int repeat, attr_t attr, NCURSES_PAIRS_T pair)$/;"	f	file:
+show_position	demo_panels.c	/^show_position(NCURSES_CONST char *text,$/;"	f	file:
+show_status	chgat.c	/^show_status(WINDOW *win, STATUS * sp)$/;"	f	file:
+show_status	clip_printw.c	/^show_status(WINDOW *win, STATUS * sp)$/;"	f	file:
+show_status	demo_menus.c	/^show_status(int ch, MENU * menu)$/;"	f	file:
+show_status	insdelln.c	/^show_status(WINDOW *win, STATUS * sp)$/;"	f	file:
+show_string	demo_termcap.c	/^show_string(const char *name, const char *value)$/;"	f	file:
+show_upper_chars	ncurses.c	/^show_upper_chars(int base, int pagesize, int repeat, attr_t attr, NCURSES_PAIRS_T pair)$/;"	f	file:
+show_upper_widechars	ncurses.c	/^show_upper_widechars(int first, int repeat, int space, attr_t attr, NCURSES_PAIRS_T pair)$/;"	f	file:
+show_utf8_chars	ncurses.c	/^show_utf8_chars(int repeat, attr_t attr, NCURSES_PAIRS_T pair)$/;"	f	file:
+show_wacs_chars	ncurses.c	/^show_wacs_chars(int repeat, attr_t attr, NCURSES_PAIRS_T pair)$/;"	f	file:
+show_wacs_chars_double	ncurses.c	/^show_wacs_chars_double(int repeat, attr_t attr, NCURSES_PAIRS_T pair)$/;"	f	file:
+show_wacs_chars_thick	ncurses.c	/^show_wacs_chars_thick(int repeat, attr_t attr, NCURSES_PAIRS_T pair)$/;"	f	file:
+show_wbox_chars	ncurses.c	/^show_wbox_chars(int repeat, attr_t attr, NCURSES_PAIRS_T pair)$/;"	f	file:
+show_what	savescreen.c	/^show_what(int which, int last)$/;"	f	file:
+showit	firework.c	/^showit(void)$/;"	f	file:
+showmore	test_instr.c	/^showmore(WINDOW *win, int line, char *buffer)$/;"	f	file:
+showmore	test_inwstr.c	/^showmore(WINDOW *win, int line, wchar_t *buffer)$/;"	f	file:
+shuffle	blue.c	/^shuffle(int size)$/;"	f	file:
+sighndl	gdc.c	/^sighndl(int signo)$/;"	f	file:
+sign	tclock.c	/^#define sign(/;"	d	file:
+sigtermed	gdc.c	/^static int sigtermed = 0;$/;"	v	file:
+single_step	hashtest.c	/^static bool single_step = FALSE;$/;"	v	file:
+skip	cardfile.c	/^skip(const char *buffer)$/;"	f	file:
+sleep	test.priv.h	/^#define sleep(/;"	d
+sleep	test.priv.h	/^#undef sleep$/;"	d
+slk_clear	test.priv.h	/^#define slk_clear(/;"	d
+slk_help	ncurses.c	/^slk_help(void)$/;"	f	file:
+slk_init	test.priv.h	/^#define slk_init(/;"	d
+slk_repaint	ncurses.c	/^#define slk_repaint(/;"	d	file:
+slk_repaint	ncurses.c	/^slk_repaint(void)$/;"	f	file:
+slk_restore	test.priv.h	/^#define slk_restore(/;"	d
+slk_test	ncurses.c	/^slk_test(void)$/;"	f	file:
+small	test.priv.h	/^#undef small$/;"	d
+source	ditto.c	/^    int source;			\/* which screen did character come from *\/$/;"	m	struct:__anon13	file:
+standt	gdc.c	/^standt(int on)$/;"	f	file:
+star	xmas.c	/^star(void)$/;"	f	file:
+stardeer0	xmas.c	/^static WINDOW *stardeer0;$/;"	v	file:
+startC	railroad.c	/^static char *startC;$/;"	v	file:
+startS	railroad.c	/^static char *startS;$/;"	v	file:
+startU	railroad.c	/^static char *startU;$/;"	v	file:
+start_drop	rain.c	/^start_drop(DATA * data)$/;"	f	file:
+start_worm	worm.c	/^start_worm(void *arg)$/;"	f	file:
+started	dots.c	/^static time_t started;$/;"	v	file:
+started	dots_curses.c	/^static time_t started;$/;"	v	file:
+started	dots_mvcur.c	/^static time_t started;$/;"	v	file:
+started	dots_termcap.c	/^static time_t started;$/;"	v	file:
+started	echochar.c	/^static time_t started;$/;"	v	file:
+state	foldkeys.c	/^    int state;$/;"	m	struct:__anon16	file:
+state	rain.c	/^    int state;$/;"	m	struct:DATA	file:
+state_unused	ncurses.c	/^#define state_unused$/;"	d	file:
+state_unused	widechars.h	/^#define state_unused$/;"	d
+status	clip_printw.c	/^    int status;$/;"	m	struct:__anon4	file:
+status	demo_menus.c	/^static WINDOW *status;$/;"	v	file:
+status_x	test_opaque.c	/^status_x(WINDOW *stswin, int cell)$/;"	f	file:
+status_y	test_opaque.c	/^status_y(WINDOW *stswin, int cell)$/;"	f	file:
+statusline	demo_panels.c	/^statusline(void)$/;"	f	file:
+strng1	xmas.c	/^strng1(void)$/;"	f	file:
+strng2	xmas.c	/^strng2(void)$/;"	f	file:
+strng3	xmas.c	/^strng3(void)$/;"	f	file:
+strng4	xmas.c	/^strng4(void)$/;"	f	file:
+strng5	xmas.c	/^strng5(void)$/;"	f	file:
+sub	bs.c	/^static char sub[] = "Submarine";$/;"	v	file:
+suits	blue.c	/^static chtype *suits = letters;	\/* this may change to glyphs below *\/$/;"	v	file:
+symbol	bs.c	/^    char symbol;		\/* symbol for game purposes *\/$/;"	m	struct:__anon1	file:
+t_AB	dots_termcap.c	/^static char *t_AB;$/;"	v	file:
+t_AF	dots_termcap.c	/^static char *t_AF;$/;"	v	file:
+t_cl	dots_termcap.c	/^static char *t_cl;$/;"	v	file:
+t_cm	dots_termcap.c	/^static char *t_cm;$/;"	v	file:
+t_me	dots_termcap.c	/^static char *t_me;$/;"	v	file:
+t_mr	dots_termcap.c	/^static char *t_mr;$/;"	v	file:
+t_oc	dots_termcap.c	/^static char *t_oc;$/;"	v	file:
+t_op	dots_termcap.c	/^static char *t_op;$/;"	v	file:
+t_tbl	demo_menus.c	/^static MENU_DATA t_tbl[] =$/;"	v	file:
+t_tbl	ncurses.c	/^} t_tbl[] = {$/;"	v	typeref:struct:__anon29	file:
+t_value	demo_forms.c	/^static char *t_value = 0;$/;"	v	file:
+t_ve	dots_termcap.c	/^static char *t_ve;$/;"	v	file:
+t_vi	dots_termcap.c	/^static char *t_vi;$/;"	v	file:
+tail	ditto.c	/^    int tail;$/;"	m	struct:__anon10	file:
+tail_line	movewindow.c	/^tail_line(CONST_FMT char *fmt,...)$/;"	f	file:
+target	ditto.c	/^    int target;			\/* which screen is character going to *\/$/;"	m	struct:__anon13	file:
+target_wchar	ncurses.c	/^target_wchar(int ch)$/;"	f	file:
+temp_buffer	test_add_wchstr.c	/^static cchar_t *temp_buffer;$/;"	v	file:
+temp_buffer	test_addchstr.c	/^static chtype *temp_buffer;$/;"	v	file:
+temp_length	test_add_wchstr.c	/^static size_t temp_length;$/;"	v	file:
+temp_length	test_addchstr.c	/^static size_t temp_length;$/;"	v	file:
+termattrs	ncurses.c	/^#define termattrs(/;"	d	file:
+test_add_wchstr	test_add_wchstr.c	/^test_add_wchstr(int level)$/;"	f	file:
+test_adds	test_addchstr.c	/^test_adds(int level)$/;"	f	file:
+test_adds	test_addstr.c	/^test_adds(int level)$/;"	f	file:
+test_background	background.c	/^test_background(void)$/;"	f	file:
+test_chgat	chgat.c	/^test_chgat(void)$/;"	f	file:
+test_clipping	clip_printw.c	/^test_clipping(WINDOW *win)$/;"	f	file:
+test_get_wstr	test_get_wstr.c	/^test_get_wstr(int level, char **argv, WINDOW *strwin)$/;"	f	file:
+test_getstr	test_getstr.c	/^test_getstr(int level, char **argv, WINDOW *strwin)$/;"	f	file:
+test_inchs	inch_wide.c	/^test_inchs(int level, char **argv, WINDOW *chrwin, WINDOW *strwin)$/;"	f	file:
+test_inchs	inchs.c	/^test_inchs(int level, char **argv, WINDOW *chrwin, WINDOW *strwin)$/;"	f	file:
+test_inchs	test_instr.c	/^test_inchs(int level, char **argv, WINDOW *chrwin, WINDOW *strwin)$/;"	f	file:
+test_inchs	test_inwstr.c	/^test_inchs(int level, char **argv, WINDOW *chrwin, WINDOW *strwin)$/;"	f	file:
+test_insdelln	insdelln.c	/^test_insdelln(void)$/;"	f	file:
+test_inserts	ins_wide.c	/^test_inserts(int level)$/;"	f	file:
+test_inserts	inserts.c	/^test_inserts(int level)$/;"	f	file:
+test_inserts	test_addwstr.c	/^test_inserts(int level)$/;"	f	file:
+test_opaque	test_opaque.c	/^test_opaque(int level, char **argv, WINDOW *stswin)$/;"	f	file:
+test_opaque_cleared	test_opaque.c	/^test_opaque_cleared(WINDOW *win, int mode)$/;"	f	file:
+test_opaque_idcok	test_opaque.c	/^test_opaque_idcok(WINDOW *win, int mode)$/;"	f	file:
+test_opaque_idlok	test_opaque.c	/^test_opaque_idlok(WINDOW *win, int mode)$/;"	f	file:
+test_opaque_immedok	test_opaque.c	/^test_opaque_immedok(WINDOW *win, int mode)$/;"	f	file:
+test_opaque_keypad	test_opaque.c	/^test_opaque_keypad(WINDOW *win, int mode)$/;"	f	file:
+test_opaque_leaveok	test_opaque.c	/^test_opaque_leaveok(WINDOW *win, int mode)$/;"	f	file:
+test_opaque_nodelay	test_opaque.c	/^test_opaque_nodelay(WINDOW *win, int mode)$/;"	f	file:
+test_opaque_notimeout	test_opaque.c	/^test_opaque_notimeout(WINDOW *win, int mode)$/;"	f	file:
+test_opaque_scrollok	test_opaque.c	/^test_opaque_scrollok(WINDOW *win, int mode)$/;"	f	file:
+test_opaque_syncok	test_opaque.c	/^test_opaque_syncok(WINDOW *win, int mode)$/;"	f	file:
+test_rc	test_setupterm.c	/^test_rc(NCURSES_CONST char *name, int actual_rc, int actual_err)$/;"	f	file:
+test_redraw	redraw.c	/^test_redraw(WINDOW *win)$/;"	f	file:
+test_set_escdelay	test_opaque.c	/^test_set_escdelay(void)$/;"	f	file:
+test_set_tabsize	test_opaque.c	/^test_set_tabsize(void)$/;"	f	file:
+test_setupterm	test_setupterm.c	/^test_setupterm(NCURSES_CONST char *name)$/;"	f	file:
+test_sgr_attributes	ncurses.c	/^test_sgr_attributes(void)$/;"	f	file:
+test_vid_puts	test_vid_puts.c	/^test_vid_puts(void)$/;"	f	file:
+test_vidputs	test_vidputs.c	/^test_vidputs(void)$/;"	f	file:
+test_wchgat	chgat.c	/^test_wchgat(WINDOW *win)$/;"	f	file:
+test_winsdelln	insdelln.c	/^test_winsdelln(WINDOW *win)$/;"	f	file:
+text	ncurses.c	/^    WINDOW *text;$/;"	m	struct:__anon26	file:
+text	testcurs.c	/^    NCURSES_CONST char *text;$/;"	m	struct:commands	file:
+the_color_names	color_name.h	/^static NCURSES_CONST char *the_color_names[] =$/;"	v
+the_color_names	ncurses.c	/^static NCURSES_CONST char *the_color_names[] =$/;"	v	file:
+thread	ditto.c	/^    pthread_t thread;$/;"	m	struct:__anon12	file:
+thread	worm.c	/^    pthread_t thread;$/;"	m	struct:worm	file:
+title	cardfile.c	/^    char *title;$/;"	m	struct:_card	file:
+titles	ditto.c	/^    char **titles;		\/* per-window titles *\/$/;"	m	struct:__anon12	file:
+to_keyword	test_opaque.c	/^to_keyword(WINDOW *stswin, int cell)$/;"	f	file:
+to_result	test_opaque.c	/^to_result(WINDOW *stswin, int cell, bool before)$/;"	f	file:
+total_b_values	demo_termcap.c	/^static long total_b_values;$/;"	v	file:
+total_b_values	demo_terminfo.c	/^static long total_b_values;$/;"	v	file:
+total_chars	dots.c	/^static long total_chars = 0;$/;"	v	file:
+total_chars	dots_curses.c	/^static long total_chars = 0;$/;"	v	file:
+total_chars	dots_mvcur.c	/^static long total_chars = 0;$/;"	v	file:
+total_chars	dots_termcap.c	/^static long total_chars = 0;$/;"	v	file:
+total_chars	echochar.c	/^static long total_chars = 0;$/;"	v	file:
+total_n_values	demo_termcap.c	/^static long total_n_values;$/;"	v	file:
+total_n_values	demo_terminfo.c	/^static long total_n_values;$/;"	v	file:
+total_s_values	demo_termcap.c	/^static long total_s_values;$/;"	v	file:
+total_s_values	demo_terminfo.c	/^static long total_s_values;$/;"	v	file:
+total_values	demo_termcap.c	/^static long total_values;$/;"	v	file:
+total_values	demo_terminfo.c	/^static long total_values;$/;"	v	file:
+touch_if_needed	chgat.c	/^#define touch_if_needed(/;"	d	file:
+tparm2	test.priv.h	/^#define tparm2(/;"	d
+tparm3	test.priv.h	/^#define tparm3(/;"	d
+trace_end	worm.c	/^static int generation, trace_start, trace_end;$/;"	v	file:
+trace_set	ncurses.c	/^trace_set(void)$/;"	f	file:
+trace_start	worm.c	/^static int generation, trace_start, trace_end;$/;"	v	file:
+tracetrace	demo_menus.c	/^tracetrace(unsigned tlevel)$/;"	f	file:
+tracetrace	ncurses.c	/^tracetrace(unsigned tlevel)$/;"	f	file:
+trail	knight.c	/^static chtype trail = '#';	\/* trail character *\/$/;"	v	file:
+trail	worm.c	/^static chtype trail = ' ';$/;"	v	file:
+trans_mbytes	ncurses.c	/^#define trans_mbytes(/;"	d	file:
+trans_wchars	ncurses.c	/^#define trans_wchars(/;"	d	file:
+transient	ncurses.c	/^transient(FRAME * curp, NCURSES_CONST char *msg)$/;"	f	file:
+trap	newdemo.c	/^trap(int sig GCC_UNUSED)$/;"	f	file:
+trash	redraw.c	/^trash(int beg_x, int max_x, int cur_x)$/;"	f	file:
+tree	xmas.c	/^tree(void)$/;"	f	file:
+treescrn	xmas.c	/^static WINDOW *treescrn;$/;"	v	file:
+treescrn2	xmas.c	/^static WINDOW *treescrn2;$/;"	v	file:
+treescrn3	xmas.c	/^static WINDOW *treescrn3;$/;"	v	file:
+treescrn4	xmas.c	/^static WINDOW *treescrn4;$/;"	v	file:
+treescrn5	xmas.c	/^static WINDOW *treescrn5;$/;"	v	file:
+treescrn6	xmas.c	/^static WINDOW *treescrn6;$/;"	v	file:
+treescrn7	xmas.c	/^static WINDOW *treescrn7;$/;"	v	file:
+treescrn8	xmas.c	/^static WINDOW *treescrn8;$/;"	v	file:
+trialcount	knight.c	/^static int trialcount;		\/* count of trials so far *\/$/;"	v	file:
+trim	cardfile.c	/^trim(char *buffer)$/;"	f	file:
+trimmed	demo_forms.c	/^trimmed(const char *value)$/;"	f	file:
+try_color	cardfile.c	/^static bool try_color = FALSE;$/;"	v	file:
+try_color	view.c	/^static bool try_color = FALSE;$/;"	v	file:
+turn	bs.c	/^static int turn;		\/* 0=player, 1=computer *\/$/;"	v	file:
+typeCalloc	test.priv.h	/^#define typeCalloc(/;"	d
+typeMalloc	test.priv.h	/^#define typeMalloc(/;"	d
+typeRealloc	test.priv.h	/^#define typeRealloc(/;"	d
+unboxed	demo_panels.c	/^static bool unboxed = FALSE;$/;"	v	file:
+uninitgame	bs.c	/^uninitgame(int sig GCC_UNUSED)$/;"	f	file:
+unmarkcell	knight.c	/^unmarkcell(int row, int column)$/;"	f	file:
+unset_color	xmas.c	/^unset_color(WINDOW *win)$/;"	f	file:
+update_refs	worm.c	/^update_refs(WINDOW *win)$/;"	f	file:
+update_status	chgat.c	/^update_status(WINDOW *win, STATUS * sp)$/;"	f	file:
+update_status	clip_printw.c	/^update_status(WINDOW *win, STATUS * sp)$/;"	f	file:
+update_status	insdelln.c	/^update_status(WINDOW *win, STATUS * sp)$/;"	f	file:
+update_trace_menu	demo_menus.c	/^update_trace_menu(MENU * m)$/;"	f	file:
+upleft	worm.c	/^}, upleft[8]={$/;"	v	typeref:struct:options	file:
+upper	worm.c	/^}, upper[8]={$/;"	v	typeref:struct:options	file:
+upright	worm.c	/^}, upright[8]={$/;"	v	typeref:struct:options	file:
+usage	background.c	/^usage(void)$/;"	f	file:
+usage	cardfile.c	/^usage(void)$/;"	f	file:
+usage	demo_forms.c	/^usage(void)$/;"	f	file:
+usage	demo_menus.c	/^usage(void)$/;"	f	file:
+usage	demo_panels.c	/^usage(void)$/;"	f	file:
+usage	demo_termcap.c	/^usage(void)$/;"	f	file:
+usage	demo_terminfo.c	/^usage(void)$/;"	f	file:
+usage	ditto.c	/^usage(void)$/;"	f	file:
+usage	filter.c	/^usage(void)$/;"	f	file:
+usage	gdc.c	/^usage(void)$/;"	f	file:
+usage	hashtest.c	/^usage(void)$/;"	f	file:
+usage	ins_wide.c	/^usage(void)$/;"	f	file:
+usage	inserts.c	/^usage(void)$/;"	f	file:
+usage	key_names.c	/^usage(void)$/;"	f	file:
+usage	keynames.c	/^usage(void)$/;"	f	file:
+usage	ncurses.c	/^usage(void)$/;"	f	file:
+usage	savescreen.c	/^usage(void)$/;"	f	file:
+usage	test_add_wchstr.c	/^usage(void)$/;"	f	file:
+usage	test_addchstr.c	/^usage(void)$/;"	f	file:
+usage	test_addstr.c	/^usage(void)$/;"	f	file:
+usage	test_addwstr.c	/^usage(void)$/;"	f	file:
+usage	test_setupterm.c	/^usage(void)$/;"	f	file:
+usage	test_vid_puts.c	/^usage(void)$/;"	f	file:
+usage	test_vidputs.c	/^usage(void)$/;"	f	file:
+usage	view.c	/^usage(void)$/;"	f	file:
+use_colors	demo_panels.c	/^static bool use_colors = FALSE;$/;"	v	file:
+use_colors	ncurses.c	/^static bool use_colors;		\/* true if we use colors *\/$/;"	v	file:
+use_colors	newdemo.c	/^use_colors(WINDOW *win, int pair, chtype attrs)$/;"	f	file:
+use_fullwidth	ncurses.c	/^static bool use_fullwidth;$/;"	v	file:
+use_init	savescreen.c	/^static bool use_init = FALSE;$/;"	v	file:
+used_threads	rain.c	/^static int used_threads;$/;"	v	file:
+v	chgat.c	/^    unsigned v;$/;"	m	struct:__anon3	file:
+v	clip_printw.c	/^    unsigned v;$/;"	m	struct:__anon4	file:
+v	insdelln.c	/^    unsigned v;$/;"	m	struct:__anon18	file:
+v_msg	chgat.c	/^    const char *v_msg;$/;"	m	struct:__anon3	file:
+v_msg	clip_printw.c	/^    const char *v_msg;$/;"	m	struct:__anon4	file:
+v_msg	insdelln.c	/^    const char *v_msg;$/;"	m	struct:__anon18	file:
+valid	dots.c	/^#define valid(/;"	d	file:
+valid	dots_curses.c	/^#define valid(/;"	d	file:
+valid	dots_mvcur.c	/^#define valid(/;"	d	file:
+valid	dots_termcap.c	/^#define valid(/;"	d	file:
+valid	echochar.c	/^#define valid(/;"	d	file:
+valid	test_vid_puts.c	/^#define valid(/;"	d	file:
+valid	test_vidputs.c	/^#define valid(/;"	d	file:
+value	demo_forms.c	/^    char *value;$/;"	m	struct:__anon5	file:
+value	dots_termcap.c	/^    char **value;$/;"	m	struct:__anon14	file:
+value	foldkeys.c	/^    const char *value;$/;"	m	struct:__anon16	file:
+value	lrtest.c	/^    chtype value;$/;"	m	struct:__anon22	file:
+vec_lines	view.c	/^static NCURSES_CH_T **vec_lines;$/;"	v	file:
+video_params	chgat.c	/^video_params(unsigned state, unsigned *attr)$/;"	f	file:
+video_params	clip_printw.c	/^video_params(unsigned state, attr_t *attr)$/;"	f	file:
+video_params	insdelln.c	/^video_params(unsigned state, unsigned *attr)$/;"	f	file:
+visible	demo_defkey.c	/^visible(const char *string)$/;"	f	file:
+visichar	demo_defkey.c	/^visichar(int ch)$/;"	f	file:
+wGet_wchar	ncurses.c	/^wGet_wchar(WINDOW *win, wint_t *result)$/;"	f	file:
+wGet_wstring	ncurses.c	/^wGet_wstring(WINDOW *win, wchar_t *buffer, int limit)$/;"	f	file:
+wGetchar	demo_menus.c	/^wGetchar(WINDOW *win)$/;"	f	file:
+wGetchar	ncurses.c	/^wGetchar(WINDOW *win)$/;"	f	file:
+wGetstring	ncurses.c	/^wGetstring(WINDOW *win, char *buffer, int limit)$/;"	f	file:
+w_del_msg	xmas.c	/^static WINDOW *w_del_msg;$/;"	v	file:
+w_holiday	xmas.c	/^static WINDOW *w_holiday;$/;"	v	file:
+w_opt	ins_wide.c	/^static bool w_opt = FALSE;$/;"	v	file:
+w_opt	inserts.c	/^static bool w_opt = FALSE;$/;"	v	file:
+w_opt	test_add_wchstr.c	/^static bool w_opt = FALSE;$/;"	v	file:
+w_opt	test_addchstr.c	/^static bool w_opt = FALSE;$/;"	v	file:
+w_opt	test_addstr.c	/^static bool w_opt = FALSE;$/;"	v	file:
+w_opt	test_addwstr.c	/^static bool w_opt = FALSE;$/;"	v	file:
+wait_a_while	ncurses.c	/^wait_a_while(int msec GCC_UNUSED)$/;"	f	file:
+waiting	view.c	/^static bool waiting = FALSE;$/;"	v	file:
+wcstos	ncurses.c	/^wcstos(const wchar_t *src)$/;"	f	file:
+wget_wch_test	ncurses.c	/^wget_wch_test(unsigned level, WINDOW *win, int delay)$/;"	f	file:
+wgetch_help	ncurses.c	/^wgetch_help(WINDOW *win, GetchFlags flags)$/;"	f	file:
+wgetch_test	ncurses.c	/^wgetch_test(unsigned level, WINDOW *win, int delay)$/;"	f	file:
+wgetch_wrap	ncurses.c	/^wgetch_wrap(WINDOW *win, int first_y)$/;"	f	file:
+which1	ditto.c	/^    int which1;			\/* this screen's index in DITTO[] array *\/$/;"	m	struct:__anon12	file:
+which_panel	demo_panels.c	/^which_panel(PANEL * px[MAX_PANELS + 1], PANEL * pan)$/;"	f	file:
+wide_acs_display	ncurses.c	/^wide_acs_display(void)$/;"	f	file:
+wide_adjust_attr_string	ncurses.c	/^wide_adjust_attr_string(int adjust)$/;"	f	file:
+wide_attr_getc	ncurses.c	/^wide_attr_getc(int *skip,$/;"	f	file:
+wide_attr_test	ncurses.c	/^wide_attr_test(void)$/;"	f	file:
+wide_attr_test_string	ncurses.c	/^static wchar_t wide_attr_test_string[MAX_ATTRSTRING + 1];$/;"	v	file:
+wide_color_test	ncurses.c	/^wide_color_test(void)$/;"	f	file:
+wide_init_attr_string	ncurses.c	/^wide_init_attr_string(void)$/;"	f	file:
+wide_show_attr	ncurses.c	/^wide_show_attr(WINDOW *win,$/;"	f	file:
+wide_slk_test	ncurses.c	/^wide_slk_test(void)$/;"	f	file:
+width	testcurs.c	/^static int width, height;$/;"	v	file:
+window2num	movewindow.c	/^window2num(WINDOW *win)$/;"	f	file:
+windows	ditto.c	/^    WINDOW **windows;		\/* display data from each screen *\/$/;"	m	struct:__anon12	file:
+winstack	ncurses.c	/^static WINSTACK *winstack = 0;$/;"	v	file:
+wipeit	railroad.c	/^static char *wipeit;$/;"	v	file:
+worm	worm.c	/^static WORM worm[MAX_WORMS];$/;"	v	file:
+worm	worm.c	/^typedef struct worm {$/;"	s	file:
+wrapper	demo_panels.c	/^#define wrapper(/;"	d	file:
+write_data	cardfile.c	/^write_data(const char *fname)$/;"	f	file:
+write_screen	ditto.c	/^write_screen($/;"	f	file:
+wsyncdown	test.priv.h	/^#define wsyncdown(/;"	d
+x	bs.c	/^    int x, y;			\/* coordinates of ship start point *\/$/;"	m	struct:__anon1	file:
+x	knight.c	/^    int x;$/;"	m	struct:__anon21	file:
+x	knight.c	/^    short x, y;$/;"	m	struct:__anon20	file:
+x	lrtest.c	/^    int y, x, mode, dir, inc;$/;"	m	struct:__anon22	file:
+x	movewindow.c	/^    int y, x;$/;"	m	struct:__anon23	file:
+x	ncurses.c	/^    int y, x;$/;"	m	struct:__anon28	file:
+x	rain.c	/^    int y, x;$/;"	m	struct:DATA	file:
+x_beg	chgat.c	/^    int y_beg, x_beg;$/;"	m	struct:__anon3	file:
+x_beg	clip_printw.c	/^    int y_beg, x_beg;$/;"	m	struct:__anon4	file:
+x_beg	insdelln.c	/^    int y_beg, x_beg;$/;"	m	struct:__anon18	file:
+x_max	chgat.c	/^    int y_max, x_max;$/;"	m	struct:__anon3	file:
+x_max	clip_printw.c	/^    int y_max, x_max;$/;"	m	struct:__anon4	file:
+x_max	insdelln.c	/^    int y_max, x_max;$/;"	m	struct:__anon18	file:
+x_opt	demo_termcap.c	/^static bool x_opt = FALSE;$/;"	v	file:
+x_opt	demo_terminfo.c	/^static bool x_opt = FALSE;$/;"	v	file:
+x_pos	xmas.c	/^static int y_pos, x_pos;$/;"	v	file:
+x_val	chgat.c	/^    int x_val;$/;"	m	struct:__anon3	file:
+x_val	clip_printw.c	/^    int x_val;$/;"	m	struct:__anon4	file:
+x_val	insdelln.c	/^    int x_val;$/;"	m	struct:__anon18	file:
+xinc	worm.c	/^static const int xinc[] =$/;"	v	file:
+xincr	bs.c	/^static int xincr[8] =$/;"	v	file:
+xpos	worm.c	/^    int *xpos;$/;"	m	struct:worm	file:
+y	bs.c	/^    int x, y;			\/* coordinates of ship start point *\/$/;"	m	struct:__anon1	file:
+y	knight.c	/^    int y;$/;"	m	struct:__anon21	file:
+y	knight.c	/^    short x, y;$/;"	m	struct:__anon20	file:
+y	lrtest.c	/^    int y, x, mode, dir, inc;$/;"	m	struct:__anon22	file:
+y	movewindow.c	/^    int y, x;$/;"	m	struct:__anon23	file:
+y	ncurses.c	/^    int y, x;$/;"	m	struct:__anon28	file:
+y	rain.c	/^    int y, x;$/;"	m	struct:DATA	file:
+y_beg	chgat.c	/^    int y_beg, x_beg;$/;"	m	struct:__anon3	file:
+y_beg	clip_printw.c	/^    int y_beg, x_beg;$/;"	m	struct:__anon4	file:
+y_beg	insdelln.c	/^    int y_beg, x_beg;$/;"	m	struct:__anon18	file:
+y_max	chgat.c	/^    int y_max, x_max;$/;"	m	struct:__anon3	file:
+y_max	clip_printw.c	/^    int y_max, x_max;$/;"	m	struct:__anon4	file:
+y_max	insdelln.c	/^    int y_max, x_max;$/;"	m	struct:__anon18	file:
+y_opt	demo_termcap.c	/^static bool y_opt = FALSE;$/;"	v	file:
+y_opt	demo_terminfo.c	/^static bool y_opt = FALSE;$/;"	v	file:
+y_pos	xmas.c	/^static int y_pos, x_pos;$/;"	v	file:
+y_val	chgat.c	/^    int y_val;$/;"	m	struct:__anon3	file:
+y_val	clip_printw.c	/^    int y_val;$/;"	m	struct:__anon4	file:
+y_val	insdelln.c	/^    int y_val;$/;"	m	struct:__anon18	file:
+yinc	worm.c	/^}, yinc[] =$/;"	v	file:
+yincr	bs.c	/^static int yincr[8] =$/;"	v	file:
+your_name	bs.c	/^static char *your_name;$/;"	v	file:
+ypos	worm.c	/^    int *ypos;$/;"	m	struct:worm	file:

@@ -1,0 +1,35 @@
+# Path: jump
+# Arch: x86_64
+# Object files:
+[  0] linker synthesized
+[  1] jump.o
+[  2] /usr/lib/libSystem.dylib
+# Sections:
+# Address	Size    	Segment	Section
+0x100000EAD	0x00000035	__TEXT	__text
+0x100000EE2	0x0000003C	__TEXT	__text_startup
+0x100000F1E	0x00000006	__TEXT	__stubs
+0x100000F24	0x0000001A	__TEXT	__stub_helper
+0x100000F40	0x00000033	__TEXT	__cstring
+0x100000F73	0x00000005	__TEXT	__const
+0x100000F78	0x00000088	__TEXT	__eh_frame
+0x100001000	0x00000010	__DATA	__nl_symbol_ptr
+0x100001010	0x00000008	__DATA	__la_symbol_ptr
+# Symbols:
+# Address	Size    	File  Name
+0x100000EAD	0x00000019	[  1] _sum_of_squares
+0x100000EC6	0x0000001C	[  1] _sum_of_squares_fast
+0x100000EE2	0x0000003C	[  1] _main
+0x100000F1E	0x00000006	[  2] ___assert_rtn
+0x100000F24	0x00000010	[  0] helper helper
+0x100000F34	0x0000000A	[  2] ___assert_rtn
+0x100000F40	0x0000002C	[  1] literal string: sum_of_squares(5) == sum_of_squares_fast(5)
+0x100000F6C	0x00000007	[  1] literal string: jump.c
+0x100000F73	0x00000005	[  1] ___func__.1790
+0x100000F78	0x00000018	[  1] CIE
+0x100000F90	0x00000020	[  1] FDE for: _sum_of_squares
+0x100000FB0	0x00000020	[  1] FDE for: _sum_of_squares_fast
+0x100000FD0	0x00000030	[  1] FDE for: _main
+0x100001000	0x00000008	[  0] non-lazy-pointer-to-local: dyld_stub_binder
+0x100001008	0x00000008	[  0] non-lazy-pointer
+0x100001010	0x00000008	[  2] ___assert_rtn

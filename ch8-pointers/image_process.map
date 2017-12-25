@@ -1,0 +1,40 @@
+# Path: image_process
+# Arch: x86_64
+# Object files:
+[  0] linker synthesized
+[  1] img_process.o
+[  2] /usr/lib/libSystem.dylib
+# Sections:
+# Address	Size    	Segment	Section
+0x100000C3A	0x00000262	__TEXT	__text
+0x100000E9C	0x0000000C	__TEXT	__stubs
+0x100000EA8	0x00000024	__TEXT	__stub_helper
+0x100000ECC	0x00000004	__TEXT	__cstring
+0x100000ED0	0x00000130	__TEXT	__eh_frame
+0x100001000	0x00000010	__DATA	__nl_symbol_ptr
+0x100001010	0x00000010	__DATA	__la_symbol_ptr
+0x100001020	0x00000024	__DATA	__data
+# Symbols:
+# Address	Size    	File  Name
+0x100000C3A	0x0000002D	[  1] _swap
+0x100000C67	0x000000BD	[  1] _horiz_flip
+0x100000D24	0x000000B6	[  1] _transpose
+0x100000DDA	0x0000008C	[  1] _print_image
+0x100000E66	0x00000036	[  1] _main
+0x100000E9C	0x00000006	[  2] _printf
+0x100000EA2	0x00000006	[  2] _putchar
+0x100000EA8	0x00000010	[  0] helper helper
+0x100000EB8	0x0000000A	[  2] _printf
+0x100000EC2	0x0000000A	[  2] _putchar
+0x100000ECC	0x00000004	[  1] literal string: %2d
+0x100000ED0	0x00000018	[  1] CIE
+0x100000EE8	0x00000038	[  1] FDE for: _swap
+0x100000F20	0x00000038	[  1] FDE for: _horiz_flip
+0x100000F58	0x00000038	[  1] FDE for: _transpose
+0x100000F90	0x00000038	[  1] FDE for: _print_image
+0x100000FC8	0x00000038	[  1] FDE for: _main
+0x100001000	0x00000008	[  0] non-lazy-pointer-to-local: dyld_stub_binder
+0x100001008	0x00000008	[  0] non-lazy-pointer
+0x100001010	0x00000008	[  2] _printf
+0x100001018	0x00000008	[  2] _putchar
+0x100001020	0x00000024	[  1] _image

@@ -1,0 +1,31 @@
+go:
+(__TEXT,__text) section
+_add:
+0000000100000e5d	pushq	%rbp
+0000000100000e5e	movq	%rsp, %rbp
+0000000100000e61	movl	%edi, -0x4(%rbp)
+0000000100000e64	movl	%esi, -0x8(%rbp)
+0000000100000e67	movl	%edx, -0xc(%rbp)
+0000000100000e6a	movl	-0x4(%rbp), %edx
+0000000100000e6d	movl	-0x8(%rbp), %eax
+0000000100000e70	addl	%eax, %edx
+0000000100000e72	movl	-0xc(%rbp), %eax
+0000000100000e75	addl	%edx, %eax
+0000000100000e77	popq	%rbp
+0000000100000e78	retq
+_passme:
+0000000100000e79	pushq	%rbp
+0000000100000e7a	movq	%rsp, %rbp
+0000000100000e7d	movl	%edi, -0x4(%rbp)
+0000000100000e80	movl	-0x4(%rbp), %eax
+0000000100000e83	popq	%rbp
+0000000100000e84	retq
+
+//--------------------------------------------------------
+_add:
+0000000100000f79	addl	%esi, %edi
+0000000100000f7b	leal	(%rdi,%rdx), %eax
+0000000100000f7e	retq
+_passme:
+0000000100000f7f	movl	%edi, %eax
+0000000100000f81	retq

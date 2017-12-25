@@ -1,0 +1,66 @@
+# Path: pair
+# Arch: x86_64
+# Object files:
+[  0] linker synthesized
+[  1] paired_parenthesis.o
+[  2] stack.o
+[  3] /usr/lib/libSystem.dylib
+# Sections:
+# Address	Size    	Segment	Section
+0x100000A11	0x000002ED	__TEXT	__text
+0x100000CFE	0x00000012	__TEXT	__stubs
+0x100000D10	0x0000002E	__TEXT	__stub_helper
+0x100000D40	0x000000A0	__TEXT	__cstring
+0x100000DE0	0x00000021	__TEXT	__const
+0x100000E08	0x000001F0	__TEXT	__eh_frame
+0x100001000	0x00000010	__DATA	__nl_symbol_ptr
+0x100001010	0x00000018	__DATA	__la_symbol_ptr
+0x100001028	0x00000004	__DATA	__pu_bss2
+0x100001040	0x00000190	__DATA	__common
+# Symbols:
+# Address	Size    	File  Name
+0x100000A11	0x000000CB	[  1] _paired_parentheses
+0x100000ADC	0x0000007C	[  1] _paired_parentheses_switch
+0x100000B58	0x000000C6	[  1] _main
+0x100000C1E	0x00000011	[  2] _make_empty
+0x100000C2F	0x00000011	[  2] _is_empty
+0x100000C40	0x00000012	[  2] _is_full
+0x100000C52	0x00000058	[  2] _push
+0x100000CAA	0x00000054	[  2] _pop
+0x100000CFE	0x00000006	[  3] ___assert_rtn
+0x100000D04	0x00000006	[  3] _err
+0x100000D0A	0x00000006	[  3] _strlen
+0x100000D10	0x00000010	[  0] helper helper
+0x100000D20	0x0000000A	[  3] ___assert_rtn
+0x100000D2A	0x0000000A	[  3] _err
+0x100000D34	0x0000000A	[  3] _strlen
+0x100000D40	0x0000001B	[  1] literal string: a[i] == '(' || a[i] == ')'
+0x100000D5B	0x00000015	[  1] literal string: paired_parenthesis.c
+0x100000D70	0x00000010	[  1] literal string: bad characters.
+0x100000D80	0x0000001A	[  1] literal string: paired_parentheses(a, sz)
+0x100000D9C	0x00000001	[  1] literal string: 
+0x100000DA0	0x00000021	[  1] literal string: paired_parentheses_switch(a, sz)
+0x100000DC1	0x0000000B	[  2] literal string: !is_full()
+0x100000DCC	0x00000008	[  2] literal string: stack.c
+0x100000DD4	0x0000000C	[  2] literal string: !is_empty()
+0x100000DE0	0x00000013	[  1] ___func__.2440
+0x100000DF3	0x00000005	[  1] ___func__.2462
+0x100000DF8	0x00000005	[  2] ___func__.1791
+0x100000DFD	0x00000004	[  2] ___func__.1795
+0x100000E08	0x00000018	[  1] CIE
+0x100000E20	0x00000038	[  1] FDE for: _paired_parentheses
+0x100000E58	0x00000038	[  1] FDE for: _paired_parentheses_switch
+0x100000E90	0x00000038	[  1] FDE for: _main
+0x100000EC8	0x00000018	[  2] CIE
+0x100000EE0	0x00000038	[  2] FDE for: _make_empty
+0x100000F18	0x00000038	[  2] FDE for: _is_empty
+0x100000F50	0x00000038	[  2] FDE for: _is_full
+0x100000F88	0x00000038	[  2] FDE for: _push
+0x100000FC0	0x00000038	[  2] FDE for: _pop
+0x100001000	0x00000008	[  0] non-lazy-pointer-to-local: dyld_stub_binder
+0x100001008	0x00000008	[  0] non-lazy-pointer
+0x100001010	0x00000008	[  3] ___assert_rtn
+0x100001018	0x00000008	[  3] _err
+0x100001020	0x00000008	[  3] _strlen
+0x100001028	0x00000004	[  2] _top
+0x100001040	0x00000190	[  2] _contents
