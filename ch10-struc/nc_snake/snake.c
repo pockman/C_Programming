@@ -61,7 +61,7 @@ ptr_node_t get_front_node(ptr_node_t head) {
   return head->next;
 }
 
-ptr_node_t _move(ptr_node_t head, bool with_food, move_action_t action) {
+ptr_node_t snake_move(ptr_node_t head, bool with_food, move_action_t action) {
   ptr_node_t n = create_node();
   *n = *get_front_node(head);
 
@@ -78,22 +78,22 @@ ptr_node_t _move(ptr_node_t head, bool with_food, move_action_t action) {
 
 
 ptr_node_t move_up(ptr_node_t head, bool with_food) {
-  return  _move(head, with_food, UP);
+  return  snake_move(head, with_food, UP);
 }
 
 ptr_node_t move_down(ptr_node_t head, bool with_food) {
-  return  _move(head, with_food, DOWN);
+  return  snake_move(head, with_food, DOWN);
 }
 
 
 
 ptr_node_t move_left(ptr_node_t head, bool with_food) {
-  return  _move(head, with_food, LEFT);
+  return  snake_move(head, with_food, LEFT);
 
 }
 
 ptr_node_t move_right(ptr_node_t head, bool with_food) {
-  return  _move(head, with_food, RIGHT);
+  return  snake_move(head, with_food, RIGHT);
 
 }
 

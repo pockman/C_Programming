@@ -33,7 +33,7 @@ ptr_node_t move_up(ptr_node_t head, bool with_food);
 ptr_node_t move_down(ptr_node_t head, bool with_food);
 ptr_node_t move_left(ptr_node_t head, bool with_food);
 ptr_node_t move_right(ptr_node_t head, bool with_food);
-ptr_node_t _move(ptr_node_t head, bool with_food, move_action_t action);
+ptr_node_t snake_move(ptr_node_t head, bool with_food, move_action_t action);
 
 ptr_node_t show_snake(ptr_node_t head);
 

@@ -8,7 +8,7 @@ OBJ=$(SRC:.c=.o)
 
 
 $(TARGET): $(OBJ)
-	cc $? -o $@ $(LDFLAGS)
+	cc $^ -o $@ $(LDFLAGS)
 
 clean:
 	rm -fr *.o

@@ -118,7 +118,7 @@ void die(ptr_node_t head) {
 
 }
 
-void snake_move(ptr_node_t head, move_action_t current_direction) {
+void nc_snake_move(ptr_node_t head, move_action_t current_direction) {
 
   bool got_food_ahead = false;
   ptr_node_t neck = get_front_node(head);
@@ -137,7 +137,7 @@ void snake_move(ptr_node_t head, move_action_t current_direction) {
 
   }
 
-  _move(head, got_food_ahead, current_direction);
+  snake_move(head, got_food_ahead, current_direction);
 
 }
 void   nc_draw_food(WINDOW *w, chtype att) {
@@ -184,7 +184,7 @@ void nc_run(WINDOW *w, ptr_node_t head, chtype att) {
         move_right(head, true);
         break;
     }
-    snake_move(head, current_direction);
+    nc_snake_move(head, current_direction);
     wborder(field, '|', '|', '-', '-', '+', '+', '+', '+');
     colored_print(field, -1, -1, "Snake", 4);
     mvwprintw(score, 1, strlen("Points: ") + 1, "%d", points);
@@ -228,8 +228,11 @@ int main(int argc, char *argv[]) {
 
   ptr_node_t snake = init_snake();
 
-  ptr_node_t p = create_node();
-  insert_front(snake, p);
+  insert_front(snake, create_node());
+  move_right(snake, true);
+  move_right(snake, true);
+  move_right(snake, true);
+
   nc_run(field, snake, attr);
   kill_snake(snake);
   //----------------------------------------------------------------------
