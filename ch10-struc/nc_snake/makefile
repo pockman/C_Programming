@@ -8,11 +8,12 @@ OBJ=$(SRC:.c=.o)
 
 
 $(TARGET): $(OBJ)
+	cc $? -o $@ $(LDFLAGS)
 
 clean:
 	rm -fr *.o
-	rm -fr snake
+	rm -fr $(TARGET) 
 
 
 run:
-	./snake
+	./$(TARGET)
