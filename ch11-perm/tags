@@ -1,0 +1,38 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ADD	perm.c	/^typedef enum tag_ops {ADD, SUB, MUL, DIV} ops_t;$/;"	e	enum:tag_ops	file:
+DIV	perm.c	/^typedef enum tag_ops {ADD, SUB, MUL, DIV} ops_t;$/;"	e	enum:tag_ops	file:
+MUL	perm.c	/^typedef enum tag_ops {ADD, SUB, MUL, DIV} ops_t;$/;"	e	enum:tag_ops	file:
+SUB	perm.c	/^typedef enum tag_ops {ADD, SUB, MUL, DIV} ops_t;$/;"	e	enum:tag_ops	file:
+calculate	perm.c	/^bool calculate(ra_num_t a, ra_num_t b, ra_num_t c, ra_num_t d) {$/;"	f
+card_rank	perm.c	/^const int card_rank[] = {0,3,3,8,8};$/;"	v
+ch_operator	perm.c	/^char ch_operator[]={'+', '-', '*', '\/'};$/;"	v
+comb_four_nums	perm.c	/^void comb_four_nums () {$/;"	f
+denom	perm.c	/^  int denom;$/;"	m	struct:tag_ra_num	file:
+gcd	perm.c	/^int gcd (int m, int n) {$/;"	f
+has_same_number	perm.c	/^has_same_number(int a, int b, int c, int d) {$/;"	f
+int_to_rational	perm.c	/^ra_num_t int_to_rational (int a) {$/;"	f
+is_solution	perm.c	/^bool is_solution(ra_num_t a) {$/;"	f
+main	perm.c	/^int main (int argc, char* argv[]) {$/;"	f
+numer	perm.c	/^  int numer;$/;"	m	struct:tag_ra_num	file:
+ops_t	perm.c	/^typedef enum tag_ops {ADD, SUB, MUL, DIV} ops_t;$/;"	t	typeref:enum:tag_ops	file:
+perm_four_nums	perm.c	/^void perm_four_nums () {$/;"	f
+permute	perm.c	/^void permute(int a[], int i, size_t n) {$/;"	f
+process	perm.c	/^void process(int a[], size_t sz) {$/;"	f
+ptr_operator_t	perm.c	/^typedef ra_num_t (*ptr_operator_t) (ra_num_t a, ra_num_t b);$/;"	t	file:
+ra_num_t	perm.c	/^} ra_num_t;$/;"	t	typeref:struct:tag_ra_num	file:
+ra_ops	perm.c	/^ptr_operator_t ra_ops[] = {radd, rsub, rmul, rdiv};$/;"	v
+radd	perm.c	/^ra_num_t radd (ra_num_t a, ra_num_t b) {$/;"	f
+rdiv	perm.c	/^ra_num_t rdiv (ra_num_t a, ra_num_t b) {$/;"	f
+reciprocal	perm.c	/^ra_num_t reciprocal(ra_num_t a) {$/;"	f
+rmul	perm.c	/^ra_num_t rmul (ra_num_t a, ra_num_t b) {$/;"	f
+rprint	perm.c	/^void rprint(ra_num_t a) {$/;"	f
+rsub	perm.c	/^ra_num_t rsub (ra_num_t a, ra_num_t b) {$/;"	f
+strict_ascend_sequence	perm.c	/^bool strict_ascend_sequence(int i ,int j, int k, int l) {$/;"	f
+swap	perm.c	/^void swap (int a[], int i, int j) {$/;"	f
+tag_ops	perm.c	/^typedef enum tag_ops {ADD, SUB, MUL, DIV} ops_t;$/;"	g	file:
+tag_ra_num	perm.c	/^typedef struct tag_ra_num  {$/;"	s	file:

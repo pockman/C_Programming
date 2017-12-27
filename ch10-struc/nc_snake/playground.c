@@ -13,7 +13,7 @@
 
 #define X_OFF (COLS/2)
 #define Y_OFF (ROWS/2)
-#define DELAY (30000)
+#define DELAY (300000)
 
 int points = 1000;
 location_t food = {0, 0};
